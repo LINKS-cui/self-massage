@@ -2,7 +2,8 @@
 
 一本可以慢慢翻的身体练习册：135 张动作卡片，按部位查找，逐步查看手型、接触位置和移动方向。
 
-- 国内在线体验：[aihrzs.top/self-massage](https://aihrzs.top/self-massage/)
+- 在线体验：[massage.aihrzs.top](https://massage.aihrzs.top/)（EdgeOne，包含中国大陆的加速区域）
+- 原有国内入口：[aihrzs.top/self-massage](https://aihrzs.top/self-massage/)
 - 备用在线体验：[GitHub Pages](https://links-cui.github.io/self-massage/)（部分国内网络访问较慢，可能出现图片加载不全）
 - 原始素材：[教材动作素材 · 135 项完整图文](教材动作素材.md)；七批拆解合并为一份 Markdown，附教材原图、编号对应和中英文步骤，可用于制作自己的网站。
 - 功能：六组身体部位、编号目录、搜索、收藏、随机抽卡、人物步骤图、点位总览、分解姿势、放大与自动翻页、图例和方位教程。
@@ -54,6 +55,7 @@ npm run test:browser
 | `public/fonts/` | ZCOOL KuaiLe 字体与 OFL 许可 |
 | `assets-manifest.json` | 素材路径、大小、SHA-256 与许可 |
 | `.github/workflows/pages.yml` | 推送 main 后构建并部署 Pages |
+| `DEPLOYMENT.md` | EdgeOne 主站与备用入口的部署、更新说明 |
 | `教材动作素材.md` | 七批拆解整理后的 135 项动作，含目录与中英文步骤 |
 | `materials/textbook/` | 文档引用的教材动作裁图、整页原图及补充参考图 |
 
@@ -67,9 +69,9 @@ npm run test:browser
 2. 向 `main` 推送代码，或者在 Actions 中手动运行 **Build and deploy GitHub Pages**。
 3. 部署成功后访问 `https://<你的用户名>.github.io/<仓库名>/`。
 
-`base: './'` 与 hash 路由使构建产物可放在域名根目录或子目录。部署时应上传完整的 `dist/`。项目不配置自定义域名，不会接管账号已有的 GitHub Pages 根站点。
+`base: './'` 与 hash 路由使构建产物可放在域名根目录或子目录。部署时应上传完整的 `dist/`。GitHub Pages 备用站不配置自定义域名；`massage.aihrzs.top` 独立绑定在 EdgeOne 上。
 
-GitHub Pages 的网络可达性取决于地区和运营商，不能把部署成功等同于中国大陆所有网络均可稳定直连。国内入口独立于此仓库的 Pages 工作流。
+GitHub Pages 的网络可达性取决于地区和运营商，不能把部署成功等同于中国大陆所有网络均可稳定直连。EdgeOne 主站当前采用直接上传部署，推送 GitHub 不会自动更新它；更新步骤见 [部署说明](DEPLOYMENT.md)。
 
 ## 图文与内容状态
 
