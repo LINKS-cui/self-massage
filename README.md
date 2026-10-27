@@ -2,8 +2,8 @@
 
 一本可以慢慢翻的身体练习册：135 张动作卡片，按部位查找，逐步查看手型、接触位置和移动方向。
 
-- 在线体验：[GitHub Pages](https://links-cui.github.io/self-massage/)
-- 国内访问入口：[aihrzs.top/self-massage](https://aihrzs.top/self-massage/)
+- 国内在线体验：[aihrzs.top/self-massage](https://aihrzs.top/self-massage/)
+- 备用在线体验：[GitHub Pages](https://links-cui.github.io/self-massage/)（部分国内网络访问较慢，可能出现图片加载不全）
 - 原始素材：[教材动作素材 · 135 项完整图文](教材动作素材.md)；七批拆解合并为一份 Markdown，附教材原图、编号对应和中英文步骤，可用于制作自己的网站。
 - 功能：六组身体部位、编号目录、搜索、收藏、随机抽卡、人物步骤图、点位总览、分解姿势、放大与自动翻页、图例和方位教程。
 - 技术：React + TypeScript + Vite，纯静态页面；无需 API key、数据库或服务端。图片与字体随站点提供，浏览页面不请求外部字体/CDN。
