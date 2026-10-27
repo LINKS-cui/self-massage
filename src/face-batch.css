@@ -1,0 +1,7 @@
+.sheet-crop{position:relative;width:100%;height:100%;overflow:hidden;isolation:isolate;background:#fffaf0}
+.sheet-crop>img{position:absolute;width:200%;height:200%;max-width:none;object-fit:fill;display:block}
+.image-stage>.sheet-crop{position:absolute;inset:0}
+.art.single>.sheet-crop{position:absolute;inset:auto 0 auto;top:50%;width:100%;height:auto;aspect-ratio:1;translate:0 -50%}
+.face-batch-overlay text{paint-order:stroke;stroke:#fffaf0;stroke-width:1px}
+.face-batch-overlay .face-label text{stroke:none}
+.point-legend i.return{background:transparent;border-color:#403b33;border-style:dashed;box-shadow:none}

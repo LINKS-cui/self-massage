@@ -1,0 +1,5 @@
+.hand-batch-overlay{pointer-events:none}
+.hand-batch-overlay .hand-tag text{font-family:inherit}
+.image-stage[data-hand-batch="true"]{background:#fffaf0;overflow:hidden}
+.image-stage[data-hand-batch="true"]>.sheet-crop{clip-path:inset(0 0 3% 0)}
+@media(max-width:480px){.image-player:has(.hand-batch-overlay) .image-phase-tabs{gap:4px}.image-player:has(.hand-batch-overlay) .image-phase-tabs button{padding:9px 2px;font-size:12px}}

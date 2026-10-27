@@ -1,0 +1,14 @@
+.b-repair-overlay text{font-family:'PingFang SC','Songti SC',sans-serif}
+.image-stage:has(img:is([src*="/sm081/"],[src*="/sm082/"],[src*="/sm083/"],[src*="/sm085/"],[src*="/sm088/"],[src*="/sm090/"],[src*="/sm091/"],[src*="/sm096/"],[src*="/sm097/"],[src*="/sm102/"],[src*="/sm104/"],[src*="/sm106/"],[src*="/sm107/"]))>.sheet-crop,.image-stage:has(img:is([src*="/sm081/"],[src*="/sm082/"],[src*="/sm083/"],[src*="/sm085/"],[src*="/sm088/"],[src*="/sm090/"],[src*="/sm091/"],[src*="/sm096/"],[src*="/sm097/"],[src*="/sm102/"],[src*="/sm104/"],[src*="/sm106/"],[src*="/sm107/"]))>img{scale:.82;transform-origin:center}
+.image-stage:has(img:is([src*="/sm081/"],[src*="/sm082/"],[src*="/sm083/"],[src*="/sm085/"],[src*="/sm088/"],[src*="/sm090/"],[src*="/sm091/"],[src*="/sm096/"],[src*="/sm097/"],[src*="/sm102/"],[src*="/sm104/"],[src*="/sm106/"],[src*="/sm107/"]))>:is(.sheet-crop,img):not([data-flip-x="true"]){transform:none!important}
+.image-stage:has(img:is([src*="/sm081/"],[src*="/sm082/"],[src*="/sm083/"],[src*="/sm085/"],[src*="/sm088/"],[src*="/sm090/"],[src*="/sm091/"],[src*="/sm096/"],[src*="/sm097/"],[src*="/sm102/"],[src*="/sm104/"],[src*="/sm106/"],[src*="/sm107/"]))>:is(.sheet-crop,img)[data-flip-x="true"]{transform:scaleX(-1)!important}
+.image-player:has(.b-repair-overlay) .image-phase-tabs{grid-template-columns:repeat(5,minmax(0,1fr))!important}
+@media(max-width:600px){.image-player:has(.b-repair-overlay) .image-phase-tabs{grid-template-columns:repeat(3,minmax(0,1fr))!important}}
+/* Display-only cropping for generated atlases whose row divider is not at 50%. */
+.sheet-crop:is([data-tile="0"],[data-tile="1"]):has(>img[src*="toe-repair-v2.png"]){clip-path:inset(0 0 9.3% 0)}
+.sheet-crop:is([data-tile="2"],[data-tile="3"])>img[src*="toe-repair-v2.png"]{top:-90.7%!important}
+.sheet-crop:is([data-tile="0"],[data-tile="1"]):has(>img[src*="lateral-repair-v3.png"]){clip-path:inset(0 0 13.5% 0)}
+.sheet-crop:is([data-tile="2"],[data-tile="3"])>img[src*="lateral-repair-v3.png"]{top:-86.5%!important}
+
+.sheet-crop:is([data-tile="0"],[data-tile="1"]):has(>img[src*="posture-repair-v3.png"]){clip-path:inset(0 0 5.2% 0)}
+.sheet-crop:is([data-tile="2"],[data-tile="3"])>img[src*="posture-repair-v3.png"]{top:-94.8%!important}

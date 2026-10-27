@@ -1,0 +1,1428 @@
+{
+  "schemaVersion": 1,
+  "exerciseCount": 135,
+  "files": [
+    {
+      "path": "favicon.svg",
+      "bytes": 262,
+      "sha256": "555fd886d4bc820f62ba338c9832c24d7e33d7120aa6145bf12f237950fb483e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "bytes": 4398,
+      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
+      "license": "OFL-1.1"
+    },
+    {
+      "path": "fonts/ZCOOLKuaiLe-Regular.ttf",
+      "bytes": 1514968,
+      "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+      "license": "OFL-1.1"
+    },
+    {
+      "path": "illustrations/sm001/01-warm.png",
+      "bytes": 2315045,
+      "sha256": "45dfb7d452b0ab1b65a2ab9bd910a3550406150a1bb527f0b7729e81521cbfe0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm001/02-cover-four-together-v3.png",
+      "bytes": 2133596,
+      "sha256": "3697c49c7d35e2a6d71656ddf2585133806e3f42f716af478870691b95604890",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm001/03-stroke-v2.png",
+      "bytes": 2086744,
+      "sha256": "49c10f8849ffe8855a917fd761644addbb90271244dab979187236480de99b83",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm001/04-map.png",
+      "bytes": 2144508,
+      "sha256": "900875c6cd3b71916b1d50eb350dbc84b45a8fee6101cb5624a104ec331ecc8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm002/01-upper-v2.png",
+      "bytes": 2321336,
+      "sha256": "695bc5f8ae8e5ac8823b01e4d49fa288dc681ce486e06a09e71bf7b58e088184",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm002/02-lower.png",
+      "bytes": 2217097,
+      "sha256": "397be25f9650bd471fa397dd0058916474badda0a2d26dec59ae3f697718b07c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm002/03-map.png",
+      "bytes": 2144508,
+      "sha256": "900875c6cd3b71916b1d50eb350dbc84b45a8fee6101cb5624a104ec331ecc8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm003/01-left.png",
+      "bytes": 2426972,
+      "sha256": "9e24685c297df8a065aa2781932afab11fcb2e72eb939e4c714c4912c571537f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm003/02-right.png",
+      "bytes": 2458217,
+      "sha256": "6edeff16785fb7b25e47733fa8449b2b2d23545090a7eb7dbe3e96901db67cb5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm003/03-up.png",
+      "bytes": 2599027,
+      "sha256": "ec4bb9b672279ef6b5fa522bfe31d0bdc9d352329aeed17d228f6d7dcbce6c7b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm003/04-down.png",
+      "bytes": 2514627,
+      "sha256": "9bd69f5ea938fd8336d7f71f63fe7387bc94464729cb32dc859e0af427f1ca14",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm004/01-neutral.png",
+      "bytes": 2631088,
+      "sha256": "54e2dd582d32dcd71a0956c102af6bf0403ba3568735feb1f520be3b876ab027",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm005/01-wide.png",
+      "bytes": 2643090,
+      "sha256": "e4907e0b7e33cc0fdc2912506b29ff0c7573bf71bfdd4a5c199ec3a43c4dd51b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm005/02-closed.png",
+      "bytes": 2144508,
+      "sha256": "900875c6cd3b71916b1d50eb350dbc84b45a8fee6101cb5624a104ec331ecc8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm006/01-warm.png",
+      "bytes": 2315045,
+      "sha256": "45dfb7d452b0ab1b65a2ab9bd910a3550406150a1bb527f0b7729e81521cbfe0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm006/02-cover.png",
+      "bytes": 2226525,
+      "sha256": "dcdd987022fbd9281997b7f10b5687aeef8f5327d6081c4df06ab2dc585d9ce4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm006/03-pat.png",
+      "bytes": 2199046,
+      "sha256": "c6ba04dfe3a2cf6c2b30c8d0ff9cf97b0fb589615ea9f18e7b26fa074f53a871",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm006/map.png",
+      "bytes": 2144508,
+      "sha256": "900875c6cd3b71916b1d50eb350dbc84b45a8fee6101cb5624a104ec331ecc8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm007/01-temples.png",
+      "bytes": 2568173,
+      "sha256": "a7e77027f8fcb7df3c43af0733045e6877461b6bf982c3af04cc6ea7463909b7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm007/map.png",
+      "bytes": 2144508,
+      "sha256": "900875c6cd3b71916b1d50eb350dbc84b45a8fee6101cb5624a104ec331ecc8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm008/01-knuckles.png",
+      "bytes": 2365269,
+      "sha256": "6cc0695c1132977e0f82a43f1958fb54f95e0d9c7d65ea3a1f9b7f88ac506c50",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm008/map.png",
+      "bytes": 2144508,
+      "sha256": "900875c6cd3b71916b1d50eb350dbc84b45a8fee6101cb5624a104ec331ecc8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm009/01-knuckles.png",
+      "bytes": 2365269,
+      "sha256": "6cc0695c1132977e0f82a43f1958fb54f95e0d9c7d65ea3a1f9b7f88ac506c50",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm009/map.png",
+      "bytes": 2144508,
+      "sha256": "900875c6cd3b71916b1d50eb350dbc84b45a8fee6101cb5624a104ec331ecc8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm010/01-brows-v3.png",
+      "bytes": 2266832,
+      "sha256": "0690c1163cb072a67b1d3a9063c29792c76042187dc94ddf7cc60fdcee72b8c8",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm010/map.png",
+      "bytes": 2144508,
+      "sha256": "900875c6cd3b71916b1d50eb350dbc84b45a8fee6101cb5624a104ec331ecc8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm011/pose-v1.png",
+      "bytes": 2388762,
+      "sha256": "382342b9b6aeca0753f55549faa9d7737f17c9856295c739cace0a11c4bb7dd5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm012/sheet-v1.png",
+      "bytes": 2145017,
+      "sha256": "15163304b733b9531b80933b7aa2f8cac7f0dac2b21f729c30a4947ebd8790d9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm013/sheet-v1.png",
+      "bytes": 2298767,
+      "sha256": "976e8a2a4b070b5c0fc11f2e23fb233b067acfe081e2d40dd8573c299283b165",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm014/sheet-v1.png",
+      "bytes": 2042982,
+      "sha256": "6542dc75098e4d25a7f6cb9f836a8bbf14bcef903c4febb2a91e07de9f97fdaf",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm015/sheet-v1.png",
+      "bytes": 2183882,
+      "sha256": "60fd0f80a3e5109304b26a5af87e6186d2c35d0c02217a878692551ee489126c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm016/sheet-v1.png",
+      "bytes": 2263272,
+      "sha256": "bab75a1e1e626814554e63df868b819b3592c6a262789a5ea4750de7c9fe4c81",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm017/pose-v1.png",
+      "bytes": 2157212,
+      "sha256": "d0c4087b3f3c1f7a0019b4eafe09a60cf7ea1f8f056dbbb4e4e04b4bba0ab089",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm018/sheet-v1.png",
+      "bytes": 2238211,
+      "sha256": "fd5b4d7875f2c970655412013943a43e47585dc92e98fc254adcc5d4cb65efe9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm019/sheet-v1.png",
+      "bytes": 2234306,
+      "sha256": "b34a93f1d2c2eddd9f48c787d322f97fb052113d20eac07996a6461b79d41030",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm020/sheet-v1.png",
+      "bytes": 2181735,
+      "sha256": "b2fa202c2be7b0a986ef4c3a4715bb0f96e4c48517e50e0f164116a8c65c3c07",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm021/atlas.png",
+      "bytes": 2341783,
+      "sha256": "06808182bb2659bc791fe7d6a1c71c4ae66d84a2b6c9c1fc2be687502af20541",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm022/atlas.png",
+      "bytes": 2200840,
+      "sha256": "aaee8644491a1edbf4f6bfa97f205d536ea3de83ca6009bfdca04d11f872c011",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm023/atlas.png",
+      "bytes": 2181268,
+      "sha256": "a5e25c5cb4e9291214d00246d44fcfa2e887ab318d2a9b1e6acd7e7b77a1aa45",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm024/atlas.png",
+      "bytes": 2151938,
+      "sha256": "cf88f31f897287844e3fcfb2d65d6cfdb2d509a2065db6074d6af0a73c1a16f4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm025/atlas.png",
+      "bytes": 2170546,
+      "sha256": "4f3e293d4932cf976169ec4d0f3b5d107a120d1deb2aba14f62e00f3251fd4be",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm026/atlas.png",
+      "bytes": 2234661,
+      "sha256": "20ec2adf199a512ab611adef251097080dfdfe9dc2ac52683b9274fa112ef094",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm027/atlas.png",
+      "bytes": 2343853,
+      "sha256": "0fb9a88f3adc0afb408bb012df42010e55ced13dee44f08f06b79a39198f04da",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm028/atlas.png",
+      "bytes": 2289154,
+      "sha256": "6a2e26c8194dadc46881c7c8a19fe32ad5b0c64a6ebf960ed40d0fd85e5feec2",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm029/atlas.png",
+      "bytes": 2487936,
+      "sha256": "3d8e870d9f59ac780edd916da81f4d3f699ad6419d833bd4ea57d43e62142e14",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm030/atlas.png",
+      "bytes": 2258225,
+      "sha256": "aa8b262a024517500273f13d0733f4101cd68f332726213e6a207cebaf9c72c0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm031/sheet-v1.png",
+      "bytes": 2604194,
+      "sha256": "ecb2cd7dc1592d4dc2ba72035dd4ddaf20bb704f8197e153f453f33f8d99a343",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm032/sheet-v1.png",
+      "bytes": 2707600,
+      "sha256": "3ac8323cbe8c01cafeff73448a1da5c0069963fa13b5231c45553508880d177b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm033/sheet-v1.png",
+      "bytes": 2731517,
+      "sha256": "05a166b97b79c5ed1d43e60eae8c229876a190326b38233c759f8c9878e1a59b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm034/sheet-v1.png",
+      "bytes": 2484396,
+      "sha256": "b8cd1668c5e2a6c55c2714057fc5e8d78c7b9aac52131f5fc924ba0b9af58279",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm035/sheet-v2.png",
+      "bytes": 2322676,
+      "sha256": "70a082a6814abc997aa33a4fd64762e929bb2346f84dbdf210018350fddc750b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm036/sheet-v1.png",
+      "bytes": 2555456,
+      "sha256": "fb22d8419a6867be9cd21471399ecfbff0e2464295a1044eb11eae0d78bc334c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm037/sheet-v1.png",
+      "bytes": 2474921,
+      "sha256": "9838ad320c9910bd9cea480a14b6d387642d686d24c60403810f268f47fa7e78",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm038/sheet-v1.png",
+      "bytes": 2609029,
+      "sha256": "1963c3633f668cd286fb5eb2526234ba3a67fab8c09d9f95b9ce19d3b7695794",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm039/sheet-v1.png",
+      "bytes": 2675556,
+      "sha256": "925a50152c164c7bceb11763c735372d1a0480a9d00ef147ea1e9435b6654f03",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm040/sheet-v1.png",
+      "bytes": 2657405,
+      "sha256": "662fa2901d5bd9ac95c1f8b670a96686c67c2065d6898d00c370dd4122fdbd3b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm041/sheet-v1.png",
+      "bytes": 2580186,
+      "sha256": "78532245f7af1368040e0584beb30a88f8b490a02b83838902b952809ab332bf",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm042/sheet-v2.png",
+      "bytes": 2402757,
+      "sha256": "4187526eaa01affc6129e7702f20c774e8fe83e6d8f40f64869a89faa0d76135",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm043/sheet-front-v2.png",
+      "bytes": 2407330,
+      "sha256": "8b25e00690b566fced4502544a43f120410c2f5613327402f9e6c08b0eef7ab4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm044/pose-front-v4.png",
+      "bytes": 2493288,
+      "sha256": "eeb1b323b0323f029ae72dba3af286da7f93936fcf67b19fec0795ef4d4c3ee2",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm044/pose-turn-v4.png",
+      "bytes": 2307416,
+      "sha256": "49ee53752928401eb4e3d24a3086e9d7a0f61f79cc03e04a0b0b876f104301dc",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm045/pose-v3.png",
+      "bytes": 1993763,
+      "sha256": "c95ef35ba97abd1b985abee4fe2bbae8cffc0312e691fe5ec95066b835797309",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm046/sheet-outer-v2.png",
+      "bytes": 2248783,
+      "sha256": "d7c7aced7e711e91daf5418ef68e95c1de5d496492c3e1752f711836c26c86bb",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm047/sheet-v1.png",
+      "bytes": 2297221,
+      "sha256": "bb4bf6c5909e2902aeba066d0eb141f24b62d514806d91fd31dbf635955685a9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm048/pose-v4.png",
+      "bytes": 2275623,
+      "sha256": "0427ae8530e58d830abe23c45ebf606a8855e9adfcdf702f20bfd32c110f8312",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm049/pose-two-arms-v2.png",
+      "bytes": 1925270,
+      "sha256": "661a3cfe60fc0b1f7aa25698f434b0b7fd5b66af168d5eb03ff9dab680e95aa5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm049/sheet-v1.png",
+      "bytes": 2031561,
+      "sha256": "6f1f5f6adbc4a1ddbf43ce728ea5f6b8502f23c418cb8414dfd3e9e8cd3cd42d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm050/contact-repair-v4.png",
+      "bytes": 1830309,
+      "sha256": "4195aba27fb04d86aaadd478403c9670887fc025cfd27c721b6f62cf9d40b8e9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm050/sheet-photo-v3.png",
+      "bytes": 2339922,
+      "sha256": "85ff87d81c27500220ad6f4f50d7ae4f605bd50feef1759a4e168da14991eb12",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm051/palm-contact-v3.png",
+      "bytes": 2546023,
+      "sha256": "2218683514cfff2e5b7c075cf24a710f6beec10b3dc55146b09b4f04833ff363",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm051/palm-map-v3.png",
+      "bytes": 2193200,
+      "sha256": "b6a9d45032a9ca4afb6a228c01915995e6e4e0f8d815d9bde7bfe9f38ef11dd4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm051/palm-release-v3.png",
+      "bytes": 2350783,
+      "sha256": "0dfca099ff38887b81a176fedd079394a47743efbacaa7c50bee1ab901585624",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm052/palm-contact-v3.png",
+      "bytes": 2546023,
+      "sha256": "2218683514cfff2e5b7c075cf24a710f6beec10b3dc55146b09b4f04833ff363",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm052/palm-map-v3.png",
+      "bytes": 2193200,
+      "sha256": "b6a9d45032a9ca4afb6a228c01915995e6e4e0f8d815d9bde7bfe9f38ef11dd4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm052/tip-joint-detail-v6.png",
+      "bytes": 2357898,
+      "sha256": "171c74170a3876e1bba831ba790321ed5c83d97dd4cbc79e2789e03490a7401b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm053/atlas-origin-v3.png",
+      "bytes": 2354124,
+      "sha256": "14e2900e9ded5e94b99a3a5e2f3318424cb227f2f06b5760b63224d8382cdbeb",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm054/atlas-handedness-v2.png",
+      "bytes": 1916197,
+      "sha256": "bb6bc36d578bbff87566185d500ae86b9d6244e64167fbfa8890b9b586198915",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm055/atlas-repair-v3.png",
+      "bytes": 2070141,
+      "sha256": "1f0f7353276a529bb804f5884587e975cbb26677b50c94da9a85eac5cf9010eb",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm056/atlas-origin-v3.png",
+      "bytes": 2439343,
+      "sha256": "7a2fbbde84b48f1bc2e761c303a5030c452c760aa8af01e64f4c83003e023ec9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm056/tip-joint-detail-v6.png",
+      "bytes": 2357898,
+      "sha256": "171c74170a3876e1bba831ba790321ed5c83d97dd4cbc79e2789e03490a7401b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm057/atlas-handedness-v2.png",
+      "bytes": 2135421,
+      "sha256": "db55bea2bdb725d6d53bae3ef786818d8f7c96ef61f810eb47afb9d5bb3a3288",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm057/atlas-repair-v3.png",
+      "bytes": 2055295,
+      "sha256": "00bda5351993f92cc0b23e07f4f791cda3ff3ee98027ab31e41b6533c4556d14",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm058/atlas.png",
+      "bytes": 2224312,
+      "sha256": "97ba62c621247337174e78ee25b19ddf66ea9a848af611ff8226c951618bdbf8",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm059/atlas-handedness-v2.png",
+      "bytes": 2068646,
+      "sha256": "761bbc7d399be8150486bdaf8221b0bc54f286d5c79d71580ae6737d8b3c8b31",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm060/atlas-unified-v5.png",
+      "bytes": 2756430,
+      "sha256": "d99128cc133b57e9d5873b31facaab11025ca33d30e10ec2c5e4e43b18642c10",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm061/sheet-v1.png",
+      "bytes": 2253643,
+      "sha256": "dfbefe9a80e8cb79756023a57b3fe50f4d9fa7ddd541eeca19e8b23199a124d7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm061/spread-photo-v2.png",
+      "bytes": 2558792,
+      "sha256": "669e8e4eba272bb102152c613aea7fc888802784b9d4cfba8d041a17026f1d97",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm062/flat-pov-v3.png",
+      "bytes": 2782815,
+      "sha256": "1d4a37c7e3a307a8e975fb179ab1b40443655aa34af6cab24578d1f1f9ef6017",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm062/up-pov-v3.png",
+      "bytes": 2573710,
+      "sha256": "d969793692be37f8a6ce15d61613b1d2644b0b8595e5b7d87127a871b41d7090",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm063/sheet-v2.png",
+      "bytes": 2094156,
+      "sha256": "1164b502483079f20d5676424f5511a3702d2ef6f2997bd52184524dfd9beb69",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm064/sheet-v2.png",
+      "bytes": 2063560,
+      "sha256": "7eb1c056d175dae2f4e8798ee2a3aa17ba29bca3aad547b6995d4c1b31184ed2",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm065/palmar-band-map-v1.png",
+      "bytes": 2193200,
+      "sha256": "b6a9d45032a9ca4afb6a228c01915995e6e4e0f8d815d9bde7bfe9f38ef11dd4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm065/sheet-v2.png",
+      "bytes": 2136392,
+      "sha256": "ec8251e10852740cd01578831a068c3f5784da618132cb4fdccd0a4e15252cf8",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm065/wrist-width-v5.png",
+      "bytes": 2320623,
+      "sha256": "41bb6f45ac8bea5ece995ccda645769c52810426792109d226d92a62a9db2f22",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm066/sheet-v1.png",
+      "bytes": 2093217,
+      "sha256": "5f382947d180d1acfcd5605fa688498c87c3c7cd652bfe98e758703bfc1235ad",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm067/release-v1.png",
+      "bytes": 2279865,
+      "sha256": "d3a21cd352599476114aa2587080dec204657e43d752fcf3f9264e712ebcaec9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm067/sheet-v1.png",
+      "bytes": 2496281,
+      "sha256": "0c683cd2f0cfc1f389033ee34b0f831bc10b51a622ca43fe5779fe2b55e48754",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm068/contact-pov-v2.png",
+      "bytes": 2617006,
+      "sha256": "828af0a7c2dd31e87127fc7bef742bafbb30f0337b0667b9c30f0ccf7af2c39d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm068/map-pov-v2.png",
+      "bytes": 2226703,
+      "sha256": "272839e96112a14947e2d3f04e3f2a023eb51fe0febe66566f8dfb2ed0324aed",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm068/sheet-v1.png",
+      "bytes": 2224776,
+      "sha256": "c023c76e509cecaef6bb15e83550bb4b9c0d306c486758cc8f45e755bd9d0b10",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm069/bilateral-connected-v6.png",
+      "bytes": 3027602,
+      "sha256": "b78a2ff07346792a85a072de2797d4a113f2c4eac96dfa3fb7a299fcf942ed9d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm069/butterfly-map-v5.png",
+      "bytes": 2792174,
+      "sha256": "a5dbc1cac8b26b15dd356f4afb2e2e9e35c440b6473b7fe1de20baa9c93de074",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm070/medial-contact-v3.png",
+      "bytes": 2274132,
+      "sha256": "5ade930a8fce437d44b63175192d60da1d06dca479fb7a5621f64010b5e6d8d4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm070/medial-map-v3.png",
+      "bytes": 2426808,
+      "sha256": "be0e2a5981c6b1341a945b4bc3cabeb325a6e66cac7bdfdb13ec231cc43c0b5b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm070/medial-release-v3.png",
+      "bytes": 2288188,
+      "sha256": "a25f8bc213084a8159cbe62dff0022c17e5b90282a56741732d40afc703d6906",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm070/sheet-v2.png",
+      "bytes": 2334223,
+      "sha256": "fed9543bb1b7671b3fe89c7774c356ec4fd176d794410957e5c91994e02bdae7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm071/motion-repair-v2.png",
+      "bytes": 2395985,
+      "sha256": "52c1267f1c3e34ecbfecbd65b961afb46bfb440763d8099937b1b799b46fd4f5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm071/sheet-v1.png",
+      "bytes": 2397391,
+      "sha256": "ae6aae530e3794a7a05226e8aa89e6a58061b6e74e8515372908da09ca4779e5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm072/sagittal-v2.png",
+      "bytes": 2344683,
+      "sha256": "a19ff715a9602ec5d7d02986f4615259ff1352843b4a02b7357b445d282ba00e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm073/pov-atlas-v2.png",
+      "bytes": 2138974,
+      "sha256": "988673ec8c2a02320a42d9cda4b5927dad7e5ae51c2f137fc7292a5923010dae",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm074/sheet-v1.png",
+      "bytes": 2429622,
+      "sha256": "f699847f8ea4ab4a878fec65c5fa4851173d7e130f1b8d92d008839ca803c4e6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm075/elbow-tip-contact-v6.png",
+      "bytes": 2404842,
+      "sha256": "9bd9e2fec2b0bd05649b9073a6d3662e4430be9190f866a52a72540093600315",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm075/elbow-tip-map-v6.png",
+      "bytes": 2186425,
+      "sha256": "fad32150368dc4f897563958d42a727615fdb9c14f6e987eb45a16564db88e46",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm075/elbow-tip-release-v6.png",
+      "bytes": 2320720,
+      "sha256": "d6193161b591f87097cd64608323b224e3b9f48abf72614442cc8e14d84b61a6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm076/pov-atlas-v2.png",
+      "bytes": 2620410,
+      "sha256": "74e164397940c1f392419c6c27745a91ae294f6d69e877021da167de2c9e60cc",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm077/pov-atlas-v2.png",
+      "bytes": 2543861,
+      "sha256": "021913ce2747b4a33e9060a4dcf8a25c5b0e6d6e3c0710be57308f16afe59dd3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm078/crossleg-connected-v3.png",
+      "bytes": 3009249,
+      "sha256": "3728c944676433b71ad2ef347c019aeab535a9fce5ebae344ffe6cdb424e9e1c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm079/sheet-v1.png",
+      "bytes": 2229288,
+      "sha256": "3cff0a2cf245724afc6bfc485153c289bac8fcc6578328931946200b736e9c3d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm080/first-person-lift-r5.png",
+      "bytes": 2511005,
+      "sha256": "b3bd3e4fd658985aab7dd3d1fd059804304204c6075f8d3771b73d362b71bb37",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm080/first-person-neutral-r5.png",
+      "bytes": 2360664,
+      "sha256": "0dcb941e4536cdafa7d3877f29f217210769600e8ef398f53c869a51c4180d0b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm081/bent-leg-map-r4.png",
+      "bytes": 1939189,
+      "sha256": "dac8dcf0c84ae1299b2ef803667bbb8411dafd9f585732e294a3078538bda4a9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm081/lateral-palm-r4.png",
+      "bytes": 1992295,
+      "sha256": "b531c4cbe9be4b5791689b9971f5581d02617761957cc596ce1286e67c6f2e84",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm081/palm-bodyweight-r4.png",
+      "bytes": 2089874,
+      "sha256": "ae62679313b327635a70bd433fc89ff813adea5a0f088405378c416e4fd5ad22",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm081/posterior-thumb-r4.png",
+      "bytes": 1992207,
+      "sha256": "c0e6fb7c3f632a123f7d8e5689e96641cadd1c1bda61356e5dc45c1090e4bce7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm082/first-person-double-r4.png",
+      "bytes": 2751464,
+      "sha256": "15cdb1cbe95a322dfff4778874b22866f73f812e1d72ecfc048d31a22e52e226",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm082/first-person-map-r4.png",
+      "bytes": 2964911,
+      "sha256": "df85f1e038357c1d078336cb7658544292dd96633f0d53e8e464c885d5d65ea2",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm082/first-person-single-r4.png",
+      "bytes": 2774308,
+      "sha256": "312563b52cd4b0169d79f33570470a32224452c1865b6e8798cb90b399478a7f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm082/posture-repair-v3.png",
+      "bytes": 2237261,
+      "sha256": "6556977bf1de707d5dbe2fe27ae6c6097cdef8aab7ce1a623ed75e52c759cb78",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm083/lateral-repair-v3.png",
+      "bytes": 2337589,
+      "sha256": "992d175c2be565fb7bb24224d833bcfd83d515f58593c1fd2d0879b901df7eb1",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm084/sheet-v1.png",
+      "bytes": 2198231,
+      "sha256": "6eac069d4e170f5dca28b15419a1f92f1d990aef84270bc1cb9b1677591e6651",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm084/sheet-v2.png",
+      "bytes": 2036502,
+      "sha256": "3fde938a5d3357a73828d5ab207703e3574ea1556141ef4cea11cf0898394932",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm085/toe-repair-v2.png",
+      "bytes": 2252109,
+      "sha256": "232b90e9cc2f16db810e1907a6e90924e11f4aeba89870ee522b084ad52bb215",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm086/sheet-v1.png",
+      "bytes": 2410684,
+      "sha256": "97692e1a051354a913d4bab4e3aefa9c8532b813654b7fdee5c28893ec9ee087",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm087/sheet-v1.png",
+      "bytes": 2679450,
+      "sha256": "9c2be35b720979dd0db5341a3851bf7047c0bc537094a851e319196b0e181e73",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm087/third-v2.png",
+      "bytes": 2360948,
+      "sha256": "16f865828dc5be1c9dec9e08ed65cb09c47824ed13b73e525e6e1a1f50277cd2",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm088/contact-r4.png",
+      "bytes": 1946176,
+      "sha256": "f0711401a376adb43f044e6a83ac0f1efc8b3f64b680f5f9b83c89cda37bd225",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm088/press-15-r4.png",
+      "bytes": 2209675,
+      "sha256": "d1f139a3c64de7d6cf9d17488fd6aa003762abe56eac24130eb8c11ea474e70f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm088/press-24-r5.png",
+      "bytes": 1908271,
+      "sha256": "cf688f2ca60555c63695bbe386e07a23fc347b2512b7529369c6d489cda3f9d3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm088/press-3-r4.png",
+      "bytes": 1915002,
+      "sha256": "86df702623543ab8b336b831d5e777d51a62e345685aad4b1db3c88431b41977",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm088/release-r4.png",
+      "bytes": 1986825,
+      "sha256": "2c32f1ed7320c23f1ebaaa76d9551eb978c25e3f3cb8131a378a3f7685f59c95",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm089/first-person-back-r3.png",
+      "bytes": 2208640,
+      "sha256": "3c1bc067622413ef170d990c8bf2664fa203382737efae8301de8761059b061c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm089/first-person-front-r3.png",
+      "bytes": 2348088,
+      "sha256": "fc3ee4b310d8b189167f8e537906b99358b48a235254e11b9a126fab684a411a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm089/first-person-map-r3.png",
+      "bytes": 2020583,
+      "sha256": "536220c8cea00f89489bd28e0c9b497bd1d1e78501b24a1fb683511b66b19686",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm090/first-person-map-r5.png",
+      "bytes": 2011444,
+      "sha256": "d87c2811c8da9aa4472993ee426816db72c5941bc142a96317f75b7a938a9b97",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm090/first-person-stack-r5.png",
+      "bytes": 2245286,
+      "sha256": "5631857b77c640156db968de290025cfb91efe6067935fb97278baa411f47938",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm091/left-v1.png",
+      "bytes": 2642575,
+      "sha256": "c57b0a16faec895335c240f036fe43a20670d83e99886f5eb7d6bddde1e20a12",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm091/lift-repair-v3.png",
+      "bytes": 2121570,
+      "sha256": "ee154d103d4687b269a8cc6787b5c4d9189dfda3a2ba317916261ae41a8cb034",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm091/sheet-v2.png",
+      "bytes": 2159899,
+      "sha256": "bf8524458aba9d4eab77c0d675ce51d5097c227961b299ac1234991f76297ca5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm092/left-v1.png",
+      "bytes": 2438894,
+      "sha256": "2da9a171dc3d55042dfc2231622e77de61deff0e730afa4cbcdb30cf129d2d62",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm092/sheet-v1.png",
+      "bytes": 2395603,
+      "sha256": "5e38bead3fb696b1e74765d6a091ccef0ac8d6a167b553937d7a6b2e5fad545f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm093/contact-pov-r7.png",
+      "bytes": 2694675,
+      "sha256": "d9b7ef1daa630501481685ae8685b84806f0483c71ac5f53fa64ca15a842ae58",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm093/release-pov-r7.png",
+      "bytes": 2632691,
+      "sha256": "4cf70ba4ce2dc8143f9c98e5e2a8fffb0d074d81c324912ed75b1d45913afc5a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm094/lateral-left-v3.png",
+      "bytes": 2367086,
+      "sha256": "6d3250ccb7b8e415bb265c09008e7c690d26c07cde4d846516ce4d6a2f0ae987",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm094/sheet-v1.png",
+      "bytes": 2490907,
+      "sha256": "80d2b24773770f2964279eb096b51c7b63b1762406d918f034681c62540875f0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm095/sheet-v1.png",
+      "bytes": 2381835,
+      "sha256": "4556d463a7c8fd7e77ff303b5f6d9017ab5cf0377848f3fc677606dffab21c2c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm096/posterior-contact-r7.png",
+      "bytes": 2366718,
+      "sha256": "5b9e421f27b29fc830eae5e2555314821fb61b48650418d29facc0099dc19d32",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm096/posterior-full-r7.png",
+      "bytes": 2232405,
+      "sha256": "aded3dc5aec7fe966cf88f6c555b7b665882b0aec8ccc4eabb894281ea1b875f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm096/posterior-release-r7.png",
+      "bytes": 2160576,
+      "sha256": "f2b92fb049dd77902747eafb85ca90539aca3937d9e81a31e22b18f5a9671dd3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm097/pose-v1.png",
+      "bytes": 2441410,
+      "sha256": "6c00be7601dcefd13515a2365e86ab37137b0b3c087bb891f619c2b12e2ba447",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm098/sheet-v1.png",
+      "bytes": 2356231,
+      "sha256": "a6f3ee3b6c9df249686a40512c18f5629f786fd0290809db608ea9e63ac75bd2",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm099/inward-sole-r7.png",
+      "bytes": 2521605,
+      "sha256": "6c8424cded9fc30dd7f7021113481abaa2a7c530681cf73ffe20e0318a49f0de",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm099/outward-sole-r7.png",
+      "bytes": 2442502,
+      "sha256": "e50bf775a4388e007217861e03bc0190b880056a8e64c6a386103be62ce7c5ef",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm099/sheet-v2.png",
+      "bytes": 2114042,
+      "sha256": "56965812e52d3d80a725cbdb860acd6c59011b274403ef191892b45027dc6b49",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm099/upright-full-r7.png",
+      "bytes": 2007167,
+      "sha256": "4f3166eb3c010dfd9eaed5e446befda26ae37e3f9e755bef612382c9163b5edc",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm100/sheet-v1.png",
+      "bytes": 2273546,
+      "sha256": "f7c182b6200a6985042ad001ade166335a790336b22fcde88364d5ee66d91f8d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm101/sheet-v1.png",
+      "bytes": 1974885,
+      "sha256": "c34a2379a4ba61416f70813c421a12c32b4a5e9d66d57563746224bbe187f409",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm102/sheet-v1.png",
+      "bytes": 1944264,
+      "sha256": "34dab9718cab4ba8915787479888f5bcb65a7381d0228cf300289ae01930513b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm103/sheet-v1.png",
+      "bytes": 1988237,
+      "sha256": "476cb6c0e7c64093cfcd5a324293635ef181e49349794bc04029eeef2883d265",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm104/cross-repair-v3.png",
+      "bytes": 2017734,
+      "sha256": "d36d97c68f1047d920f2ca886cbf5bb7a1886f4e1097df1b27b83959602902b6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm105/sheet-v1.png",
+      "bytes": 2097486,
+      "sha256": "059a265c2511f1a021ecb62ea071a3f30f42f5e93ce17e74526d4d8025bb1146",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm106/sheet-v1.png",
+      "bytes": 1859956,
+      "sha256": "4e901ab9cb3ef6b907b068ee63f3fada8d68ce2701f36f206d121b91e0988890",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm106/supplement-v1.png",
+      "bytes": 2203496,
+      "sha256": "28e73cd93806fc3c4dc0b8c6635f46f894abd940284657463f07d2e84af02fce",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm107/ground-repair-v4.png",
+      "bytes": 2371296,
+      "sha256": "f699b8f0061f498a796f919b5fa4d41a61f6d7776c82673a66df698437c33bc5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm108/sheet-v1.png",
+      "bytes": 1919609,
+      "sha256": "6597bf5d9e4da44c05e35bf2df772733c50898f2cb6b6932a785a0fae99c3412",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm108/wrist-v2.png",
+      "bytes": 2149439,
+      "sha256": "fb3e0a23786ad23019aff0f82b022a3155e80766a620cae9d1999bed851549e7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm109/sheet-v1.png",
+      "bytes": 2147955,
+      "sha256": "5f82b75cb73f80af30bb61ea86afc84285f91ac7aaa34fe103b450c305dea811",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm110/sheet-v1.png",
+      "bytes": 2049503,
+      "sha256": "4fef7ebdbb9375a4c0b7fcddfdb4aa27aa3fa47ad676e10b5caa69782dfed2b2",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm110/upright-grip-v2.png",
+      "bytes": 2047337,
+      "sha256": "e4fa7f7a6e675d3536642488723408abcd37a7c1ca54d164c8627669bed19c13",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm111/sheet-v2.png",
+      "bytes": 2219290,
+      "sha256": "5ba82e969d2d0574a41c42e14333c53c02ef8b3e90b94bba4e10da4822f74de5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm112/sheet-v1.png",
+      "bytes": 2186062,
+      "sha256": "2c4995e2a4dd4654e243a2491b636390e93d1fd4f4e9ed886da2f97809461514",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm113/hug-start-v5.png",
+      "bytes": 1998615,
+      "sha256": "c5f5ad1b9d8e74dd55f157357623a02d0bbad79470997a34f49f6378b5db1cde",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm113/hug-tight-v5.png",
+      "bytes": 1928648,
+      "sha256": "cdf4368b39f74e6ed077ab93a97199b08959546837eb18207826a096c303a0e9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm114/floating-prep-v4.png",
+      "bytes": 1895613,
+      "sha256": "d9e407d88869a9a75e5c2117c91279084380bb9654ccb0c2d915937e03f7ceb6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm114/floating-turn-v4.png",
+      "bytes": 2324550,
+      "sha256": "e381759735daffaff83286fcef7a33f0cc11694d1ea43d7669984eba70bcae43",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm115/rock-large-v3.png",
+      "bytes": 2109795,
+      "sha256": "831d6ce7faa08f96d99e7780c7226c64a8cadf02a64eb830897582fcd7f7e38a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm115/rock-small-v3.png",
+      "bytes": 2250919,
+      "sha256": "3837860decc0e447e339fe54bbde3818e4a10be997d6f05b6b5a7129931547e7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm115/sheet-v1.png",
+      "bytes": 2262013,
+      "sha256": "439f43c4aa894d9c0a27c3f4376500ecaceb1ef35143f63b8c206d3c36254e52",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm115/start-v3.png",
+      "bytes": 2184606,
+      "sha256": "0714c4d541f60b85ea18f5f4ed81183e9835b43d450134c215f480188b55deca",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm116/knees-v2.png",
+      "bytes": 2059778,
+      "sha256": "f1c612a1b5c99ab0fdf653d812c5633e10c9379b23c7f1c9ac07fe9fd436b918",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm116/sheet-v1.png",
+      "bytes": 2217454,
+      "sha256": "0ac1a2a093e4bd5c9b5a3970626ffb699e2df68a9a5febaf3e68a9bf53cc31be",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm117/hip-v2.png",
+      "bytes": 1881477,
+      "sha256": "8487760b00aef99a0c39b6d302cfc8c13dec3a6911101c56ef03c312453d8fd9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm117/sheet-v1.png",
+      "bytes": 2170529,
+      "sha256": "1765a63c3196e743708ed2b60b47c10e8038d79db62aac7ea543c109107ed99d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm118/grip-v2.png",
+      "bytes": 2288888,
+      "sha256": "29e4b68d774fea5af8359429e8c04ce6479cf9fb5b5f33fad331a148c2f413a9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm118/hold-side-v7.png",
+      "bytes": 1823215,
+      "sha256": "59c91dfc292c6935077e70782374fb7623133730e6559c49bec503ab4e402e15",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm118/sheet-v2.png",
+      "bytes": 2269580,
+      "sha256": "e02f53907902b5c71c7feee46e915606a790e8d58f9729159b35e43e586343d8",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm119/side-closed-v5.png",
+      "bytes": 1953661,
+      "sha256": "40507a5689d2844019ba52ef998a3203bbf65ece45a145c5dcb5db7d066e85b4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm119/side-open-v6.png",
+      "bytes": 1944418,
+      "sha256": "f99285d4a5655b002a5550e765c11df586b4ff80879dd1a9d4a668584e497b62",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm120/hug-bent-v6.png",
+      "bytes": 2104400,
+      "sha256": "fbe3c44041659d1d9a468c9c712358d97ebc65b263d86501a55cd33f5ebbbfb6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm120/hug-neck-v6.png",
+      "bytes": 2039875,
+      "sha256": "b2b2fe01c5d2f387ce2d2f95dbe63ebce0e20466fbf2f98e7c7bd4e37c3d3aa4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm120/hug-straight-v6.png",
+      "bytes": 2047956,
+      "sha256": "b1ebe7aa60698975ae1385dce3f8b8ae7e4b775814b3733f8b46af36b3d93c9f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm120/sheet-v1.png",
+      "bytes": 2494248,
+      "sha256": "8938937770b59435566af2e61a5bc5a42e7dc207c50196a6281a37d5274411dc",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm121/circle-v1.png",
+      "bytes": 1882519,
+      "sha256": "f18bca8a291dd70d66a82b73b3fc3bcf25cb296dfa2750d3c860b18e0bd366f9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm121/pelvis-shift-v3.png",
+      "bytes": 1887394,
+      "sha256": "ef2220cd21d6fbb06f91404a83eee2211315b3e030c1a48d9da74ad270fea464",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm121/pelvis-v2.png",
+      "bytes": 2211725,
+      "sha256": "6096ac4ed2913c672fff17e9e0570fbc1b7e897dd16cfbdd837e68d8ffd7ad39",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm121/together-far-up-v2.png",
+      "bytes": 1816926,
+      "sha256": "3a7fa9d168e634423f5d64bba9274fe4589bec9ba4844d045a0fc6cc746679ee",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm121/together-near-up-v2.png",
+      "bytes": 1753937,
+      "sha256": "b82830dfe2b5ea0345859933964e3c7cd7cd90e979e49bf19cf35340c6e8c41c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm121/together-prep-v2.png",
+      "bytes": 1923792,
+      "sha256": "bab57c98ffb746a146e52080faee84008c33fa9444e7d8a4023fba6e8c11fa20",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm122/sheet-v1.png",
+      "bytes": 2237527,
+      "sha256": "eb8b0e49e84a4ee4dc14b8261cd63727a76f51f169ada51c5afa7ed716b7297a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm123/arms-v2.png",
+      "bytes": 2013347,
+      "sha256": "6b7afbf8d73410c536fdba323e578a5628084cc67c3cda32ef76cd86f0f804da",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm123/release-v1.png",
+      "bytes": 1931240,
+      "sha256": "67775db21621bee8129503d2c07af5519e144bdd799796591d33195c5a96229c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm123/sheet-v1.png",
+      "bytes": 2219270,
+      "sha256": "761754b11fc019f58351b4cd821a8450f21337d3f161f7b5f6478e5459c40152",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm124/prep-v1.png",
+      "bytes": 2398067,
+      "sha256": "78f5ee8811259d14ae984a0e6609d823a55352e597219d8ea55db0bd93789846",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm124/prone-soles-up-v5.png",
+      "bytes": 1817024,
+      "sha256": "5d428170bb3151ddfdd4f09749f08c2c3dbadbdeff0431ff30857b30c4fb4f14",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm124/sheet-v2.png",
+      "bytes": 1927119,
+      "sha256": "2809180238bf8585cac9c2c536909b4fc4d0c6cd8778536d42cfe3fd5656433b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm125/palms-up-sheet-v4.png",
+      "bytes": 2058970,
+      "sha256": "0b1cf32deb885eb5a1903e60fbfcc327925db46870e124e6532d868055cf2432",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm125/palms-up-side-v6.png",
+      "bytes": 1841082,
+      "sha256": "5ae4b67b8a5885ba7783ac85c384a1f4b7cac4058a2fd808789de902e7714c5f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm126/left-v1.png",
+      "bytes": 2157698,
+      "sha256": "f5b232a2c6c53da1aacd284483b9fbc4a345ebd226dd2abb20115e5aa23bebd1",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm126/right-v1.png",
+      "bytes": 2023523,
+      "sha256": "11983ec08566caa85c63015961beefad5868fd133675e1515ebcd9e2b45d0c8b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm127/sheet-v1.png",
+      "bytes": 2143484,
+      "sha256": "2c9d485fb235af28fe332632aaf8918350492da993b86bc5b11e7d079ff6cee7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm128/legs-v1.png",
+      "bytes": 2535007,
+      "sha256": "12bbe9c77b287d7469a0146d6cad0c6878cd13188ddfdb575f81729295cebdc6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm128/sheet-v1.png",
+      "bytes": 2388502,
+      "sha256": "a1cf1120fca5a42c8dd9750430cbc3fbad674d5db49f8649a8a09334f940d088",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm129/sheet-v2.png",
+      "bytes": 2015000,
+      "sha256": "5a440d6e67dca1e1f4258a033293e8f1da1780b16f72785ee9a85208e4a94e7e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm130/bare-back-sheet-v3.png",
+      "bytes": 2048782,
+      "sha256": "f05e974b174daf53077937fd2dc8db877fa60cd2eb4e0d826ac787930cd123ce",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm131/sheet-v1.png",
+      "bytes": 2144452,
+      "sha256": "6fa0859796c750720e98efd4e14177a2217231df99a78fd24546c3e4669647ee",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm132/sheet-v1.png",
+      "bytes": 2725354,
+      "sha256": "86fbd27e6b6c7974751c5e4edda53c10dcd8ec597cbfdc5735b6ab72a3ad16f8",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm133/sheet-v1.png",
+      "bytes": 2123343,
+      "sha256": "7ba80e2513ba3482f998a77c4769d6eb94f2e3b0dd9dd9bc8b9454f4963bcd4e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm134/abdomen-map-v1.png",
+      "bytes": 2352563,
+      "sha256": "dfaa841d358af567bce94f03be408755bf777e88602b9b2a5ec41b8dc9e8ec22",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm134/side-upper-hand-sheet-v4.png",
+      "bytes": 2514947,
+      "sha256": "8316f9556db4b9b976427943d7ce1ca4f47974130baa051b372a9b2dc62ef755",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm135/01-start.png",
+      "bytes": 2713854,
+      "sha256": "253992a006d9b4c9696276ab2b47517b1c24277e276a39d2cc826744e39998cd",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm135/02-arc.png",
+      "bytes": 2499296,
+      "sha256": "3bb2d0eca3e777f191e2c32d7e1f9e5506cd292900ca9ebbec1495528a03d613",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm135/03-press.png",
+      "bytes": 2482538,
+      "sha256": "99fb2a1ca1813cee4adfaa98d2030318d4e709b56e37ab44ed44a409e08d1037",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm135/04-map.png",
+      "bytes": 2352563,
+      "sha256": "dfaa841d358af567bce94f03be408755bf777e88602b9b2a5ec41b8dc9e8ec22",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm135/lower-arc-v2.png",
+      "bytes": 2420879,
+      "sha256": "822654437cd652af67fa4bd51d77b1fc0ec80c043e3b7f7a051c65f1d2c0f5d0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "illustrations/sm135/lower-end-v3.png",
+      "bytes": 2297279,
+      "sha256": "a20d4d9b9def95a9340db805bed2788aea195cff7fba7958d7e95d6b20980c35",
+      "license": "CC-BY-4.0"
+    }
+  ]
+}

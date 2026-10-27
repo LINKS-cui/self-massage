@@ -1,0 +1,5 @@
+.image-stage[data-neck-batch=true]{overflow:hidden}
+.neck-batch-overlay{z-index:1}
+.image-stage[data-neck-batch=true] .image-stage-badge{z-index:2}
+.point-legend i.region{background:#087f742b;border:1px solid #087f74;border-radius:4px;width:15px;height:12px}
+.point-legend .spiral-legend{width:18px;height:18px;flex-shrink:0}

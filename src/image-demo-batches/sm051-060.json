@@ -1,0 +1,769 @@
+{
+  "SM-051": {
+    "id": "SM-051",
+    "uid": "preview-264ca1db-59b9-492b-8f93-df5a91c340d3",
+    "contentRevision": "530eb27055b1b0cb",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm051/",
+    "poster": "atlas-handedness-v2.png",
+    "posterTile": 0,
+    "mapFile": "atlas-handedness-v2.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "摆手 · 虎口对夹",
+        "short": "摆手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "左掌向上，右手虎口与左手虎口对夹，位于左手掌根处；右手其余四指在左手手背侧支撑。",
+        "alt": "左掌向上，右手虎口与左手虎口对夹，位于左手掌根处；右手其余四指在左手手背侧支撑。",
+        "sourceStep": 0
+      },
+      {
+        "title": "转压 · 每点3–5圈",
+        "short": "转压",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "用右拇指指腹在掌根至手腕区域逐点转压，每点3–5圈。旋转方向、点位顺序和点数均无规定。",
+        "alt": "用右拇指指腹在掌根至手腕区域逐点转压，每点3–5圈。旋转方向、点位顺序和点数均无规定。",
+        "sourceStep": 1
+      },
+      {
+        "title": "抬指 · 再换下一点",
+        "short": "抬指",
+        "file": "atlas-handedness-v2.png",
+        "tile": 2,
+        "caption": "每点完成后，先抬起拇指离开皮肤，再换下一点；图中展示拇指离肤的间隙。",
+        "alt": "每点完成后，先抬起拇指离开皮肤，再换下一点；图中展示拇指离肤的间隙。",
+        "sourceStep": 1
+      },
+      {
+        "title": "覆盖 · 整个掌根至手腕",
+        "short": "覆盖",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "示意色块表示操作范围，覆盖整个掌根至手腕区域；不是固定点数或新增穴位。",
+        "alt": "示意色块表示操作范围，覆盖整个掌根至手腕区域；不是固定点数或新增穴位。",
+        "sourceStep": 2
+      },
+      {
+        "title": "换手 · 左右各一遍",
+        "short": "换手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "完成一侧后换手，手型镜像对调，各点3–5圈后抬指换点。左右各覆盖一遍，整套只做一遍。",
+        "alt": "完成一侧后换手，手型镜像对调，各点3–5圈后抬指换点。左右各覆盖一遍，整套只做一遍。",
+        "sourceStep": 3
+      }
+    ],
+    "mapAlt": "色块标示掌根至手腕范围；每点3–5圈后抬指换点，点数与顺序无规定。",
+    "mapTitle": "掌根至手腕，逐点转压后抬指",
+    "mapCaption": "色块标示掌根至手腕范围；每点3–5圈后抬指换点，点数与顺序无规定。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "掌根至手腕，逐点转压后抬指",
+    "note": "用拇指指腹操作，其余四指支撑手背。转压不是连续滑行，完成一处须抬指再换点。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "色块标示掌根至手腕范围；每点3–5圈后抬指换点，点数与顺序无规定。",
+    "visualRevision": "handedness-20261025-v2"
+  },
+  "SM-052": {
+    "id": "SM-052",
+    "uid": "preview-2ced1809-a0a9-4258-89e2-4d70427e0ec3",
+    "contentRevision": "718e55681f18860c",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm052/",
+    "poster": "atlas-handedness-v2.png",
+    "posterTile": 0,
+    "mapFile": "atlas-handedness-v2.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "摆手 · 拇指操作掌面",
+        "short": "摆手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "右手拇指指腹接触左手掌面，其余四指在手背侧支撑。每条路径从掌根开始。",
+        "alt": "右手拇指指腹接触左手掌面，其余四指在手背侧支撑。每条路径从掌根开始。",
+        "sourceStep": 0
+      },
+      {
+        "title": "转按 · 掌根到指尖",
+        "short": "转按",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "路线图展示转按的前进范围：拇指指腹一边转按，一边尽可能慢地向指尖推进，尽量覆盖路径。接触手型见摆手图；旋转方向和每点圈数均无规定。",
+        "alt": "路线图展示转按的前进范围：拇指指腹一边转按，一边尽可能慢地向指尖推进，尽量覆盖路径。接触手型见摆手图；旋转方向和每点圈数均无规定。",
+        "sourceStep": 2
+      },
+      {
+        "title": "指尖 · 中间关节配合保持",
+        "short": "保持",
+        "file": "hold-detail.png",
+        "caption": "到指尖后，拇指指腹配合弯曲食指中间关节，捏住指尖指腹部位，原位保持5秒；松开后再开始下一根。食指中间关节由用户补充确认。",
+        "alt": "到指尖后，拇指指腹配合弯曲食指中间关节，捏住指尖指腹部位，原位保持5秒；松开后再开始下一根。食指中间关节由用户补充确认。",
+        "sourceStep": 3
+      },
+      {
+        "title": "顺序 · 拇指到小指",
+        "short": "顺序",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "依次完成拇指→食指→中指→无名指→小指。每一条都从掌根重新开始，到指尖保持5秒后才换下一条。",
+        "alt": "依次完成拇指→食指→中指→无名指→小指。每一条都从掌根重新开始，到指尖保持5秒后才换下一条。",
+        "sourceStep": 1
+      },
+      {
+        "title": "换手 · 五条完成后再换",
+        "short": "换手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "五条路径全部完成后换手，手型和路径镜像对调，仍按拇指到小指的顺序；整套只做一遍。",
+        "alt": "五条路径全部完成后换手，手型和路径镜像对调，仍按拇指到小指的顺序；整套只做一遍。",
+        "sourceStep": 4
+      }
+    ],
+    "mapAlt": "五条路径按拇指到小指依次完成，每条从掌根开始；末端捏持5秒。",
+    "mapTitle": "掌根到指尖，末端原位保持5秒",
+    "mapCaption": "五条路径按拇指到小指依次完成，每条从掌根开始；末端捏持5秒。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "掌根到指尖，末端原位保持5秒",
+    "note": "第52项每条路径均从掌根开始，不能缩成只操作手指。指尖捏持用拇指指腹和食指中间关节；转按没有固定每点圈数。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "五条路径按拇指到小指依次完成，每条从掌根开始；末端捏持5秒。",
+    "visualRevision": "handedness-20261025-v2"
+  },
+  "SM-056": {
+    "id": "SM-056",
+    "uid": "preview-85548b1b-7921-4a07-ae5b-616a8b4dbb9e",
+    "contentRevision": "55b30d1cb565635e",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm056/",
+    "poster": "atlas-handedness-v2.png",
+    "posterTile": 0,
+    "mapFile": "atlas-handedness-v2.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "摆手 · 拇指操作手指背侧",
+        "short": "摆手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "右手拇指指腹接触左手手指背侧，其余四指在掌心侧支撑。每条路径从各手指指根开始。",
+        "alt": "右手拇指指腹接触左手手指背侧，其余四指在掌心侧支撑。每条路径从各手指指根开始。",
+        "sourceStep": 0
+      },
+      {
+        "title": "转按 · 各手指指根到指尖",
+        "short": "转按",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "路线图展示转按的前进范围：拇指指腹一边转按，一边尽可能慢地向指尖推进，尽量覆盖路径。接触手型见摆手图；旋转方向和每点圈数均无规定。",
+        "alt": "路线图展示转按的前进范围：拇指指腹一边转按，一边尽可能慢地向指尖推进，尽量覆盖路径。接触手型见摆手图；旋转方向和每点圈数均无规定。",
+        "sourceStep": 2
+      },
+      {
+        "title": "指尖 · 中间关节配合保持",
+        "short": "保持",
+        "file": "../sm052/hold-detail.png",
+        "caption": "到指尖后，拇指指腹配合弯曲食指中间关节，捏住指尖指腹部位，原位保持5秒；松开后再开始下一根。食指中间关节由用户补充确认。",
+        "alt": "到指尖后，拇指指腹配合弯曲食指中间关节，捏住指尖指腹部位，原位保持5秒；松开后再开始下一根。食指中间关节由用户补充确认。",
+        "sourceStep": 3
+      },
+      {
+        "title": "顺序 · 拇指到小指",
+        "short": "顺序",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "依次完成拇指→食指→中指→无名指→小指。每一条都从各手指指根重新开始，到指尖保持5秒后才换下一条。",
+        "alt": "依次完成拇指→食指→中指→无名指→小指。每一条都从各手指指根重新开始，到指尖保持5秒后才换下一条。",
+        "sourceStep": 1
+      },
+      {
+        "title": "换手 · 五条完成后再换",
+        "short": "换手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "五条路径全部完成后换手，手型和路径镜像对调，仍按拇指到小指的顺序；整套只做一遍。",
+        "alt": "五条路径全部完成后换手，手型和路径镜像对调，仍按拇指到小指的顺序；整套只做一遍。",
+        "sourceStep": 4
+      }
+    ],
+    "mapAlt": "五条路径按拇指到小指依次完成，每条从各手指指根开始；末端捏持5秒。",
+    "mapTitle": "各手指指根到指尖，末端原位保持5秒",
+    "mapCaption": "五条路径按拇指到小指依次完成，每条从各手指指根开始；末端捏持5秒。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "各手指指根到指尖，末端原位保持5秒",
+    "note": "第56项只在手指背侧操作，起点为各指根，不能沿用第52项的掌根。指尖捏持用拇指指腹和食指中间关节；转按没有固定每点圈数。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "五条路径按拇指到小指依次完成，每条从各手指指根开始；末端捏持5秒。",
+    "visualRevision": "handedness-20261025-v2"
+  },
+  "SM-053": {
+    "id": "SM-053",
+    "uid": "preview-84ed1941-0bab-4ecf-b60f-aa563f53acdf",
+    "contentRevision": "cceda63356b95164",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm053/",
+    "poster": "atlas-handedness-v2.png",
+    "posterTile": 0,
+    "mapFile": "atlas-handedness-v2.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "捏住 · 两指对夹指缝",
+        "short": "捏住",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "右手拇指指腹在指缝掌心侧，食指指腹在掌背侧，捏住相邻两指根部连接处的组织。图中示范第一个指缝。",
+        "alt": "右手拇指指腹在指缝掌心侧，食指指腹在掌背侧，捏住相邻两指根部连接处的组织。图中示范第一个指缝。",
+        "sourceStep": 0
+      },
+      {
+        "title": "外拉 · 朝指尖方向",
+        "short": "外拉",
+        "file": "atlas-handedness-v2.png",
+        "tile": 1,
+        "caption": "沿掌面朝指尖方向外拉，不向掌面上方提起。每个指缝共外拉10次。",
+        "alt": "沿掌面朝指尖方向外拉，不向掌面上方提起。每个指缝共外拉10次。",
+        "sourceStep": 1
+      },
+      {
+        "title": "松开 · 重新捏住再拉",
+        "short": "松开",
+        "file": "atlas-handedness-v2.png",
+        "tile": 2,
+        "caption": "每次外拉后松开，再回到同一指缝重新捏住；重复至10次。",
+        "alt": "每次外拉后松开，再回到同一指缝重新捏住；重复至10次。",
+        "sourceStep": 1
+      },
+      {
+        "title": "捏持 · 原位保持5秒",
+        "short": "捏持",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "10次外拉完成后，重新捏住同一指缝，原位保持5秒；此时不继续向外拉。",
+        "alt": "10次外拉完成后，重新捏住同一指缝，原位保持5秒；此时不继续向外拉。",
+        "sourceStep": 2
+      },
+      {
+        "title": "四缝 · 依次完成再换手",
+        "short": "四缝",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "依次做拇食、食中、中无名、无名小指之间的四个指缝，每缝先外拉10次再原位保持5秒。四缝完成后换手，整套一次。",
+        "alt": "依次做拇食、食中、中无名、无名小指之间的四个指缝，每缝先外拉10次再原位保持5秒。四缝完成后换手，整套一次。",
+        "sourceStep": 3
+      }
+    ],
+    "mapAlt": "拇指指腹在掌心侧、食指指腹在掌背侧；每缝外拉10次后原位捏持5秒。",
+    "mapTitle": "拇指在掌心侧，四缝依次10次＋5秒",
+    "mapCaption": "拇指指腹在掌心侧、食指指腹在掌背侧；每缝外拉10次后原位捏持5秒。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "拇指在掌心侧，四缝依次10次＋5秒",
+    "note": "外拉方向沿掌面朝指尖，不是向上提。每次拉完松开重捏；最后5秒是原位保持。四个编号只表示指缝顺序。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "拇指指腹在掌心侧、食指指腹在掌背侧；每缝外拉10次后原位捏持5秒。",
+    "visualRevision": "handedness-20261025-v2"
+  },
+  "SM-054": {
+    "id": "SM-054",
+    "uid": "preview-e16e9fce-90c1-4f0d-b3b1-21c673afdc78",
+    "contentRevision": "53abfccefb337021",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm054/",
+    "poster": "atlas-handedness-v2.png",
+    "posterTile": 0,
+    "mapFile": "atlas-handedness-v2.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "捏住 · 两指对夹指缝",
+        "short": "捏住",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "右手拇指指腹在指缝掌背侧，食指指腹在掌心侧，捏住相邻两指根部连接处的组织。图中示范第一个指缝。",
+        "alt": "右手拇指指腹在指缝掌背侧，食指指腹在掌心侧，捏住相邻两指根部连接处的组织。图中示范第一个指缝。",
+        "sourceStep": 0
+      },
+      {
+        "title": "外拉 · 朝指尖方向",
+        "short": "外拉",
+        "file": "atlas-handedness-v2.png",
+        "tile": 1,
+        "caption": "沿掌面朝指尖方向外拉，不向掌面上方提起。每个指缝共外拉10次。",
+        "alt": "沿掌面朝指尖方向外拉，不向掌面上方提起。每个指缝共外拉10次。",
+        "sourceStep": 1
+      },
+      {
+        "title": "松开 · 重新捏住再拉",
+        "short": "松开",
+        "file": "atlas-handedness-v2.png",
+        "tile": 2,
+        "caption": "每次外拉后松开，再回到同一指缝重新捏住；重复至10次。",
+        "alt": "每次外拉后松开，再回到同一指缝重新捏住；重复至10次。",
+        "sourceStep": 1
+      },
+      {
+        "title": "捏持 · 原位保持5秒",
+        "short": "捏持",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "10次外拉完成后，重新捏住同一指缝，原位保持5秒；此时不继续向外拉。",
+        "alt": "10次外拉完成后，重新捏住同一指缝，原位保持5秒；此时不继续向外拉。",
+        "sourceStep": 2
+      },
+      {
+        "title": "四缝 · 依次完成再换手",
+        "short": "四缝",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "依次做拇食、食中、中无名、无名小指之间的四个指缝，每缝先外拉10次再原位保持5秒。四缝完成后换手，整套一次。",
+        "alt": "依次做拇食、食中、中无名、无名小指之间的四个指缝，每缝先外拉10次再原位保持5秒。四缝完成后换手，整套一次。",
+        "sourceStep": 3
+      }
+    ],
+    "mapAlt": "拇指指腹在掌背侧、食指指腹在掌心侧；每缝外拉10次后原位捏持5秒。",
+    "mapTitle": "拇指在掌背侧，四缝依次10次＋5秒",
+    "mapCaption": "拇指指腹在掌背侧、食指指腹在掌心侧；每缝外拉10次后原位捏持5秒。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "拇指在掌背侧，四缝依次10次＋5秒",
+    "note": "外拉方向沿掌面朝指尖，不是向上提。每次拉完松开重捏；最后5秒是原位保持。四个编号只表示指缝顺序。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "拇指指腹在掌背侧、食指指腹在掌心侧；每缝外拉10次后原位捏持5秒。",
+    "visualRevision": "handedness-20261025-v2"
+  },
+  "SM-055": {
+    "id": "SM-055",
+    "uid": "preview-aa1379c9-b025-4aad-b96e-ecb0c76cdd96",
+    "contentRevision": "65dd1cfeca0dbdc7",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm055/",
+    "poster": "atlas-handedness-v2.png",
+    "posterTile": 0,
+    "mapFile": "../sm051/atlas-handedness-v2.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "摆手 · 中间关节抵住掌心",
+        "short": "摆手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "左掌向上，两手虎口交叉。右拇指位于左手手背，右手其余四指握拳，用食指中间关节背面抵住掌心。",
+        "alt": "左掌向上，两手虎口交叉。右拇指位于左手手背，右手其余四指握拳，用食指中间关节背面抵住掌心。",
+        "sourceStep": 0
+      },
+      {
+        "title": "扩大 · 小圈到大圈共10圈",
+        "short": "扩大",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "以掌心为中心，沿一个方向由小圈逐渐扩大，共10圈；最大圈尽量覆盖掌心。未规定先顺时针还是逆时针。",
+        "alt": "以掌心为中心，沿一个方向由小圈逐渐扩大，共10圈；最大圈尽量覆盖掌心。未规定先顺时针还是逆时针。",
+        "sourceStep": 1
+      },
+      {
+        "title": "反向 · 大圈到小圈共10圈",
+        "short": "反向",
+        "file": "atlas-handedness-v2.png",
+        "tile": 1,
+        "caption": "接着反向画圈，由大圈逐渐缩小，共10圈。画圈及阶段切换时，食指关节始终贴住掌面，不抬起。",
+        "alt": "接着反向画圈，由大圈逐渐缩小，共10圈。画圈及阶段切换时，食指关节始终贴住掌面，不抬起。",
+        "sourceStep": 2
+      },
+      {
+        "title": "换手 · 两阶段做完再换",
+        "short": "换手",
+        "file": "../sm051/atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "同一只手先完成小到大10圈，再完成反向大到小10圈，然后换手镜像操作；整套一遍。",
+        "alt": "同一只手先完成小到大10圈，再完成反向大到小10圈，然后换手镜像操作；整套一遍。",
+        "sourceStep": 3
+      }
+    ],
+    "mapAlt": "同心圈表示半径变化，不规定先转哪一方向；两个阶段方向相反，关节始终贴肤。",
+    "mapTitle": "先小到大10圈，反向大到小10圈",
+    "mapCaption": "同心圈表示半径变化，不规定先转哪一方向；两个阶段方向相反，关节始终贴肤。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "先小到大10圈，反向大到小10圈",
+    "note": "接触处是弯曲食指中间关节的背面，拇指在手背支撑。每阶段共10圈，并非每个大小各10圈。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "同心圈表示半径变化，不规定先转哪一方向；两个阶段方向相反，关节始终贴肤。",
+    "visualRevision": "handedness-20261025-v2"
+  },
+  "SM-057": {
+    "id": "SM-057",
+    "uid": "preview-9df6678e-2921-42eb-8871-1e2d2b00b68e",
+    "contentRevision": "875482fa9dd436a5",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm057/",
+    "poster": "atlas-handedness-v2.png",
+    "posterTile": 1,
+    "mapFile": "atlas-handedness-v2.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "上下夹 · 两指第二关节侧面",
+        "short": "上下",
+        "file": "atlas-handedness-v2.png",
+        "tile": 1,
+        "caption": "弯曲食指和中指，用两指第二关节相对的侧面夹住一根手指的掌心侧与手背侧，从指根向指尖拉。图中以一根手指说明夹法。",
+        "alt": "弯曲食指和中指，用两指第二关节相对的侧面夹住一根手指的掌心侧与手背侧，从指根向指尖拉。图中以一根手指说明夹法。",
+        "sourceStep": 1
+      },
+      {
+        "title": "到指尖 · 立即松开",
+        "short": "到尖",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "每次到指尖立即松开，回指根重新夹住，共2–3次。没有指尖停留。",
+        "alt": "每次到指尖立即松开，回指根重新夹住，共2–3次。没有指尖停留。",
+        "sourceStep": 1
+      },
+      {
+        "title": "左右夹 · 同一根再做2–3次",
+        "short": "左右",
+        "file": "atlas-handedness-v2.png",
+        "tile": 2,
+        "caption": "改为夹同一根手指的左右侧，从指根拉到指尖2–3次；接触仍为弯曲食指与中指的第二关节侧面。",
+        "alt": "改为夹同一根手指的左右侧，从指根拉到指尖2–3次；接触仍为弯曲食指与中指的第二关节侧面。",
+        "sourceStep": 2
+      },
+      {
+        "title": "回位 · 松开后回到指根",
+        "short": "回位",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "路线图区分贴肤向指尖的去程和松开后的回程；每次均须松开后回指根重新夹。",
+        "alt": "路线图区分贴肤向指尖的去程和松开后的回程；每次均须松开后回指根重新夹。",
+        "sourceStep": 2
+      },
+      {
+        "title": "逐指 · 两种夹法后再换指",
+        "short": "逐指",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "按拇指到小指顺序，每根先上下侧2–3次，再左右侧2–3次，之后才换下一根；五指全部完成后换手，整套一次。",
+        "alt": "按拇指到小指顺序，每根先上下侧2–3次，再左右侧2–3次，之后才换下一根；五指全部完成后换手，整套一次。",
+        "sourceStep": 3
+      }
+    ],
+    "mapAlt": "食指和中指第二关节的相对侧面夹拉；每种夹法2–3次，到指尖立即松开。",
+    "mapTitle": "每根先上下夹，再左右夹",
+    "mapCaption": "食指和中指第二关节的相对侧面夹拉；每种夹法2–3次，到指尖立即松开。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "每根先上下夹，再左右夹",
+    "note": "这里使用食指与中指的关节侧面，不是拇指与食指指腹。两种夹法都从指根到指尖，每根两种完成后再换指。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "食指和中指第二关节的相对侧面夹拉；每种夹法2–3次，到指尖立即松开。",
+    "visualRevision": "handedness-20261025-v2"
+  },
+  "SM-058": {
+    "id": "SM-058",
+    "uid": "preview-0b86236f-a859-4640-a560-f3297fd794b1",
+    "contentRevision": "8fce590b82f29e25",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm058/",
+    "poster": "atlas.png",
+    "posterTile": 0,
+    "mapFile": "atlas.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "握拳 · 两手四指重叠",
+        "short": "握拳",
+        "file": "atlas.png",
+        "tile": 0,
+        "caption": "左手全程握拳，右手包住左手，两手四指重叠对齐；用右手四指指腹一起接触。",
+        "alt": "左手全程握拳，右手包住左手，两手四指重叠对齐；用右手四指指腹一起接触。",
+        "sourceStep": 0
+      },
+      {
+        "title": "滑拉 · 手背侧到指根关节",
+        "short": "滑拉",
+        "file": "atlas.png",
+        "tile": 1,
+        "caption": "从左手弯曲四指曲面靠近手背、手腕一侧，沿皮肤朝手指方向滑拉，到指根关节结束；操作范围是手背到指根这一段。",
+        "alt": "从左手弯曲四指曲面靠近手背、手腕一侧，沿皮肤朝手指方向滑拉，到指根关节结束；操作范围是手背到指根这一段。",
+        "sourceStep": 1
+      },
+      {
+        "title": "松开 · 回位重做8–10次",
+        "short": "松开",
+        "file": "atlas.png",
+        "tile": 2,
+        "caption": "每次拉完右手松开，回到起始位置重新按住再拉，共8–10次；左手仍保持握拳。",
+        "alt": "每次拉完右手松开，回到起始位置重新按住再拉，共8–10次；左手仍保持握拳。",
+        "sourceStep": 2
+      },
+      {
+        "title": "换手 · 另一侧同样8–10次",
+        "short": "换手",
+        "file": "atlas.png",
+        "tile": 3,
+        "caption": "右手握拳，左手包住右手，用四指指腹同样滑拉8–10次；左右各完成后结束，整套一次。",
+        "alt": "右手握拳，左手包住右手，用四指指腹同样滑拉8–10次；左右各完成后结束，整套一次。",
+        "sourceStep": 3
+      }
+    ],
+    "mapAlt": "四指指腹一起操作，范围是手背侧到指根关节；每次松开回位，共8–10次。",
+    "mapTitle": "握拳不展开，滑拉到指根关节",
+    "mapCaption": "四指指腹一起操作，范围是手背侧到指根关节；每次松开回位，共8–10次。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "握拳不展开，滑拉到指根关节",
+    "note": "被操作手始终握拳。不要延伸至指尖；第59项才是张手后逐指从指根拉到指尖。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "四指指腹一起操作，范围是手背侧到指根关节；每次松开回位，共8–10次。"
+  },
+  "SM-059": {
+    "id": "SM-059",
+    "uid": "preview-6534d4f0-2efd-4efd-9025-c2df52e6d79c",
+    "contentRevision": "473075589b633485",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm059/",
+    "poster": "atlas-handedness-v2.png",
+    "posterTile": 0,
+    "mapFile": "atlas-handedness-v2.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "摆手 · 拇指背侧、食指掌侧",
+        "short": "摆手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 0,
+        "caption": "左手自然张开，被操作手指伸直；右拇指指腹在手背侧，右食指指腹在掌心侧，捏住指根。图中用一根手指说明接触。",
+        "alt": "左手自然张开，被操作手指伸直；右拇指指腹在手背侧，右食指指腹在掌心侧，捏住指根。图中用一根手指说明接触。",
+        "sourceStep": 1
+      },
+      {
+        "title": "滑拉 · 从指根到指尖",
+        "short": "滑拉",
+        "file": "atlas-handedness-v2.png",
+        "tile": 1,
+        "caption": "沿皮肤从指根向指尖滑拉，每次到指尖立即松开；每根手指做8–10次。",
+        "alt": "沿皮肤从指根向指尖滑拉，每次到指尖立即松开；每根手指做8–10次。",
+        "sourceStep": 2
+      },
+      {
+        "title": "松开 · 再回指根重捏",
+        "short": "松开",
+        "file": "atlas-handedness-v2.png",
+        "tile": 2,
+        "caption": "松开拇指和食指后，回到指根重新捏住再拉；不保持夹紧向内退回。",
+        "alt": "松开拇指和食指后，回到指根重新捏住再拉；不保持夹紧向内退回。",
+        "sourceStep": 2
+      },
+      {
+        "title": "逐指 · 拇指到小指",
+        "short": "逐指",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "依次完成拇指、食指、中指、无名指、小指，每根8–10次后再进入下一根。",
+        "alt": "依次完成拇指、食指、中指、无名指、小指，每根8–10次后再进入下一根。",
+        "sourceStep": 3
+      },
+      {
+        "title": "换手 · 五指做完再换",
+        "short": "换手",
+        "file": "atlas-handedness-v2.png",
+        "tile": 3,
+        "caption": "一侧五指全部完成后换手，右手自然张开，被操作手指伸直，用左手按相同方法操作；整套一次。",
+        "alt": "一侧五指全部完成后换手，右手自然张开，被操作手指伸直，用左手按相同方法操作；整套一次。",
+        "sourceStep": 4
+      }
+    ],
+    "mapAlt": "拇指在背侧、食指在掌侧，两指指腹对夹；到指尖立即松开，再回指根。",
+    "mapTitle": "张手逐指，指根到指尖8–10次",
+    "mapCaption": "拇指在背侧、食指在掌侧，两指指腹对夹；到指尖立即松开，再回指根。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "张手逐指，指根到指尖8–10次",
+    "note": "范围是各指根至指尖，与第58项的手背至指根不同。每根做完8–10次后再换下一根，顺序为拇指到小指。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "拇指在背侧、食指在掌侧，两指指腹对夹；到指尖立即松开，再回指根。",
+    "visualRevision": "handedness-20261025-v2"
+  },
+  "SM-060": {
+    "id": "SM-060",
+    "uid": "preview-a8a2ce97-0d7d-474b-8469-a2851d24de97",
+    "contentRevision": "0e14769f958c1e42",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm060/",
+    "poster": "atlas.png",
+    "posterTile": 0,
+    "mapFile": "atlas.png",
+    "mapTile": 3,
+    "overlayFamily": "hand-batch",
+    "phases": [
+      {
+        "title": "准备 · 前臂水平横在胸前",
+        "short": "准备",
+        "file": "atlas.png",
+        "tile": 0,
+        "caption": "左肘弯曲，左前臂水平横在胸前并保持不动，左手四指伸直。",
+        "alt": "左肘弯曲，左前臂水平横在胸前并保持不动，左手四指伸直。",
+        "sourceStep": 0
+      },
+      {
+        "title": "拳助 · 掌根面顶住中间关节",
+        "short": "拳助",
+        "file": "contact-detail-handedness-v2.png",
+        "caption": "接触特写：右手握拳，用拳的掌根面顶住左手四指中间关节，使左掌向后掰，手背靠近前臂背面，保持10秒。前臂水平的整体摆位见准备图。",
+        "alt": "掌面斜视接触特写：右拳掌根面接触左手四指中间关节，接触位置高于掌心。",
+        "sourceStep": 1
+      },
+      {
+        "title": "回正 · 松开第一阶段",
+        "short": "回正",
+        "file": "atlas.png",
+        "tile": 3,
+        "caption": "松开用力，让左腕回正，再进入第二阶段。前臂保持水平。",
+        "alt": "松开用力，让左腕回正，再进入第二阶段。前臂保持水平。",
+        "sourceStep": 1
+      },
+      {
+        "title": "握指 · 同向背伸保持10秒",
+        "short": "握指",
+        "file": "atlas.png",
+        "tile": 2,
+        "caption": "右手握住左手四指，右拇指在左手手背侧，右掌心在左手掌心侧；让左掌向与第一步相同的方向后掰，保持10秒。",
+        "alt": "右手握住左手四指，右拇指在左手手背侧，右掌心在左手掌心侧；让左掌向与第一步相同的方向后掰，保持10秒。",
+        "sourceStep": 2
+      },
+      {
+        "title": "再回正 · 松开第二阶段",
+        "short": "回正",
+        "file": "atlas.png",
+        "tile": 3,
+        "caption": "第二步结束后松开，左腕回正；两阶段均向后掰，不改成相反方向。",
+        "alt": "第二步结束后松开，左腕回正；两阶段均向后掰，不改成相反方向。",
+        "sourceStep": 2
+      },
+      {
+        "title": "换侧 · 每侧两阶段各10秒",
+        "short": "换侧",
+        "file": "atlas.png",
+        "tile": 3,
+        "caption": "同侧两阶段完成后换手镜像操作，另一侧两步也各10秒，每步结束松开回正。整套一遍。",
+        "alt": "同侧两阶段完成后换手镜像操作，另一侧两步也各10秒，每步结束松开回正。整套一遍。",
+        "sourceStep": 3
+      }
+    ],
+    "mapAlt": "拳助和握指都使手背靠近前臂背面，各保持10秒；每一步结束松开回正。",
+    "mapTitle": "两种辅助方式，同向手腕背伸",
+    "mapCaption": "拳助和握指都使手背靠近前臂背面，各保持10秒；每一步结束松开回正。",
+    "legend": [
+      "接触或操作范围",
+      "沿皮肤的去程",
+      "松开后的回位"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "return"
+    ],
+    "noteTitle": "两种辅助方式，同向手腕背伸",
+    "note": "外翻方向已由用户确认：手掌向后掰，手背靠近前臂背面。前臂水平固定；第一步用拳的掌根面顶四指中间关节，不是拳头正面顶掌心。",
+    "playerNote": "自动翻页每页6秒，只用于看图，不是动作计时。图示以操作一侧为例，另一侧手型镜像对调；插图接触细节仍待人工复核。",
+    "cardCaption": "拳助和握指都使手背靠近前臂背面，各保持10秒；每一步结束松开回正。",
+    "visualRevision": "handedness-20261025-v2"
+  }
+}

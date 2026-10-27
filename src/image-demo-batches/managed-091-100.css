@@ -1,0 +1,3 @@
+.image-player:has(.image-stage img:is([src*="/sm091/"],[src*="/sm092/"],[src*="/sm093/"],[src*="/sm094/"],[src*="/sm095/"],[src*="/sm096/"],[src*="/sm097/"],[src*="/sm098/"],[src*="/sm099/"],[src*="/sm100/"])) .image-phase-tabs{grid-template-columns:repeat(5,minmax(0,1fr))!important}
+@media(max-width:600px){.image-player:has(.image-stage img:is([src*="/sm091/"],[src*="/sm092/"],[src*="/sm093/"],[src*="/sm094/"],[src*="/sm095/"],[src*="/sm096/"],[src*="/sm097/"],[src*="/sm098/"],[src*="/sm099/"],[src*="/sm100/"])) .image-phase-tabs{grid-template-columns:repeat(3,minmax(0,1fr))!important}}
+.managed-091-100-overlay text{paint-order:stroke;stroke:#fffaf0;stroke-width:.5px}

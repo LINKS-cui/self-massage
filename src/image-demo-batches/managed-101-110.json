@@ -1,0 +1,1105 @@
+{
+  "SM-101": {
+    "id": "SM-101",
+    "uid": "preview-e6396e5a-6f61-41c1-a179-df5f89193bd4",
+    "contentRevision": "6a2aa83994c59f07",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm101/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "mapFile": "sheet-v1.png",
+    "mapTile": 1,
+    "mapTitle": "双直臂交替，经过朝天",
+    "mapAlt": "双臂同时向相反方向摆动；交换再复位为 1 次，共 20 次。",
+    "mapCaption": "双臂同时向相反方向摆动；交换再复位为 1 次，共 20 次。",
+    "phases": [
+      {
+        "short": "起势",
+        "title": "一臂头侧、一臂脚侧",
+        "sourceStep": 0,
+        "tile": 0,
+        "caption": "仰卧，双臂伸直。此图以左臂在头侧、右臂在脚侧为例，起始哪臂在头侧没有规定。",
+        "alt": "仰卧，双臂伸直。此图以左臂在头侧、右臂在脚侧为例，起始哪臂在头侧没有规定。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "经过",
+        "title": "同时反向摆动 · 经过朝天位置",
+        "sourceStep": 1,
+        "tile": 1,
+        "caption": "以双肩为轴，两臂同时向相反方向摆动，经过朝天位置。双肘始终伸直；此图是经过位置，不要求停顿。",
+        "alt": "以双肩为轴，两臂同时向相反方向摆动，经过朝天位置。双肘始终伸直；此图是经过位置，不要求停顿。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "交换",
+        "title": "两臂交换头侧与脚侧",
+        "sourceStep": 1,
+        "tile": 2,
+        "caption": "左臂摆向脚侧、右臂摆向头侧，双臂仍伸直。此时只完成了去程。",
+        "alt": "左臂摆向脚侧、右臂摆向头侧，双臂仍伸直。此时只完成了去程。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "摆回",
+        "title": "同时反向 · 再经过朝天位置",
+        "sourceStep": 2,
+        "tile": 3,
+        "caption": "两臂同时反向摆回，仍经过朝天位置，肘保持伸直。",
+        "alt": "两臂同时反向摆回，仍经过朝天位置，肘保持伸直。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "复位",
+        "title": "回到最初的两臂位置",
+        "sourceStep": 2,
+        "tile": 0,
+        "caption": "左臂回头侧、右臂回脚侧；交换后再摆回起势，才完成一个完整来回。",
+        "alt": "左臂回头侧、右臂回脚侧；交换后再摆回起势，才完成一个完整来回。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "计数",
+        "title": "完整来回 1 次 · 共 20 次",
+        "sourceStep": 3,
+        "tile": 0,
+        "caption": "两臂交换位置再回到起势算 1 次，共 20 次。没有规定速度、停留、睁闭眼或呼吸。",
+        "alt": "两臂交换位置再回到起势算 1 次，共 20 次。没有规定速度、停留、睁闭眼或呼吸。",
+        "file": "sheet-v1.png"
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "图中先左臂在头侧仅为示例。不是地面左右平扫，也不是屈肘摆动。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "双臂同时向相反方向摆动；交换再复位为 1 次，共 20 次。"
+  },
+  "SM-102": {
+    "id": "SM-102",
+    "uid": "preview-3ce3dac3-d301-4299-abd1-fc8e2b2301df",
+    "contentRevision": "b2c0559639a7096a",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm102/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "mapFile": "sheet-v1.png",
+    "mapTile": 0,
+    "mapTitle": "每臂先水平，再竖直",
+    "mapAlt": "左臂两段全完成后才换右臂。每个平面两个方向各 10 圈，每臂合计 40 圈。",
+    "mapCaption": "左臂两段全完成后才换右臂。每个平面两个方向各 10 圈，每臂合计 40 圈。",
+    "phases": [
+      {
+        "short": "左臂",
+        "title": "先左臂 · 以左肩为圆心",
+        "sourceStep": 0,
+        "tile": 0,
+        "caption": "仰卧，左臂保持伸直，以左肩为圆心尽可能大幅度画圆。右臂图示自然放置。",
+        "alt": "仰卧，左臂保持伸直，以左肩为圆心尽可能大幅度画圆。右臂图示自然放置。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "水平",
+        "title": "左臂水平圈 · 一个方向 10 圈",
+        "sourceStep": 1,
+        "tile": 0,
+        "caption": "先在与地面平行的水平面画圈，一个方向 10 圈。起始转向没有规定，图中圆形只说明平面。",
+        "alt": "先在与地面平行的水平面画圈，一个方向 10 圈。起始转向没有规定，图中圆形只说明平面。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "反向",
+        "title": "左臂水平圈 · 反向 10 圈",
+        "sourceStep": 1,
+        "tile": 0,
+        "caption": "在同一水平面反向画 10 圈，本段合计 20 圈。",
+        "alt": "在同一水平面反向画 10 圈，本段合计 20 圈。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "竖直",
+        "title": "左臂竖直圈 · 一个方向 10 圈",
+        "sourceStep": 2,
+        "tile": 1,
+        "caption": "改为沿身体头脚方向的竖直平面画圈，一个方向 10 圈。平面可略微倾斜，以不碰地面为准。",
+        "alt": "改为沿身体头脚方向的竖直平面画圈，一个方向 10 圈。平面可略微倾斜，以不碰地面为准。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "反向",
+        "title": "左臂竖直圈 · 反向 10 圈",
+        "sourceStep": 2,
+        "tile": 1,
+        "caption": "同一竖直平面反向 10 圈。左臂水平与竖直两段全部完成，合计 40 圈，再换右臂。",
+        "alt": "同一竖直平面反向 10 圈。左臂水平与竖直两段全部完成，合计 40 圈，再换右臂。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右水平",
+        "title": "换右臂 · 水平一个方向 10 圈",
+        "sourceStep": 3,
+        "tile": 2,
+        "caption": "左臂两段做完后，换右臂伸直，以右肩为圆心，在水平面一个方向画 10 圈。",
+        "alt": "左臂两段做完后，换右臂伸直，以右肩为圆心，在水平面一个方向画 10 圈。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右反向",
+        "title": "右臂水平圈 · 反向 10 圈",
+        "sourceStep": 3,
+        "tile": 2,
+        "caption": "右臂在同一水平面反向 10 圈，本段合计 20 圈。",
+        "alt": "右臂在同一水平面反向 10 圈，本段合计 20 圈。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右竖直",
+        "title": "右臂竖直圈 · 一个方向 10 圈",
+        "sourceStep": 3,
+        "tile": 3,
+        "caption": "再改右臂沿头脚方向的竖直平面，一个方向 10 圈；以不碰到地面为准。",
+        "alt": "再改右臂沿头脚方向的竖直平面，一个方向 10 圈；以不碰到地面为准。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右反向",
+        "title": "右臂竖直圈 · 反向 10 圈",
+        "sourceStep": 3,
+        "tile": 3,
+        "caption": "右臂同一竖直平面反向 10 圈。每臂两个平面合计 40 圈；睁闭眼与呼吸无规定。",
+        "alt": "右臂同一竖直平面反向 10 圈。每臂两个平面合计 40 圈；睁闭眼与呼吸无规定。",
+        "file": "sheet-v1.png"
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "绿色平面符号用于区别水平与沿头脚的竖直面，不规定精确轨迹、角度、起始旋向或速度。 图上手端路径与肩部支点相连，浅色线表示同一手臂经过的位置，不是增加手臂；箭头只示相对换向，不规定初始旋向。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "左臂两段全完成后才换右臂。每个平面两个方向各 10 圈，每臂合计 40 圈。"
+  },
+  "SM-103": {
+    "id": "SM-103",
+    "uid": "preview-07ea8555-65b0-4d75-9493-1cb917cc7778",
+    "contentRevision": "da9c7dbf25f4c80a",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm103/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "mapFile": "sheet-v1.png",
+    "mapTile": 1,
+    "mapTitle": "同步上举吸气，原路回位吐气",
+    "mapAlt": "身体两侧 → 朝天 → 头顶侧，再沿原路回位，完整来回共 20 次。",
+    "mapCaption": "身体两侧 → 朝天 → 头顶侧，再沿原路回位，完整来回共 20 次。",
+    "phases": [
+      {
+        "short": "起势",
+        "title": "双臂自然放在身体两侧",
+        "sourceStep": 0,
+        "tile": 0,
+        "caption": "仰卧平躺，双臂自然放在身体两侧。",
+        "alt": "仰卧平躺，双臂自然放在身体两侧。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "吸气",
+        "title": "双臂同时抬起 · 吸气",
+        "sourceStep": 1,
+        "tile": 1,
+        "caption": "以双肩为轴，同时抬起双臂，经过朝天位置。整个抬起过程中吸气。",
+        "alt": "以双肩为轴，同时抬起双臂，经过朝天位置。整个抬起过程中吸气。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "头顶",
+        "title": "双臂伸直到头顶侧放平",
+        "sourceStep": 1,
+        "tile": 2,
+        "caption": "继续同时向头顶侧伸直放平，完成抬起。图示端点不新增停留或屏息要求。",
+        "alt": "继续同时向头顶侧伸直放平，完成抬起。图示端点不新增停留或屏息要求。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "吐气",
+        "title": "原路径同时放下 · 吐气",
+        "sourceStep": 2,
+        "tile": 3,
+        "caption": "双臂沿原路径返回，经过朝天位置；整个放下回位过程中吐气。",
+        "alt": "双臂沿原路径返回，经过朝天位置；整个放下回位过程中吐气。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "复位",
+        "title": "回到身体两侧 · 完成 1 次",
+        "sourceStep": 2,
+        "tile": 0,
+        "caption": "双臂同时回到身体两侧。抬起到头顶再放下回位为 1 次。",
+        "alt": "双臂同时回到身体两侧。抬起到头顶再放下回位为 1 次。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "计数",
+        "title": "完整上举回位 · 共 20 次",
+        "sourceStep": 3,
+        "tile": 0,
+        "caption": "共做 20 次。上举吸气，放下吐气；没有规定呼吸秒数、鼻吸口呼或睁闭眼。",
+        "alt": "共做 20 次。上举吸气，放下吐气；没有规定呼吸秒数、鼻吸口呼或睁闭眼。",
+        "file": "sheet-v1.png"
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "手掌朝向与腿部细节只作姿势示例，不增加固定要求。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "身体两侧 → 朝天 → 头顶侧，再沿原路回位，完整来回共 20 次。"
+  },
+  "SM-104": {
+    "id": "SM-104",
+    "uid": "preview-592692c5-4ad2-4a0c-98ae-6738d810bf4c",
+    "contentRevision": "d849926135118fdb",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm104/",
+    "poster": "cross-repair-v3.png",
+    "posterTile": 0,
+    "mapFile": "cross-repair-v3.png",
+    "mapTitle": "交叉点：前臂 → 大臂 → 前臂",
+    "mapAlt": "上举与回程都先紧后松；同一上下顺序 5 次，再交换顺序 5 次。",
+    "mapCaption": "上举与回程都先紧后松；同一上下顺序 5 次，再交换顺序 5 次。",
+    "phases": [
+      {
+        "short": "交叉",
+        "title": "小腹上方 · 前臂中段交叉",
+        "sourceStep": 0,
+        "caption": "先在小腹上方交叉双臂，交叉点在前臂中段。此轮图示左臂在上，起始哪臂在上不限定。",
+        "alt": "先在小腹上方交叉双臂，交叉点在前臂中段。此轮图示左臂在上，起始哪臂在上不限定。",
+        "file": "cross-repair-v3.png",
+        "tile": 0
+      },
+      {
+        "short": "收紧",
+        "title": "缓慢上举 · 大臂中段交叉",
+        "sourceStep": 1,
+        "caption": "缓慢上抬时交叉逐渐收紧，接触点由前臂向大臂移动；朝天时在大臂中段最紧。",
+        "alt": "缓慢上抬时交叉逐渐收紧，接触点由前臂向大臂移动；朝天时在大臂中段最紧。",
+        "file": "cross-repair-v3.png",
+        "tile": 1,
+        "poses": [
+          {
+            "file": "cross-repair-v3.png",
+            "tile": 1,
+            "label": "全身位置"
+          },
+          {
+            "file": "cross-repair-v3.png",
+            "tile": 3,
+            "label": "交叉点近景"
+          }
+        ]
+      },
+      {
+        "short": "放松",
+        "title": "到头顶侧 · 回到前臂中段",
+        "sourceStep": 2,
+        "caption": "继续缓慢向头顶侧放平，交叉逐渐放松，接触点回到前臂中段，双臂仍交叉。",
+        "alt": "继续缓慢向头顶侧放平，交叉逐渐放松，接触点回到前臂中段，双臂仍交叉。",
+        "file": "cross-repair-v3.png",
+        "tile": 2
+      },
+      {
+        "short": "回程紧",
+        "title": "慢速复位 · 经过大臂中段",
+        "sourceStep": 3,
+        "caption": "回小腹的路上同样先紧后松：经过朝天位置时，交叉点再次移向大臂中段。",
+        "alt": "回小腹的路上同样先紧后松：经过朝天位置时，交叉点再次移向大臂中段。",
+        "file": "cross-repair-v3.png",
+        "tile": 1,
+        "poses": [
+          {
+            "file": "cross-repair-v3.png",
+            "tile": 1,
+            "label": "全身位置"
+          },
+          {
+            "file": "cross-repair-v3.png",
+            "tile": 3,
+            "label": "交叉点近景"
+          }
+        ]
+      },
+      {
+        "short": "回程松",
+        "title": "回到小腹 · 完成一次来回",
+        "sourceStep": 3,
+        "caption": "回到小腹上方，交叉点回前臂中段。完整上举再复位才算 1 次，保持这一上下顺序做 5 次。",
+        "alt": "回到小腹上方，交叉点回前臂中段。完整上举再复位才算 1 次，保持这一上下顺序做 5 次。",
+        "file": "cross-repair-v3.png",
+        "tile": 0
+      },
+      {
+        "short": "换顺序",
+        "title": "5 次后 · 交换上下交叉顺序",
+        "sourceStep": 4,
+        "caption": "先前顺序完成 5 个来回后，在小腹上方交换哪只手臂在上。此轮图示右臂在上。",
+        "alt": "先前顺序完成 5 个来回后，在小腹上方交换哪只手臂在上。此轮图示右臂在上。",
+        "file": "cross-repair-v3.png",
+        "tile": 0,
+        "flipX": true
+      },
+      {
+        "short": "再收紧",
+        "title": "新顺序 · 上举时交叉收紧",
+        "sourceStep": 4,
+        "caption": "保持新的上下顺序，仍缓慢经过朝天位置，交叉点到大臂中段。",
+        "alt": "保持新的上下顺序，仍缓慢经过朝天位置，交叉点到大臂中段。",
+        "file": "cross-repair-v3.png",
+        "tile": 1,
+        "flipX": true,
+        "poses": [
+          {
+            "file": "cross-repair-v3.png",
+            "tile": 1,
+            "label": "全身位置",
+            "flipX": true
+          },
+          {
+            "file": "cross-repair-v3.png",
+            "tile": 3,
+            "label": "交叉点近景",
+            "flipX": true
+          }
+        ]
+      },
+      {
+        "short": "再放松",
+        "title": "新顺序 · 头顶侧交叉放松",
+        "sourceStep": 4,
+        "caption": "继续到头顶侧放平，交叉点回到前臂中段。",
+        "alt": "继续到头顶侧放平，交叉点回到前臂中段。",
+        "file": "cross-repair-v3.png",
+        "tile": 2,
+        "flipX": true
+      },
+      {
+        "short": "再复位",
+        "title": "新顺序 · 回程仍先紧",
+        "sourceStep": 4,
+        "caption": "缓慢回程经过朝天位置，交叉点再次移到大臂中段；不在途中交换上下顺序。",
+        "alt": "缓慢回程经过朝天位置，交叉点再次移到大臂中段；不在途中交换上下顺序。",
+        "file": "cross-repair-v3.png",
+        "tile": 1,
+        "flipX": true,
+        "poses": [
+          {
+            "file": "cross-repair-v3.png",
+            "tile": 1,
+            "label": "全身位置",
+            "flipX": true
+          },
+          {
+            "file": "cross-repair-v3.png",
+            "tile": 3,
+            "label": "交叉点近景",
+            "flipX": true
+          }
+        ]
+      },
+      {
+        "short": "完成",
+        "title": "回到小腹 · 再做 5 次",
+        "sourceStep": 4,
+        "caption": "回到小腹上方，交叉放松回前臂中段。新顺序做 5 个完整来回；两轮合计 10 次。",
+        "alt": "回到小腹上方，交叉放松回前臂中段。新顺序做 5 个完整来回；两轮合计 10 次。",
+        "file": "cross-repair-v3.png",
+        "tile": 0,
+        "flipX": true
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "两方向均尽量慢，不增加固定秒数、停顿、肘角或呼吸节奏；睁闭眼无规定。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "上举与回程都先紧后松；同一上下顺序 5 次，再交换顺序 5 次。",
+    "mapTile": 1
+  },
+  "SM-105": {
+    "id": "SM-105",
+    "uid": "preview-f4d2bf9e-2c12-49ab-ba95-bde41204ae19",
+    "contentRevision": "e815fb7bef6caa0f",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm105/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "mapFile": "sheet-v1.png",
+    "mapTile": 1,
+    "mapTitle": "腿与头反向，外侧腿贴地",
+    "mapAlt": "并腿屈膝向左／右侧倒，头朝相反侧；完整左右共 8–10 次。",
+    "mapCaption": "并腿屈膝向左／右侧倒，头朝相反侧；完整左右共 8–10 次。",
+    "phases": [
+      {
+        "short": "起势",
+        "title": "双臂展开 · 并腿屈膝抬起",
+        "sourceStep": 0,
+        "tile": 0,
+        "caption": "仰卧，双臂向两侧展开平放，双腿并拢屈膝抬起。",
+        "alt": "仰卧，双臂向两侧展开平放，双腿并拢屈膝抬起。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "左倒",
+        "title": "双腿向左 · 头向右",
+        "sourceStep": 1,
+        "tile": 1,
+        "caption": "双腿并拢一起向身体左侧倒，下侧左腿外侧贴地，同时头向右转。",
+        "alt": "双腿并拢一起向身体左侧倒，下侧左腿外侧贴地，同时头向右转。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右倒",
+        "title": "双腿向右 · 头向左",
+        "sourceStep": 2,
+        "tile": 2,
+        "caption": "并拢双腿一起倒向右侧，下侧右腿外侧贴地，同时头转向左。",
+        "alt": "并拢双腿一起倒向右侧，下侧右腿外侧贴地，同时头转向左。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "计数",
+        "title": "完整一左一右 · 8–10 次",
+        "sourceStep": 3,
+        "tile": 2,
+        "caption": "双腿一左一右，头部始终向相反方向转动，算 1 次，共做 8–10 次。速度、停留、睁闭眼和呼吸无规定。",
+        "alt": "双腿一左一右，头部始终向相反方向转动，算 1 次，共做 8–10 次。速度、停留、睁闭眼和呼吸无规定。",
+        "file": "sheet-v1.png"
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "下侧腿外侧贴地是确认终点，不增加侧倒角度或固定速度。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "并腿屈膝向左／右侧倒，头朝相反侧；完整左右共 8–10 次。"
+  },
+  "SM-106": {
+    "id": "SM-106",
+    "uid": "preview-3e4bb074-15dd-4b1b-badc-6a70cba4bf5a",
+    "contentRevision": "7a17b3f46df40126",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm106/",
+    "poster": "supplement-v1.png",
+    "posterTile": 0,
+    "mapFile": "sheet-v1.png",
+    "mapTile": 0,
+    "mapTitle": "先贴地保持，再双臂画圈",
+    "mapAlt": "每侧腿保持不动，双臂画 3–5 圈；换侧反转画圈方向，完整左右共 5 次。",
+    "mapCaption": "每侧腿保持不动，双臂画 3–5 圈；换侧反转画圈方向，完整左右共 5 次。",
+    "phases": [
+      {
+        "short": "起势",
+        "title": "头顶十指交叉 · 掌心朝头顶方向",
+        "sourceStep": 0,
+        "tile": 0,
+        "caption": "仰卧、并腿屈膝抬起，双臂举过头顶，十指交叉；起始掌心朝头顶方向，不是天空方向。",
+        "alt": "仰卧、并腿屈膝抬起，双臂举过头顶，十指交叉；起始掌心朝头顶方向，不是天空方向。",
+        "file": "supplement-v1.png"
+      },
+      {
+        "short": "左贴地",
+        "title": "腿先左倒贴地 · 头向右",
+        "sourceStep": 1,
+        "tile": 0,
+        "caption": "并腿向左倒至下侧腿外侧贴地，同时头转向右。到位后腿保持不动，再开始双臂画圈。",
+        "alt": "并腿向左倒至下侧腿外侧贴地，同时头转向右。到位后腿保持不动，再开始双臂画圈。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "左抬起",
+        "title": "腿不动 · 双手画圈中向天空抬起",
+        "sourceStep": 2,
+        "tile": 1,
+        "caption": "以双肩为圆心带动双臂，让交叉双手在大致垂直地面的平面画圈。斜侧图显示其中向天空抬起的位置。",
+        "alt": "以双肩为圆心带动双臂，让交叉双手在大致垂直地面的平面画圈。斜侧图显示其中向天空抬起的位置。",
+        "file": "supplement-v1.png"
+      },
+      {
+        "short": "左落下",
+        "title": "仍在左侧 · 双手落下完成画圈",
+        "sourceStep": 2,
+        "tile": 0,
+        "caption": "交叉双手在圈中再落下；本侧完成 3–5 个完整圈后才换腿。圆环只示空间平面，起始旋向不限。",
+        "alt": "交叉双手在圈中再落下；本侧完成 3–5 个完整圈后才换腿。圆环只示空间平面，起始旋向不限。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右贴地",
+        "title": "画完后换右侧 · 头向左",
+        "sourceStep": 3,
+        "tile": 2,
+        "caption": "双腿一起倒到右侧，右腿外侧贴地，头向左；保持腿不动，准备将双臂画圈方向反转。",
+        "alt": "双腿一起倒到右侧，右腿外侧贴地，头向左；保持腿不动，准备将双臂画圈方向反转。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右抬起",
+        "title": "腿不动 · 反方向再画圈",
+        "sourceStep": 3,
+        "tile": 2,
+        "caption": "本侧双臂按上一侧的反方向画圈，交叉双手仍会向天空抬起再落下，共 3–5 圈。",
+        "alt": "本侧双臂按上一侧的反方向画圈，交叉双手仍会向天空抬起再落下，共 3–5 圈。",
+        "file": "supplement-v1.png"
+      },
+      {
+        "short": "右落下",
+        "title": "右侧 3–5 圈 · 完成一个左右周期",
+        "sourceStep": 3,
+        "tile": 2,
+        "caption": "交叉双手落下继续完成本侧 3–5 圈。左右两侧各画完规定圈数后才算 1 次。",
+        "alt": "交叉双手落下继续完成本侧 3–5 圈。左右两侧各画完规定圈数后才算 1 次。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "计数",
+        "title": "两侧各 3–5 圈 · 共 5 个左右周期",
+        "sourceStep": 4,
+        "tile": 2,
+        "caption": "每次换侧，双臂画圈方向都反转。完整一左一右共做 5 次，不是总共只画 5 圈。",
+        "alt": "每次换侧，双臂画圈方向都反转。完整一左一右共做 5 次，不是总共只画 5 圈。",
+        "file": "sheet-v1.png"
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "画圈平面大致垂直地面；不规定精确角度、固定停留、画圈速度、睁闭眼或呼吸。 图上手端路径与肩部支点相连，浅色线表示同一手臂经过的位置，不是增加手臂；箭头只示相对换向，不规定初始旋向。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "每侧腿保持不动，双臂画 3–5 圈；换侧反转画圈方向，完整左右共 5 次。"
+  },
+  "SM-107": {
+    "id": "SM-107",
+    "uid": "preview-d2d46e68-cc1c-447c-9df1-87593a0c6c2d",
+    "contentRevision": "ba5bf8fe76f1c2bb",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm107/",
+    "poster": "ground-repair-v4.png",
+    "mapFile": "ground-repair-v4.png",
+    "mapTitle": "对侧手抓踝，同侧臂头顶伸展",
+    "mapAlt": "每侧保持 10 秒，内含吸气 5 秒＋呼气 5 秒；完整左右共 3–5 次。",
+    "mapCaption": "每侧保持 10 秒，内含吸气 5 秒＋呼气 5 秒；完整左右共 3–5 次。",
+    "phases": [
+      {
+        "short": "右侧",
+        "title": "腰向右扭转 · 右腿外侧贴地",
+        "sourceStep": 0,
+        "caption": "上半身平躺，腰向右扭转，右腿屈膝、整条外侧贴地。全身图同时展示接下来的手脚配合。",
+        "alt": "上半身平躺，腰向右扭转，右腿屈膝、整条外侧贴地。全身图同时展示接下来的手脚配合。",
+        "file": "ground-repair-v4.png"
+      },
+      {
+        "short": "脚膝",
+        "title": "左脚在右膝右侧 · 右膝顶住左脚",
+        "sourceStep": 1,
+        "caption": "左腿抬起，左脚放在右膝的右侧，由右膝顶住左脚，帮助固定右腿；不是脚向下压膝。",
+        "alt": "左腿抬起，左脚放在右膝的右侧，由右膝顶住左脚，帮助固定右腿；不是脚向下压膝。",
+        "file": "ground-repair-v4.png"
+      },
+      {
+        "short": "手头",
+        "title": "左手抓右踝 · 右臂头顶伸展",
+        "sourceStep": 2,
+        "caption": "左手跨侧抓住右脚脚踝；右臂举过头顶，向头顶方向伸展；头向右转。",
+        "alt": "左手跨侧抓住右脚脚踝；右臂举过头顶，向头顶方向伸展；头向右转。",
+        "file": "ground-repair-v4.png"
+      },
+      {
+        "short": "吸气",
+        "title": "右侧保持 · 先深吸气 5 秒",
+        "sourceStep": 3,
+        "caption": "保持此姿势共 10 秒：前 5 秒深吸气。呼吸包含在 10 秒中，不另加时长。",
+        "alt": "保持此姿势共 10 秒：前 5 秒深吸气。呼吸包含在 10 秒中，不另加时长。",
+        "file": "ground-repair-v4.png"
+      },
+      {
+        "short": "呼气",
+        "title": "右侧保持 · 后呼气 5 秒",
+        "sourceStep": 3,
+        "caption": "同一姿势继续保持，后 5 秒呼气；前后合计 10 秒。",
+        "alt": "同一姿势继续保持，后 5 秒呼气；前后合计 10 秒。",
+        "file": "ground-repair-v4.png"
+      },
+      {
+        "short": "换侧",
+        "title": "腰向左 · 手脚角色对调",
+        "sourceStep": 4,
+        "caption": "左腿屈膝外侧贴地，右脚在左膝左侧，左膝顶右脚；右手抓左踝，左臂伸向头顶，头向左转。",
+        "alt": "左腿屈膝外侧贴地，右脚在左膝左侧，左膝顶右脚；右手抓左踝，左臂伸向头顶，头向左转。",
+        "file": "ground-repair-v4.png",
+        "flipX": true
+      },
+      {
+        "short": "左吸",
+        "title": "左侧保持 · 先吸气 5 秒",
+        "sourceStep": 4,
+        "caption": "换侧后同样保持 10 秒，前 5 秒深吸气。",
+        "alt": "换侧后同样保持 10 秒，前 5 秒深吸气。",
+        "file": "ground-repair-v4.png",
+        "flipX": true
+      },
+      {
+        "short": "左呼",
+        "title": "左侧保持 · 后呼气 5 秒",
+        "sourceStep": 4,
+        "caption": "后 5 秒呼气，与前半段合计 10 秒。",
+        "alt": "后 5 秒呼气，与前半段合计 10 秒。",
+        "file": "ground-repair-v4.png",
+        "flipX": true
+      },
+      {
+        "short": "计数",
+        "title": "左右各保持一次 · 共 3–5 次",
+        "sourceStep": 5,
+        "caption": "右侧与左侧各完成一次 10 秒保持算 1 次，共做 3–5 次。睁闭眼无规定。",
+        "alt": "右侧与左侧各完成一次 10 秒保持算 1 次，共做 3–5 次。睁闭眼无规定。",
+        "file": "ground-repair-v4.png",
+        "flipX": true
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "脚与膝相顶固定，不能画成脚压膝；手抓的是对侧脚踝。未规定切换速度与扭转角度。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "每侧保持 10 秒，内含吸气 5 秒＋呼气 5 秒；完整左右共 3–5 次。"
+  },
+  "SM-108": {
+    "id": "SM-108",
+    "uid": "preview-6e14e76b-7bec-4dc9-98c5-f74943df94f8",
+    "contentRevision": "634a4180ddc61793",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm108/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "mapFile": "sheet-v1.png",
+    "mapTile": 1,
+    "mapTitle": "搭踝不变，膝上下、腕持续转动",
+    "mapAlt": "先左膝上下 10 次，再换右膝 10 次；换腿时双腕转向反转。",
+    "mapCaption": "先左膝上下 10 次，再换右膝 10 次；换腿时双腕转向反转。",
+    "phases": [
+      {
+        "short": "下方腿",
+        "title": "右小腿弯回 · 右脚跟靠大腿外侧",
+        "sourceStep": 0,
+        "tile": 0,
+        "caption": "仰卧，下方右腿屈膝、小腿弯回，脚后跟尽量靠近右大腿外侧；图中同时展示后续搭踝关系。",
+        "alt": "仰卧，下方右腿屈膝、小腿弯回，脚后跟尽量靠近右大腿外侧；图中同时展示后续搭踝关系。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "搭踝",
+        "title": "左踝搭右膝上方大腿",
+        "sourceStep": 1,
+        "tile": 1,
+        "caption": "左腿屈膝向外打开，左脚踝搭在右膝上方的大腿上。",
+        "alt": "左腿屈膝向外打开，左脚踝搭在右膝上方的大腿上。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "摆臂",
+        "title": "双肘弯曲 · 小臂朝头部",
+        "sourceStep": 2,
+        "tile": 1,
+        "caption": "双臂向两侧展开，双肘弯曲，小臂朝头部方向。手腕在这一姿势下持续转动。",
+        "alt": "双臂向两侧展开，双肘弯曲，小臂朝头部方向。手腕在这一姿势下持续转动。",
+        "file": "sheet-v1.png",
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "label": "全身姿势",
+            "alt": "全身姿势",
+            "tile": 1
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 A",
+            "alt": "腕部姿态 A",
+            "tile": 2,
+            "overlayPhase": 100
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 B",
+            "alt": "腕部姿态 B",
+            "tile": 3,
+            "overlayPhase": 100
+          }
+        ]
+      },
+      {
+        "short": "左膝上",
+        "title": "转双腕同时 · 左膝朝天空抬起",
+        "sourceStep": 3,
+        "tile": 0,
+        "caption": "保持左踝搭右大腿，左膝朝天空抬起，同时持续转动双腕。腕圈不计数，也不与膝盖一一对应。",
+        "alt": "保持左踝搭右大腿，左膝朝天空抬起，同时持续转动双腕。腕圈不计数，也不与膝盖一一对应。",
+        "file": "sheet-v1.png",
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "label": "全身姿势",
+            "alt": "全身姿势",
+            "tile": 0
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 A",
+            "alt": "腕部姿态 A",
+            "tile": 2,
+            "overlayPhase": 100
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 B",
+            "alt": "腕部姿态 B",
+            "tile": 3,
+            "overlayPhase": 100
+          }
+        ]
+      },
+      {
+        "short": "左膝下",
+        "title": "左膝落向地面 · 上下 10 次",
+        "sourceStep": 3,
+        "tile": 1,
+        "caption": "左膝再向地面方向落下，不要求碰地。一上加一下算 1 次，共 10 次；双腕继续转动。",
+        "alt": "左膝再向地面方向落下，不要求碰地。一上加一下算 1 次，共 10 次；双腕继续转动。",
+        "file": "sheet-v1.png",
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "label": "全身姿势",
+            "alt": "全身姿势",
+            "tile": 1
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 A",
+            "alt": "腕部姿态 A",
+            "tile": 2,
+            "overlayPhase": 100
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 B",
+            "alt": "腕部姿态 B",
+            "tile": 3,
+            "overlayPhase": 100
+          }
+        ]
+      },
+      {
+        "short": "换腿上",
+        "title": "换腿 · 右膝抬起，双腕反向",
+        "sourceStep": 4,
+        "tile": 2,
+        "caption": "左小腿弯回，左脚跟靠左大腿外侧；右踝搭左膝上方大腿，右膝朝天空抬起，同时将两腕各自的转向反转。",
+        "alt": "左小腿弯回，左脚跟靠左大腿外侧；右踝搭左膝上方大腿，右膝朝天空抬起，同时将两腕各自的转向反转。",
+        "file": "sheet-v1.png",
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "label": "全身姿势",
+            "alt": "全身姿势",
+            "tile": 2
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 A",
+            "alt": "腕部姿态 A",
+            "tile": 2,
+            "overlayPhase": 105
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 B",
+            "alt": "腕部姿态 B",
+            "tile": 3,
+            "overlayPhase": 105
+          }
+        ]
+      },
+      {
+        "short": "换腿下",
+        "title": "右膝落下 · 同样上下 10 次",
+        "sourceStep": 4,
+        "tile": 3,
+        "caption": "右膝再向地面落下，完整上下一次，做 10 次。膝不必贴地，双腕持续转动不计次数。",
+        "alt": "右膝再向地面落下，完整上下一次，做 10 次。膝不必贴地，双腕持续转动不计次数。",
+        "file": "sheet-v1.png",
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "label": "全身姿势",
+            "alt": "全身姿势",
+            "tile": 3
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 A",
+            "alt": "腕部姿态 A",
+            "tile": 2,
+            "overlayPhase": 105
+          },
+          {
+            "file": "wrist-v2.png",
+            "label": "腕部姿态 B",
+            "alt": "腕部姿态 B",
+            "tile": 3,
+            "overlayPhase": 105
+          }
+        ]
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "起始转腕方向及两腕是否同向无规定。下方腿弯回，不画成脚掌踩地；没有固定速度、停留或呼吸。 腕部近景仅帮助辨认腕位；箭头为一种初始转向示例，换腿后反向，不规定双腕相对转向。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "先左膝上下 10 次，再换右膝 10 次；换腿时双腕转向反转。"
+  },
+  "SM-109": {
+    "id": "SM-109",
+    "uid": "preview-6b001065-61ea-48e0-b9e6-28449b3d88ff",
+    "contentRevision": "002d8a5ffb2b1fc9",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm109/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "mapFile": "sheet-v1.png",
+    "mapTile": 1,
+    "mapTitle": "直腿与对侧手臂配合",
+    "mapAlt": "每侧都先抬起再复位；两侧完成才算 1 次，共 20 次。",
+    "mapCaption": "每侧都先抬起再复位；两侧完成才算 1 次，共 20 次。",
+    "phases": [
+      {
+        "short": "起势",
+        "title": "双腿伸直 · 双臂放在身体两侧",
+        "sourceStep": 0,
+        "tile": 0,
+        "caption": "仰卧，双腿伸直，双臂自然放在身体两侧。",
+        "alt": "仰卧，双腿伸直，双臂自然放在身体两侧。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右腿左臂",
+        "title": "右直腿抬起 · 左臂同时到头顶",
+        "sourceStep": 1,
+        "tile": 1,
+        "caption": "以先右腿为例：右膝伸直，右腿抬至与地面成 90°，同时左臂经朝天位置上翻至头顶方向；左腿保持伸直。",
+        "alt": "以先右腿为例：右膝伸直，右腿抬至与地面成 90°，同时左臂经朝天位置上翻至头顶方向；左腿保持伸直。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "右侧回位",
+        "title": "右腿放下 · 左臂同时原路复位",
+        "sourceStep": 2,
+        "tile": 2,
+        "caption": "右腿放下同时，左臂沿原路回到身体旁。先完成这一侧的抬起与回位，再换另一侧。",
+        "alt": "右腿放下同时，左臂沿原路回到身体旁。先完成这一侧的抬起与回位，再换另一侧。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "左腿右臂",
+        "title": "左直腿抬起 · 右臂同时到头顶",
+        "sourceStep": 3,
+        "tile": 3,
+        "caption": "换左膝伸直，左腿抬到与地面成 90°，同时右臂上翻至头顶方向；右腿仍伸直。",
+        "alt": "换左膝伸直，左腿抬到与地面成 90°，同时右臂上翻至头顶方向；右腿仍伸直。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "左侧回位",
+        "title": "左腿放下 · 右臂同时原路复位",
+        "sourceStep": 3,
+        "tile": 2,
+        "caption": "左腿放下的同时，右臂原路回到身体旁。",
+        "alt": "左腿放下的同时，右臂原路回到身体旁。",
+        "file": "sheet-v1.png"
+      },
+      {
+        "short": "计数",
+        "title": "两侧各抬起并复位 · 共 20 次",
+        "sourceStep": 4,
+        "tile": 0,
+        "caption": "一侧抬起并复位，另一侧也抬起并复位，完整一左一右才算 1 次，共 20 次；起始侧不限。",
+        "alt": "一侧抬起并复位，另一侧也抬起并复位，完整一左一右才算 1 次，共 20 次；起始侧不限。",
+        "file": "sheet-v1.png"
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "不规定速度、停留、睁闭眼或呼吸，不要求抬到位后额外保持。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "每侧都先抬起再复位；两侧完成才算 1 次，共 20 次。"
+  },
+  "SM-110": {
+    "id": "SM-110",
+    "uid": "preview-f04e80c6-0d83-4a16-8c40-8c0cc752c9d2",
+    "contentRevision": "ae70af6b19d1638e",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm110/",
+    "poster": "upright-grip-v2.png",
+    "mapFile": "sheet-v1.png",
+    "mapTile": 1,
+    "mapTitle": "对侧手握脚，直腿跨侧",
+    "mapAlt": "先抬腿与地面成 90°，再跨侧与另一腿成 90°；每侧 10 秒，完整左右 2–3 次。",
+    "mapCaption": "先抬腿与地面成 90°，再跨侧与另一腿成 90°；每侧 10 秒，完整左右 2–3 次。",
+    "phases": [
+      {
+        "short": "右腿",
+        "title": "右腿抬起 · 左手已握住右脚",
+        "sourceStep": 0,
+        "caption": "仰卧，右腿伸直抬至与地面成 90°，同时用左手握住右脚；另一腿伸直平放，头朝天空。",
+        "alt": "仰卧，右腿伸直抬至与地面成 90°，同时用左手握住右脚；另一腿伸直平放，头朝天空。",
+        "file": "upright-grip-v2.png",
+        "overlayPhase": 200
+      },
+      {
+        "short": "跨左保持",
+        "title": "右直腿跨左 · 保持 10 秒",
+        "sourceStep": 1,
+        "tile": 1,
+        "caption": "左手持续握住右脚，将伸直的右腿跨向身体左侧，使两腿成 90°，尽量贴地；头始终朝天空，保持 10 秒。",
+        "alt": "左手持续握住右脚，将伸直的右腿跨向身体左侧，使两腿成 90°，尽量贴地；头始终朝天空，保持 10 秒。",
+        "file": "sheet-v1.png",
+        "overlayPhase": 1
+      },
+      {
+        "short": "左腿",
+        "title": "左腿抬起 · 右手已握住左脚",
+        "sourceStep": 3,
+        "caption": "仰卧，左腿伸直抬至与地面成 90°，同时用右手握住左脚；另一腿伸直平放，头朝天空。",
+        "alt": "仰卧，左腿伸直抬至与地面成 90°，同时用右手握住左脚；另一腿伸直平放，头朝天空。",
+        "file": "upright-grip-v2.png",
+        "flipX": true,
+        "overlayPhase": 201
+      },
+      {
+        "short": "跨右保持",
+        "title": "左直腿跨右 · 保持 10 秒",
+        "sourceStep": 3,
+        "tile": 3,
+        "caption": "右手持续握住左脚，将伸直的左腿跨向身体右侧，使两腿成 90°，尽量贴地；头始终朝天空，保持 10 秒。",
+        "alt": "右手持续握住左脚，将伸直的左腿跨向身体右侧，使两腿成 90°，尽量贴地；头始终朝天空，保持 10 秒。",
+        "file": "sheet-v1.png",
+        "overlayPhase": 4
+      },
+      {
+        "short": "计数",
+        "title": "左右都完成 · 共 2–3 次",
+        "sourceStep": 4,
+        "tile": 3,
+        "caption": "左右两侧都完成为 1 次，共 2–3 次。睁闭眼与呼吸无规定，用力以自己舒服为准。",
+        "alt": "左右两侧都完成为 1 次，共 2–3 次。睁闭眼与呼吸无规定，用力以自己舒服为准。",
+        "file": "sheet-v1.png",
+        "overlayPhase": 6
+      }
+    ],
+    "legend": [
+      "绿色：动作方向或空间平面",
+      "橙色：接触或需辨认部位",
+      "棕色虚线：原路径复位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "图解要点",
+    "note": "抬腿时对侧手已握脚。跨侧与该侧保持合在同一步；两个 90° 分属抬腿与跨侧状态，头始终朝天空。",
+    "playerNote": "自动翻页仅供看图，不是练习节拍或计时。图为分步示意，仍待独立动作复核；力度以自己舒服为准。",
+    "cardCaption": "先抬腿与地面成 90°，再跨侧与另一腿成 90°；每侧 10 秒，完整左右 2–3 次。"
+  }
+}

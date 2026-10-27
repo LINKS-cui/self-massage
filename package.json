@@ -1,0 +1,36 @@
+{
+  "name": "self-massage",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4186 --strictPort",
+    "build": "tsc -p tsconfig.json && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4186 --strictPort",
+    "test": "node --test tests/assets.test.mjs",
+    "test:browser": "node tests/browser.mjs"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.2",
+    "typescript": "7.0.2",
+    "vite": "8.3.4"
+  },
+  "description": "A visual self-massage notebook with 135 illustrated exercise cards.",
+  "license": "MIT",
+  "author": "LINKS-cui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LINKS-cui/self-massage.git"
+  },
+  "homepage": "https://links-cui.github.io/self-massage/",
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

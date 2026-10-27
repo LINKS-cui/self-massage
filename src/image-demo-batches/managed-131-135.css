@@ -1,0 +1,5 @@
+@media (max-width: 600px) {
+  .image-player:has(.image-stage img:is([src*="/sm131/"], [src*="/sm132/"], [src*="/sm133/"], [src*="/sm134/"])) .image-phase-tabs {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  }
+}

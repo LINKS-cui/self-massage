@@ -1,0 +1,4 @@
+.image-player:has(.image-stage img:is([src*="/sm111/"],[src*="/sm112/"],[src*="/sm113/"],[src*="/sm114/"],[src*="/sm115/"],[src*="/sm116/"],[src*="/sm117/"],[src*="/sm118/"],[src*="/sm119/"],[src*="/sm120/"])) .image-phase-tabs{grid-template-columns:repeat(5,minmax(0,1fr))!important}
+@media(max-width:600px){.image-player:has(.image-stage img:is([src*="/sm111/"],[src*="/sm112/"],[src*="/sm113/"],[src*="/sm114/"],[src*="/sm115/"],[src*="/sm116/"],[src*="/sm117/"],[src*="/sm118/"],[src*="/sm119/"],[src*="/sm120/"])) .image-phase-tabs{grid-template-columns:repeat(3,minmax(0,1fr))!important}}
+.managed-111-120-overlay text{paint-order:stroke;stroke:#fffaf0;stroke-width:.5px}
+

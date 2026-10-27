@@ -1,0 +1,4 @@
+.managed-121-130-overlay text{font-family:'PingFang SC','Songti SC',sans-serif}
+@media(max-width:600px){
+ .image-player:has(.image-stage img:is([src*="/sm121/"],[src*="/sm122/"],[src*="/sm123/"],[src*="/sm124/"],[src*="/sm125/"],[src*="/sm126/"],[src*="/sm127/"],[src*="/sm128/"],[src*="/sm129/"],[src*="/sm130/"])) .image-phase-tabs{grid-template-columns:repeat(3,minmax(0,1fr))!important}
+}

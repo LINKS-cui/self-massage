@@ -1,0 +1,683 @@
+{
+  "SM-012": {
+    "id": "SM-012",
+    "uid": "ex-bd721a5e-b045-5492-bc74-99568816317c",
+    "contentRevision": "0952049f485088ce",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm012/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "内侧 · 持续捏住 4–6 秒",
+        "short": "内侧",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "全程闭眼，双手同时。拇指在眉毛下方，食指在上方，用两指指腹夹捏内侧眉毛处组织，持续 4–6 秒。",
+        "alt": "全程闭眼，双手同时。拇指在眉毛下方，食指在上方，用两指指腹夹捏内侧眉毛处组织，持续 4–6 秒。",
+        "sourceStep": 0
+      },
+      {
+        "title": "中间 · 持续捏住 4–6 秒",
+        "short": "中间",
+        "file": "sheet-v1.png",
+        "tile": 1,
+        "caption": "移到眉毛中间点，两指指腹持续捏住 4–6 秒；不是反复捏放。",
+        "alt": "移到眉毛中间点，两指指腹持续捏住 4–6 秒；不是反复捏放。",
+        "sourceStep": 1
+      },
+      {
+        "title": "外侧 · 完成这一遍",
+        "short": "外侧",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "移到眉毛外侧点，持续捏住 4–6 秒。内、中、外三点全部完成后结束，整套只做一遍。",
+        "alt": "移到眉毛外侧点，持续捏住 4–6 秒。内、中、外三点全部完成后结束，整套只做一遍。",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "眉毛内 → 中 → 外。双手同时捏按三点，每点 4–6 秒，整套一遍。",
+    "mapTitle": "眉毛内 → 中 → 外",
+    "mapCaption": "双手同时捏按三点，每点 4–6 秒，整套一遍。",
+    "legend": [
+      "点位顺序",
+      "当前点位 / 操作提示"
+    ],
+    "noteTitle": "眉毛三点捏按 · 看清顺序",
+    "note": "拇指下、食指上，以两指指腹夹捏眉毛处组织。三点位置为示意，不增加固定距离。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "双手同时捏按三点，每点 4–6 秒，整套一遍。",
+    "legendKinds": [
+      "start",
+      "press"
+    ]
+  },
+  "SM-013": {
+    "id": "SM-013",
+    "uid": "ex-940d65ae-20f6-5a06-af20-01c292e96a95",
+    "contentRevision": "e5eec5a73c87c744",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm013/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 四指并拢",
+        "short": "摆手",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "全程闭眼，双手除拇指外的四指并拢，以四指指腹接触上眼眶。",
+        "alt": "全程闭眼，双手除拇指外的四指并拢，以四指指腹接触上眼眶。",
+        "sourceStep": 0
+      },
+      {
+        "title": "上推 · 越过发际线",
+        "short": "上推",
+        "file": "sheet-v1.png",
+        "tile": 1,
+        "caption": "双手同时沿额头向上推，越过发际线，继续向头顶。绿色实线为贴肤方向。",
+        "alt": "双手同时沿额头向上推，越过发际线，继续向头顶。绿色实线为贴肤方向。",
+        "sourceStep": 1
+      },
+      {
+        "title": "到达 · 推到头顶",
+        "short": "头顶",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "双手推到头顶。头顶停留时间没有规定，不把此页翻页时长当作保持时间。",
+        "alt": "双手推到头顶。头顶停留时间没有规定，不把此页翻页时长当作保持时间。",
+        "sourceStep": 1
+      },
+      {
+        "title": "回位 · 抬手再回来",
+        "short": "回位",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "到头顶后抬手，离开接触面回到上眼眶。虚线表示离肤回位；共向上推 8–10 次，1 组。",
+        "alt": "到头顶后抬手，离开接触面回到上眼眶。虚线表示离肤回位；共向上推 8–10 次，1 组。",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "上眼眶 → 额头 → 头顶。四指并拢，双手同步向上；越过发际线到头顶。",
+    "mapTitle": "上眼眶 → 额头 → 头顶",
+    "mapCaption": "四指并拢，双手同步向上；越过发际线到头顶。",
+    "legend": [
+      "贴肤路径 / 起点",
+      "滑动终点",
+      "离肤回位"
+    ],
+    "noteTitle": "上眼眶向头顶推抚 · 看清顺序",
+    "note": "每次推至头顶后抬手回位；共 8–10 次，1 组。头顶没有固定停留时间。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "四指并拢，双手同步向上；越过发际线到头顶。",
+    "legendKinds": [
+      "start",
+      "end",
+      "return"
+    ]
+  },
+  "SM-014": {
+    "id": "SM-014",
+    "uid": "ex-f3e101dc-85c4-5fdd-8a27-b993ca7c71d4",
+    "contentRevision": "9877fe3e8af31db7",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm014/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 眉上一指宽",
+        "short": "摆手",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "全程闭眼，中指与无名指并拢，用两指指腹放在眉毛上方一指宽的内侧位置。",
+        "alt": "全程闭眼，中指与无名指并拢，用两指指腹放在眉毛上方一指宽的内侧位置。",
+        "sourceStep": 0
+      },
+      {
+        "title": "向外 · 左右同时",
+        "short": "向外",
+        "file": "sheet-v1.png",
+        "tile": 1,
+        "caption": "左右同时从眉心一侧向外拉，接触始终位于眉毛上方一指宽处。",
+        "alt": "左右同时从眉心一侧向外拉，接触始终位于眉毛上方一指宽处。",
+        "sourceStep": 1
+      },
+      {
+        "title": "到达 · 眉尖一侧",
+        "short": "外侧",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "向外拉到眉尖一侧，此次贴肤向外动作结束。",
+        "alt": "向外拉到眉尖一侧，此次贴肤向外动作结束。",
+        "sourceStep": 1
+      },
+      {
+        "title": "抬手 · 离肤回内侧",
+        "short": "回位",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "抬手离开皮肤回到眉心一侧，再开始下一次；不沿皮肤向内拉。每组 8–10 次，共 2–3 组。",
+        "alt": "抬手离开皮肤回到眉心一侧，再开始下一次；不沿皮肤向内拉。每组 8–10 次，共 2–3 组。",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "眉上双指，由内向外。中指＋无名指指腹，眉上一指宽处向外拉。",
+    "mapTitle": "眉上双指，由内向外",
+    "mapCaption": "中指＋无名指指腹，眉上一指宽处向外拉。",
+    "legend": [
+      "贴肤路径 / 起点",
+      "滑动终点",
+      "离肤回位"
+    ],
+    "noteTitle": "眉上双指向外推拉 · 看清顺序",
+    "note": "“一指宽”保留原相对距离，不换算厘米。每组 8–10 次，共 2–3 组；组间休息无规定。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "中指＋无名指指腹，眉上一指宽处向外拉。",
+    "legendKinds": [
+      "start",
+      "end",
+      "return"
+    ]
+  },
+  "SM-015": {
+    "id": "SM-015",
+    "uid": "ex-5a6bbd06-1c9f-5f5e-a41e-61df3719772f",
+    "contentRevision": "f9071febd845869c",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm015/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "阶段一 · 额头各处转压",
+        "short": "转压",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "全程闭眼，左右同时，以并拢的中指和无名指指腹在额头各处转压，每点 4–6 圈。",
+        "alt": "全程闭眼，左右同时，以并拢的中指和无名指指腹在额头各处转压，每点 4–6 圈。",
+        "sourceStep": 0
+      },
+      {
+        "title": "覆盖额头 · 完成全部转压",
+        "short": "覆盖",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "先覆盖整个额头，完成全部转压后再进入上推阶段。点位、顺序、旋转方向及双侧旋转配合均无固定要求。",
+        "alt": "先覆盖整个额头，完成全部转压后再进入上推阶段。点位、顺序、旋转方向及双侧旋转配合均无固定要求。",
+        "sourceStep": 0
+      },
+      {
+        "title": "阶段二 · 从眼眶处起推",
+        "short": "起推",
+        "file": "sheet-v1.png",
+        "tile": 1,
+        "caption": "整个额头转压完成后，仍用并拢的中指和无名指指腹，从眼眶处向上推。",
+        "alt": "整个额头转压完成后，仍用并拢的中指和无名指指腹，从眼眶处向上推。",
+        "sourceStep": 1
+      },
+      {
+        "title": "上推 · 到发际线附近",
+        "short": "上推",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "向上推到发际线附近；在额头不同位置分别上推，每个位置 4–6 次，覆盖整个额头。",
+        "alt": "向上推到发际线附近；在额头不同位置分别上推，每个位置 4–6 次，覆盖整个额头。",
+        "sourceStep": 2
+      },
+      {
+        "title": "抬手回位 · 整套一遍",
+        "short": "回位",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "每次推完先抬手，再回到该位置起点。转压与上推整套做一遍；上推时长、停留时间无固定规定。",
+        "alt": "每次推完先抬手，再回到该位置起点。转压与上推整套做一遍；上推时长、停留时间无固定规定。",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "先全额转压，再全额上推。转压每点 4–6 圈；上推每位置 4–6 次；整套一遍。",
+    "mapTitle": "先全额转压，再全额上推",
+    "mapCaption": "转压每点 4–6 圈；上推每位置 4–6 次；整套一遍。",
+    "legend": [
+      "额头覆盖范围",
+      "发际线附近",
+      "两指接触处"
+    ],
+    "noteTitle": "额头多点转压与上推 · 看清顺序",
+    "note": "绿色范围表示额头覆盖区域，不是固定点位。转压阶段全部完成后再上推；终点在发际线附近，不延伸到头顶。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "转压每点 4–6 圈；上推每位置 4–6 次；整套一遍。"
+  },
+  "SM-016": {
+    "id": "SM-016",
+    "uid": "ex-dce7e8af-be56-5c2c-ad43-a8bd5eb853a7",
+    "contentRevision": "08e26db0c223b4bf",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm016/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "眉心 · 单手中指",
+        "short": "眉心",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "全程闭眼，用单手中指指腹按压眉心，每次 10 秒，做 3 次。此段没有另加呼吸要求。",
+        "alt": "全程闭眼，用单手中指指腹按压眉心，每次 10 秒，做 3 次。此段没有另加呼吸要求。",
+        "sourceStep": 0
+      },
+      {
+        "title": "鼻翼两侧 · 鼻深呼吸",
+        "short": "鼻翼",
+        "file": "sheet-v1.png",
+        "tile": 1,
+        "caption": "双手中指指腹同时按住鼻翼两侧，配合鼻子深呼吸；每次 10 秒，做 3 次。",
+        "alt": "双手中指指腹同时按住鼻翼两侧，配合鼻子深呼吸；每次 10 秒，做 3 次。",
+        "sourceStep": 1
+      },
+      {
+        "title": "鼻底中柱 · 叠放食指",
+        "short": "鼻底",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "两手食指叠放，下面食指的指腹接触两鼻孔之间、鼻子底部中间的小柱状部位。配合鼻子深呼吸，每次 10 秒，做 3 次。",
+        "alt": "两手食指叠放，下面食指的指腹接触两鼻孔之间、鼻子底部中间的小柱状部位。配合鼻子深呼吸，每次 10 秒，做 3 次。",
+        "sourceStep": 2
+      },
+      {
+        "title": "下唇正下方 · 口深呼吸",
+        "short": "唇下",
+        "file": "sheet-v1.png",
+        "tile": 3,
+        "caption": "保持食指叠放，用下面食指指腹按压下唇正下方凹陷，配合嘴深呼吸。每次 10 秒，做 3 次。",
+        "alt": "保持食指叠放，用下面食指指腹按压下唇正下方凹陷，配合嘴深呼吸。每次 10 秒，做 3 次。",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "四个阶段，依次进行。眉心 → 鼻翼两侧 → 鼻底中柱 → 下唇下方凹陷。",
+    "mapTitle": "四个阶段，依次进行",
+    "mapCaption": "眉心 → 鼻翼两侧 → 鼻底中柱 → 下唇下方凹陷。",
+    "legend": [
+      "阶段点位",
+      "鼻底中柱"
+    ],
+    "noteTitle": "眉心、鼻部与下巴按压及呼吸组合 · 看清顺序",
+    "note": "每段各 3 次，每次按压 10 秒；不是屏息 10 秒。两段鼻部配鼻深呼吸，末段配口深呼吸。叠指时仅下面食指指腹接触皮肤。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "眉心 → 鼻翼两侧 → 鼻底中柱 → 下唇下方凹陷。",
+    "legendKinds": [
+      "start",
+      "press"
+    ]
+  },
+  "SM-017": {
+    "id": "SM-017",
+    "uid": "ex-a30dc747-1cc1-504e-b01f-e14783b1050e",
+    "contentRevision": "061a449420447ead",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm017/",
+    "poster": "pose-v1.png",
+    "posterTile": null,
+    "phases": [
+      {
+        "title": "手位 · 五指张开",
+        "short": "手位",
+        "file": "pose-v1.png",
+        "caption": "全程闭眼，五指张开。食指或中指任选其一；图中选用食指指腹，只有所选单指参与按压。",
+        "alt": "五指张开，双侧食指指腹接触下眼眶内侧的手位示意",
+        "sourceStep": 0
+      },
+      {
+        "title": "内侧 · 单指按住",
+        "short": "内侧",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "双侧同时以所选单指指腹持续按住下眼眶内侧点 4–6 秒。",
+        "alt": "双侧同时以所选单指指腹持续按住下眼眶内侧点 4–6 秒。",
+        "sourceStep": 1
+      },
+      {
+        "title": "中间 · 持续 4–6 秒",
+        "short": "中间",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "双侧同时移到下眼眶中间点，持续按住 4–6 秒；不是反复点按。",
+        "alt": "双侧同时移到下眼眶中间点，持续按住 4–6 秒；不是反复点按。",
+        "sourceStep": 1
+      },
+      {
+        "title": "外侧 · 完成一遍",
+        "short": "外侧",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "双侧同时按住下眼眶外侧点 4–6 秒。内、中、外算一遍，整套共 2–3 遍。",
+        "alt": "双侧同时按住下眼眶外侧点 4–6 秒。内、中、外算一遍，整套共 2–3 遍。",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "下眼眶内 → 中 → 外。食指或中指任选一指；每点 4–6 秒，共 2–3 遍。",
+    "mapTitle": "下眼眶内 → 中 → 外",
+    "mapCaption": "食指或中指任选一指；每点 4–6 秒，共 2–3 遍。",
+    "legend": [
+      "点位顺序",
+      "当前点位 / 操作提示"
+    ],
+    "noteTitle": "下眼眶三点按压 · 看清顺序",
+    "note": "示范选食指，不把它改成唯一要求；不同时用两指。接触下眼眶，三个点为位置示意。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "食指或中指任选一指；每点 4–6 秒，共 2–3 遍。",
+    "legendKinds": [
+      "start",
+      "press"
+    ]
+  },
+  "SM-018": {
+    "id": "SM-018",
+    "uid": "ex-9fe7667d-98d1-5a02-b0d3-b8095473d93c",
+    "contentRevision": "771b4c04462b77f8",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm018/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "第一弧 · 内眼角起始",
+        "short": "第一弧",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "全程闭眼，食指和中指并拢，左右同时。从内眼角处下拉至约鼻尖高度，再沿弧线上提到太阳穴。",
+        "alt": "全程闭眼，食指和中指并拢，左右同时。从内眼角处下拉至约鼻尖高度，再沿弧线上提到太阳穴。",
+        "sourceStep": 1
+      },
+      {
+        "title": "太阳穴 · 保持接触 5 秒",
+        "short": "停留",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "第一条弧线到太阳穴后保持接触 5 秒，再抬手移到嘴角起点。",
+        "alt": "第一条弧线到太阳穴后保持接触 5 秒，再抬手移到嘴角起点。",
+        "sourceStep": 1
+      },
+      {
+        "title": "第二弧 · 嘴角起始",
+        "short": "第二弧",
+        "file": "sheet-v1.png",
+        "tile": 1,
+        "caption": "从嘴角处下拉至约下巴高度，再沿更大的弧线上提至太阳穴。两边同时操作。",
+        "alt": "从嘴角处下拉至约下巴高度，再沿更大的弧线上提至太阳穴。两边同时操作。",
+        "sourceStep": 2
+      },
+      {
+        "title": "太阳穴 · 再停 5 秒",
+        "short": "停留",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "第二条弧线也在太阳穴保持接触 5 秒；随后抬手离肤。",
+        "alt": "第二条弧线也在太阳穴保持接触 5 秒；随后抬手离肤。",
+        "sourceStep": 2
+      },
+      {
+        "title": "离肤回位 · 共 2–3 轮",
+        "short": "回位",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "抬手回到下一轮的内眼角起点。两条弧线依次各一次算一轮，共 2–3 轮；虚线仅表示离肤转移。",
+        "alt": "抬手回到下一轮的内眼角起点。两条弧线依次各一次算一轮，共 2–3 轮；虚线仅表示离肤转移。",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "先小弧，再大弧。内眼角起始的小弧 → 嘴角起始的大弧，均到太阳穴。",
+    "mapTitle": "先小弧，再大弧",
+    "mapCaption": "内眼角起始的小弧 → 嘴角起始的大弧，均到太阳穴。",
+    "legend": [
+      "贴肤路径 / 起点",
+      "滑动终点",
+      "离肤回位"
+    ],
+    "noteTitle": "面部双弧线提拉 · 看清顺序",
+    "note": "鼻尖、下巴仅作大致高度参照，路线不经过鼻尖本身。每条弧线终点保持接触 5 秒后抬手；两弧一轮，共 2–3 轮。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "内眼角起始的小弧 → 嘴角起始的大弧，均到太阳穴。",
+    "legendKinds": [
+      "start",
+      "end",
+      "return"
+    ]
+  },
+  "SM-019": {
+    "id": "SM-019",
+    "uid": "ex-11116735-af96-5eb5-8ab8-da398db42fbc",
+    "contentRevision": "e817c61a94020f65",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm019/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 下巴两侧",
+        "short": "摆手",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "全程闭眼，食指与中指并拢，用两指指腹按住下巴两侧，左右同时。",
+        "alt": "全程闭眼，食指与中指并拢，用两指指腹按住下巴两侧，左右同时。",
+        "sourceStep": 0
+      },
+      {
+        "title": "内线 · 先靠脸中央",
+        "short": "内线",
+        "file": "sheet-v1.png",
+        "tile": 1,
+        "caption": "先沿较靠脸中央的内线，从下巴两侧上提到太阳穴。箭头按原图保留大致走向。",
+        "alt": "先沿较靠脸中央的内线，从下巴两侧上提到太阳穴。箭头按原图保留大致走向。",
+        "sourceStep": 1
+      },
+      {
+        "title": "停留 · 保持接触 5 秒",
+        "short": "停留",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "到太阳穴后保持接触 5 秒，再抬手、离肤回到下巴。",
+        "alt": "到太阳穴后保持接触 5 秒，再抬手、离肤回到下巴。",
+        "sourceStep": 1
+      },
+      {
+        "title": "外线 · 再靠脸外侧",
+        "short": "外线",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "回到下巴两侧后，再沿较靠脸外侧的外线上提到太阳穴。",
+        "alt": "回到下巴两侧后，再沿较靠脸外侧的外线上提到太阳穴。",
+        "sourceStep": 2
+      },
+      {
+        "title": "停留 · 再保持 5 秒",
+        "short": "停留",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "外线到太阳穴后同样保持接触 5 秒，再抬手回位。",
+        "alt": "外线到太阳穴后同样保持接触 5 秒，再抬手回位。",
+        "sourceStep": 2
+      },
+      {
+        "title": "一组两线 · 共 2–3 组",
+        "short": "回位",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "内线、外线依次各一次算一组，共 2–3 组。回位先抬手，不沿皮肤向下推。",
+        "alt": "内线、外线依次各一次算一组，共 2–3 组。回位先抬手，不沿皮肤向下推。",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "下巴至太阳穴：先内后外。两条线上提；每条终点停 5 秒，两线一组，共 2–3 组。",
+    "mapTitle": "下巴至太阳穴：先内后外",
+    "mapCaption": "两条线上提；每条终点停 5 秒，两线一组，共 2–3 组。",
+    "legend": [
+      "贴肤路径 / 起点",
+      "滑动终点",
+      "离肤回位"
+    ],
+    "noteTitle": "下巴至太阳穴双线上提 · 看清顺序",
+    "note": "内线更靠脸中央，外线更靠脸侧。原图只作大致走向，不新增固定厘米或穴位名称；每条线结束后抬手回下巴。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "两条线上提；每条终点停 5 秒，两线一组，共 2–3 组。",
+    "legendKinds": [
+      "start",
+      "end",
+      "return"
+    ]
+  },
+  "SM-020": {
+    "id": "SM-020",
+    "uid": "ex-ac8dcb56-10da-5193-b2dd-0b356533f66d",
+    "contentRevision": "07b124e8f7e11a13",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm020/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "面颊两侧 · 每点 5 圈",
+        "short": "面颊",
+        "file": "sheet-v1.png",
+        "tile": 0,
+        "caption": "全程闭眼，食指和中指并拢，以两指指腹在面颊两侧同时转压，每点 5 圈。",
+        "alt": "全程闭眼，食指和中指并拢，以两指指腹在面颊两侧同时转压，每点 5 圈。",
+        "sourceStep": 0
+      },
+      {
+        "title": "嘴巴两侧 · 每点 5 圈",
+        "short": "嘴旁",
+        "file": "sheet-v1.png",
+        "tile": 1,
+        "caption": "从上到下移到嘴巴两侧，双侧同时转压，每点 5 圈。旋转方向及双侧同向或镜像均无规定。",
+        "alt": "从上到下移到嘴巴两侧，双侧同时转压，每点 5 圈。旋转方向及双侧同向或镜像均无规定。",
+        "sourceStep": 1
+      },
+      {
+        "title": "下巴两侧 · 完成整套",
+        "short": "下巴",
+        "file": "sheet-v1.png",
+        "tile": 2,
+        "caption": "最后转压下巴两侧，每点 5 圈。三组点位完成即结束，整套一遍，不重复。",
+        "alt": "最后转压下巴两侧，每点 5 圈。三组点位完成即结束，整套一遍，不重复。",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "面颊 → 嘴旁 → 下巴。三组点位从上到下，每点转 5 圈，整套一遍。",
+    "mapTitle": "面颊 → 嘴旁 → 下巴",
+    "mapCaption": "三组点位从上到下，每点转 5 圈，整套一遍。",
+    "legend": [
+      "点位顺序",
+      "圈数提示"
+    ],
+    "noteTitle": "面部三组点位转压 · 看清顺序",
+    "note": "点位序号表示从上到下的顺序；旋转方向不规定顺逆时针，也不规定两侧同向或镜像配合。每点转 5 圈，圈数不等于秒数。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "三组点位从上到下，每点转 5 圈，整套一遍。",
+    "legendKinds": [
+      "start",
+      "press"
+    ]
+  },
+  "SM-011": {
+    "id": "SM-011",
+    "uid": "ex-4d457c6b-233c-5a80-ac96-8d0ae44cd069",
+    "contentRevision": "630e409f3c35659c",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "face-batch",
+    "folder": "./illustrations/sm011/",
+    "poster": "pose-v1.png",
+    "posterTile": null,
+    "phases": [
+      {
+        "title": "手位 · 四指虚握拳",
+        "short": "手位",
+        "file": "pose-v1.png",
+        "caption": "按原图呈现手腕姿势。全程闭眼，拇指扶太阳穴，其余四指虚握拳，以食指中间关节背面接触眉部。此页为手型示意，三个操作点见后续点位图。",
+        "alt": "拇指扶太阳穴，四指虚握拳，弯曲食指关节接触眉部的手型候选",
+        "sourceStep": 0
+      },
+      {
+        "title": "内侧 · 按住 4–6 秒",
+        "short": "内侧",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "保持上述手型，双侧同时持续按住眉毛内侧点 4–6 秒。",
+        "alt": "保持上述手型，双侧同时持续按住眉毛内侧点 4–6 秒。",
+        "sourceStep": 1
+      },
+      {
+        "title": "中间 · 按住 4–6 秒",
+        "short": "中间",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "移到眉毛中间点，双侧同时持续按住 4–6 秒。",
+        "alt": "移到眉毛中间点，双侧同时持续按住 4–6 秒。",
+        "sourceStep": 1
+      },
+      {
+        "title": "外侧 · 完成一遍",
+        "short": "外侧",
+        "file": "../sm013/sheet-v1.png",
+        "tile": 3,
+        "caption": "最后按眉毛外侧点 4–6 秒。内、中、外完成算一遍，整套共做 2–3 遍。",
+        "alt": "最后按眉毛外侧点 4–6 秒。内、中、外完成算一遍，整套共做 2–3 遍。",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "../sm013/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "眉部三点：内 → 中 → 外。食指中间关节背面按眉，每点 4–6 秒，共 2–3 遍。",
+    "mapTitle": "眉部三点：内 → 中 → 外",
+    "mapCaption": "食指中间关节背面按眉，每点 4–6 秒，共 2–3 遍。",
+    "legend": [
+      "点位顺序",
+      "当前点位 / 操作提示"
+    ],
+    "noteTitle": "眉部三点按压 · 看清顺序",
+    "note": "手腕姿势按用户本轮要求依据原图重建，仍待看图复核。采用一张手型图及三张点位步骤，避免用不确定的手腕变化代替已确认动作。",
+    "playerNote": "每页 6 秒仅用于看图，不是练习计时。动作图与手法细节待复核；请以右侧已确认步骤为准。",
+    "cardCaption": "食指中间关节背面按眉，每点 4–6 秒，共 2–3 遍。",
+    "legendKinds": [
+      "start",
+      "press"
+    ]
+  }
+}

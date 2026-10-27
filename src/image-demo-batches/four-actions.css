@@ -1,0 +1,5 @@
+.four-actions-overlay text{font-family:'PingFang SC','Songti SC',sans-serif}
+.image-stage:has(img[src*="/sm080/first-person-"])>img{scale:.82;transform-origin:center;transform:none!important}
+.image-player:has(img[src*="/sm081/"]) .point-legend>span:nth-child(2)>i{background:#356f9b;border-color:#356f9b}
+.image-player:has(img[src*="/sm081/"]) .point-legend>span:nth-child(3)>i{background:#bd512e;border-color:#bd512e;border-style:solid}
+@media(max-width:600px){.image-player:has(img:is([src*="/sm080/"],[src*="/sm081/"],[src*="/sm082/"],[src*="/sm088/"])) .image-phase-tabs{grid-template-columns:repeat(3,minmax(0,1fr))!important}}

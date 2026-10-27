@@ -1,0 +1,967 @@
+{
+  "SM-111": {
+    "id": "SM-111",
+    "uid": "preview-25a98f2e-f7d9-4800-a7fa-d9508e046b32",
+    "contentRevision": "499930bc17399da9",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm111/",
+    "poster": "sheet-v2.png",
+    "phases": [
+      {
+        "title": "准备 · 双手分别扶膝",
+        "short": "准备",
+        "file": "sheet-v2.png",
+        "sourceStep": 0,
+        "caption": "仰卧，双腿屈膝抬起，双手分别扶住一侧膝盖；两小腿与地面平行。",
+        "alt": "仰卧，双腿屈膝抬起，双手分别扶住一侧膝盖；两小腿与地面平行。",
+        "tile": 0
+      },
+      {
+        "title": "交替一 · 一近一远",
+        "short": "一近一远",
+        "file": "sheet-v2.png",
+        "sourceStep": 1,
+        "caption": "一侧大腿靠近腹部，同时另一侧远离；双手各随所扶膝盖移动。此图为交替中的一个姿势，不新增停留。",
+        "alt": "一侧大腿靠近腹部，同时另一侧远离；双手各随所扶膝盖移动。此图为交替中的一个姿势，不新增停留。",
+        "tile": 1
+      },
+      {
+        "title": "交替二 · 两侧交换",
+        "short": "交换",
+        "file": "sheet-v2.png",
+        "sourceStep": 1,
+        "caption": "交换两侧大腿的靠近与远离。双手仍各扶一膝，不把两腿同时拉近。",
+        "alt": "交换两侧大腿的靠近与远离。双手仍各扶一膝，不把两腿同时拉近。",
+        "tile": 2
+      },
+      {
+        "title": "保持 · 屈膝、小腿平行",
+        "short": "姿势",
+        "file": "sheet-v2.png",
+        "sourceStep": 2,
+        "caption": "双膝始终弯曲，两小腿始终与地面平行；只交替活动大腿，不主动伸出、蹬直或收回小腿。",
+        "alt": "双膝始终弯曲，两小腿始终与地面平行；只交替活动大腿，不主动伸出、蹬直或收回小腿。",
+        "tile": 3
+      },
+      {
+        "title": "持续 · 20–30 秒",
+        "short": "时长",
+        "file": "sheet-v2.png",
+        "sourceStep": 3,
+        "caption": "持续交替 20–30 秒，按时间完成，不计交替次数。速度和幅度以舒服为准，没有固定要求。",
+        "alt": "持续交替 20–30 秒，按时间完成，不计交替次数。速度和幅度以舒服为准，没有固定要求。",
+        "tile": 0
+      }
+    ],
+    "mapFile": "sheet-v2.png",
+    "mapAlt": "一侧大腿靠近腹部、另一侧远离，然后交换；双膝始终弯曲，两小腿平行地面，连续 20–30 秒。",
+    "mapTitle": "扶膝交替大腿，小腿始终平行地面",
+    "mapCaption": "一侧大腿靠近腹部、另一侧远离，然后交换；双膝始终弯曲，两小腿平行地面，连续 20–30 秒。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "“像踩自行车”仅指交替节奏，不是蹬直小腿的踩踏轨迹。图中没有规定固定角度、速度、呼吸或睁闭眼。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "一侧大腿靠近腹部、另一侧远离，然后交换；双膝始终弯曲，两小腿平行地面，连续 20–30 秒。",
+    "posterTile": 0,
+    "mapTile": 0
+  },
+  "SM-112": {
+    "id": "SM-112",
+    "uid": "preview-0c9d00ae-4215-478e-adc1-6e13640cbf5d",
+    "contentRevision": "a635db4e1c4c2088",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm112/",
+    "poster": "sheet-v1.png",
+    "phases": [
+      {
+        "title": "平躺 · 双臂向两侧打开",
+        "short": "准备",
+        "file": "sheet-v1.png",
+        "sourceStep": 0,
+        "caption": "仰卧，双臂向身体两侧打开帮助平衡。",
+        "alt": "仰卧，双臂向身体两侧打开帮助平衡。",
+        "tile": 0
+      },
+      {
+        "title": "并拢 · 小腿悬空",
+        "short": "悬空",
+        "file": "sheet-v1.png",
+        "sourceStep": 1,
+        "caption": "双腿屈膝、大腿抬起，两小腿悬空并拢。",
+        "alt": "双腿屈膝、大腿抬起，两小腿悬空并拢。",
+        "tile": 3
+      },
+      {
+        "title": "向上 · 双小腿同步",
+        "short": "向上",
+        "file": "sheet-v1.png",
+        "sourceStep": 2,
+        "caption": "大腿保持抬起，以两膝为支点，两小腿并拢同步向上摆。图中角度仅为示意，不要求摆到完全伸直。",
+        "alt": "大腿保持抬起，以两膝为支点，两小腿并拢同步向上摆。图中角度仅为示意，不要求摆到完全伸直。",
+        "tile": 1
+      },
+      {
+        "title": "向下 · 双脚仍悬空",
+        "short": "向下",
+        "file": "sheet-v1.png",
+        "sourceStep": 2,
+        "caption": "两小腿并拢同步向下摆，全程悬空，不以脚落地作为终点。",
+        "alt": "两小腿并拢同步向下摆，全程悬空，不以脚落地作为终点。",
+        "tile": 2
+      },
+      {
+        "title": "持续 · 20–30 秒",
+        "short": "时长",
+        "file": "sheet-v1.png",
+        "sourceStep": 3,
+        "caption": "同步上下摆动 20–30 秒，按时间完成，不计摆动次数。幅度和速度没有固定要求。",
+        "alt": "同步上下摆动 20–30 秒，按时间完成，不计摆动次数。幅度和速度没有固定要求。",
+        "tile": 0
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapAlt": "双臂打开帮助平衡，大腿保持抬起；两小腿并拢、悬空、同步上下摆，持续 20–30 秒。",
+    "mapTitle": "膝为支点，两小腿并拢同步上下摆",
+    "mapCaption": "双臂打开帮助平衡，大腿保持抬起；两小腿并拢、悬空、同步上下摆，持续 20–30 秒。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "绿色弧线是绕膝摆动的示意范围，不规定端点角度。呼吸、睁闭眼无规定。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "双臂打开帮助平衡，大腿保持抬起；两小腿并拢、悬空、同步上下摆，持续 20–30 秒。",
+    "posterTile": 0,
+    "mapTile": 0
+  },
+  "SM-113": {
+    "id": "SM-113",
+    "uid": "preview-1bd7a5b3-b997-4b7d-9beb-fdfd7f2694e7",
+    "contentRevision": "379fb07b8e4274b2",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm113/",
+    "poster": "hug-start-v5.png",
+    "phases": [
+      {
+        "title": "抱膝 · 双腿并拢",
+        "short": "抱膝",
+        "file": "hug-start-v5.png",
+        "sourceStep": 0,
+        "caption": "双腿并拢屈膝；双臂从两侧绕到膝盖稍下方，前臂上下交叠，右手握住左腕，环抱两条腿。",
+        "alt": "双腿并拢屈膝；双臂从两侧绕到膝盖稍下方，前臂上下交叠，右手握住左腕，环抱两条腿。"
+      },
+      {
+        "title": "靠近 · 双膝向胸部",
+        "short": "靠近",
+        "file": "hug-tight-v5.png",
+        "sourceStep": 1,
+        "caption": "保持两侧环抱与右手握左腕，再把双膝拉近胸部：大腿更贴近腹部，小腿抬得更接近水平。",
+        "alt": "保持两侧环抱与右手握左腕，再把双膝拉近胸部：大腿更贴近腹部，小腿抬得更接近水平。"
+      },
+      {
+        "title": "头颈放松 · 深呼吸 20–30 秒",
+        "short": "呼吸",
+        "file": "hug-tight-v5.png",
+        "sourceStep": 3,
+        "caption": "保持紧密抱膝，头颈放松、原位不动，同时深呼吸，维持 20–30 秒；不规定每次吸气与呼气时长。",
+        "alt": "保持紧密抱膝，头颈放松、原位不动，同时深呼吸，维持 20–30 秒；不规定每次吸气与呼气时长。"
+      }
+    ],
+    "mapFile": "hug-tight-v5.png",
+    "mapAlt": "双腿并拢屈膝抱向胸部，头颈放松原位不动，配合深呼吸维持 20–30 秒。",
+    "mapTitle": "抱膝靠胸，头颈放松，深呼吸",
+    "mapCaption": "双腿并拢屈膝抱向胸部，头颈放松原位不动，配合深呼吸维持 20–30 秒。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "双臂从两侧环抱，前臂上下交叠，右手握左腕。先环抱，再进一步抱紧靠腹，小腿更水平；两个姿态分别示图。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "双腿并拢屈膝抱向胸部，头颈放松原位不动，配合深呼吸维持 20–30 秒。"
+  },
+  "SM-114": {
+    "id": "SM-114",
+    "uid": "preview-0ed18cf8-eeff-4b7a-837c-47ecb6361473",
+    "contentRevision": "f113c86960ec883c",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm114/",
+    "poster": "floating-prep-v4.png",
+    "phases": [
+      {
+        "title": "准备 · 并膝、双手扶膝",
+        "short": "准备",
+        "file": "floating-prep-v4.png",
+        "sourceStep": 0,
+        "caption": "仰卧，双膝屈起并拢，双手扶膝；小腿与双脚悬空，脚心朝身体前方，不朝地面。",
+        "alt": "仰卧，双膝屈起并拢，双手扶膝；小腿与双脚悬空，脚心朝身体前方，不朝地面。"
+      },
+      {
+        "title": "腿向左 · 头向右",
+        "short": "左压",
+        "file": "floating-turn-v4.png",
+        "sourceStep": 1,
+        "caption": "双手随并拢双膝一起向身体左侧下压，使左大腿外侧尽量贴近地面，头转向右侧，保持 8–10 秒；小腿与双脚持续悬空，脚心始终朝前。",
+        "alt": "双手随并拢双膝一起向身体左侧下压，使左大腿外侧尽量贴近地面，头转向右侧，保持 8–10 秒；小腿与双脚持续悬空，脚心始终朝前。"
+      },
+      {
+        "title": "腿向右 · 头向左",
+        "short": "右压",
+        "file": "floating-turn-v4.png",
+        "sourceStep": 2,
+        "caption": "双手随并拢双膝一起向身体右侧下压，使右大腿外侧尽量贴近地面，头转向左侧，保持 8–10 秒；小腿与双脚持续悬空，脚心始终朝前。",
+        "alt": "双手随并拢双膝一起向身体右侧下压，使右大腿外侧尽量贴近地面，头转向左侧，保持 8–10 秒；小腿与双脚持续悬空，脚心始终朝前。",
+        "flipX": true
+      },
+      {
+        "title": "重复 · 一左一右为 1 次",
+        "short": "次数",
+        "file": "floating-prep-v4.png",
+        "sourceStep": 3,
+        "caption": "腿向左配头向右，再腿向右配头向左，一左一右算 1 次，共做 2–3 次。",
+        "alt": "腿向左配头向右，再腿向右配头向左，一左一右算 1 次，共做 2–3 次。"
+      }
+    ],
+    "mapFile": "floating-prep-v4.png",
+    "mapAlt": "双膝并拢，整组屈膝腿向两侧下压；大腿外侧靠近地面，小腿和双脚悬空，脚心始终朝前。腿左头右、腿右头左，各保持 8–10 秒，一左一右共 2–3 次。",
+    "mapTitle": "并腿侧压，头部转向相反一侧",
+    "mapCaption": "双膝并拢，整组屈膝腿向两侧下压；大腿外侧靠近地面，小腿和双脚悬空，脚心始终朝前。腿左头右、腿右头左，各保持 8–10 秒，一左一右共 2–3 次。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "双腿从髋部一起向侧面下压，使该侧大腿外侧尽量贴近地面；不是只摆小腿。双脚始终悬空、脚心朝前；头转向相反侧。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "腿左、头右 8–10 秒；换腿右、头左 8–10 秒。一左一右为 1 次，共 2–3 次。"
+  },
+  "SM-115": {
+    "id": "SM-115",
+    "uid": "preview-64962023-805f-4468-95c1-59227d84c13e",
+    "contentRevision": "712205138e4ccfa8",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm115/",
+    "poster": "start-v3.png",
+    "phases": [
+      {
+        "title": "交叉 · 左手右脚、右手左脚",
+        "short": "握足",
+        "file": "start-v3.png",
+        "sourceStep": 0,
+        "caption": "躺下，抬起大腿并屈膝，两小腿交叉；左手握右脚，右手握左脚。图中两手握住脚部，不握脚踝。",
+        "alt": "躺下，抬起大腿并屈膝，两小腿交叉；左手握右脚，右手握左脚。图中两手握住脚部，不握脚踝。"
+      },
+      {
+        "title": "核对 · 两手持续握对侧脚",
+        "short": "手脚",
+        "file": "sheet-v1.png",
+        "sourceStep": 0,
+        "caption": "正面近景用于核对：左手握右脚，右手握左脚，小腿交叉；整段动作中均保持该对应关系。",
+        "alt": "正面近景用于核对：左手握右脚，右手握左脚，小腿交叉；整段动作中均保持该对应关系。",
+        "tile": 3
+      },
+      {
+        "title": "第一晃 · 团拢、背呈弧线",
+        "short": "第一晃",
+        "file": "rock-small-v3.png",
+        "sourceStep": 1,
+        "caption": "团拢身体、背部呈弧线，第一次前后晃动幅度较小；低头收下巴，使下巴靠近颈部，不向左右歪头。双手持续握对侧脚。",
+        "alt": "团拢身体、背部呈弧线，第一次前后晃动幅度较小；低头收下巴，使下巴靠近颈部，不向左右歪头。双手持续握对侧脚。",
+        "overlayPhase": 202
+      },
+      {
+        "title": "第二晃 · 逐渐加大幅度",
+        "short": "第二晃",
+        "file": "rock-large-v3.png",
+        "sourceStep": 1,
+        "caption": "第二次前后晃动幅度比第一次大；仍低头收下巴，不向左右歪头。图中后晃时臀部抬得更高，双手持续握对侧脚。",
+        "alt": "第二次前后晃动幅度比第一次大；仍低头收下巴，不向左右歪头。图中后晃时臀部抬得更高，双手持续握对侧脚。",
+        "overlayPhase": 203
+      },
+      {
+        "title": "第三次 · 直接坐起",
+        "short": "坐起",
+        "file": "sheet-v1.png",
+        "sourceStep": 2,
+        "caption": "第三次直接坐起来，保持小腿交叉，双手仍各握对侧脚。",
+        "alt": "第三次直接坐起来，保持小腿交叉，双手仍各握对侧脚。",
+        "tile": 2
+      },
+      {
+        "title": "躺回 · 保持握足和交叉",
+        "short": "躺回",
+        "file": "start-v3.png",
+        "sourceStep": 2,
+        "caption": "坐起后再躺回去；整个过程双手持续握脚，两小腿保持交叉。",
+        "alt": "坐起后再躺回去；整个过程双手持续握脚，两小腿保持交叉。"
+      },
+      {
+        "title": "重复 · 完整序列做 5 次",
+        "short": "次数",
+        "file": "start-v3.png",
+        "sourceStep": 3,
+        "caption": "前后晃动 2 次 → 第 3 次坐起 → 再躺回，合为一个完整序列，共做 5 次。",
+        "alt": "前后晃动 2 次 → 第 3 次坐起 → 再躺回，合为一个完整序列，共做 5 次。"
+      }
+    ],
+    "mapFile": "start-v3.png",
+    "mapAlt": "左手握右脚、右手握左脚，小腿交叉；团拢背部前后晃 2 次，第 3 次坐起，再躺回。完整序列共 5 次。",
+    "mapTitle": "交叉握足：两晃、第三次坐起、再躺回",
+    "mapCaption": "左手握右脚、右手握左脚，小腿交叉；团拢背部前后晃 2 次，第 3 次坐起，再躺回。完整序列共 5 次。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "两次晃动使用不同姿势图，第一晃幅度小于第二晃；晃动时低头收下巴，不左右侧偏。双手全程握对侧脚，小腿保持交叉。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "左手握右脚、右手握左脚，小腿交叉；团拢背部前后晃 2 次，第 3 次坐起，再躺回。完整序列共 5 次。"
+  },
+  "SM-116": {
+    "id": "SM-116",
+    "uid": "preview-1acbb9ef-2853-4fd7-bb5a-53ecd934cac7",
+    "contentRevision": "4c29d97eb338a13d",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm116/",
+    "poster": "sheet-v1.png",
+    "phases": [
+      {
+        "title": "准备 · 双臂打开、屈膝并拢",
+        "short": "准备",
+        "file": "sheet-v1.png",
+        "sourceStep": 0,
+        "caption": "仰卧，双臂向两侧打开帮助平衡，两腿屈膝抬起并拢。",
+        "alt": "仰卧，双臂向两侧打开帮助平衡，两腿屈膝抬起并拢。",
+        "tile": 0
+      },
+      {
+        "title": "先画水平圈 · 顺时针 10 圈",
+        "short": "膝顺",
+        "file": "sheet-v1.png",
+        "sourceStep": 1,
+        "caption": "先以腰部为圆心，两膝并拢在水平面画圈，顺时针 10 圈。图中扁椭圆环线用于区分水平面，不规定圈的大小。 分解图显示双膝一起移动；各图是圈中经过位置，不增加停顿。",
+        "alt": "先以腰部为圆心，两膝并拢在水平面画圈，顺时针 10 圈。图中扁椭圆环线用于区分水平面，不规定圈的大小。",
+        "tile": 0,
+        "poses": [
+          {
+            "file": "knees-v2.png",
+            "label": "圈中姿态 1",
+            "alt": "圈中姿态 1",
+            "tile": 0,
+            "overlayPhase": 110
+          },
+          {
+            "file": "knees-v2.png",
+            "label": "圈中姿态 2",
+            "alt": "圈中姿态 2",
+            "tile": 1,
+            "overlayPhase": 111
+          },
+          {
+            "file": "knees-v2.png",
+            "label": "圈中姿态 3",
+            "alt": "圈中姿态 3",
+            "tile": 3,
+            "overlayPhase": 113
+          },
+          {
+            "file": "knees-v2.png",
+            "label": "圈中姿态 4",
+            "alt": "圈中姿态 4",
+            "tile": 2,
+            "overlayPhase": 112
+          }
+        ]
+      },
+      {
+        "title": "水平圈反向 · 逆时针 10 圈",
+        "short": "膝逆",
+        "file": "sheet-v1.png",
+        "sourceStep": 1,
+        "caption": "仍以腰部为圆心、双膝并拢，反向在水平面画圈，逆时针 10 圈。 分解图显示双膝一起移动；各图是圈中经过位置，不增加停顿。",
+        "alt": "仍以腰部为圆心、双膝并拢，反向在水平面画圈，逆时针 10 圈。",
+        "tile": 0,
+        "poses": [
+          {
+            "file": "knees-v2.png",
+            "label": "圈中姿态 1",
+            "alt": "圈中姿态 1",
+            "tile": 0,
+            "overlayPhase": 120
+          },
+          {
+            "file": "knees-v2.png",
+            "label": "圈中姿态 2",
+            "alt": "圈中姿态 2",
+            "tile": 2,
+            "overlayPhase": 122
+          },
+          {
+            "file": "knees-v2.png",
+            "label": "圈中姿态 3",
+            "alt": "圈中姿态 3",
+            "tile": 3,
+            "overlayPhase": 123
+          },
+          {
+            "file": "knees-v2.png",
+            "label": "圈中姿态 4",
+            "alt": "圈中姿态 4",
+            "tile": 1,
+            "overlayPhase": 121
+          }
+        ]
+      },
+      {
+        "title": "再绕踝 · 双脚顺时针 10 圈",
+        "short": "踝顺",
+        "file": "sheet-v1.png",
+        "sourceStep": 2,
+        "caption": "双膝画圈阶段完成后，保持双腿屈膝抬起。以脚踝为圆心，两脚同时、同方向在竖直面画圈，先顺时针各 10 圈。",
+        "alt": "双膝画圈阶段完成后，保持双腿屈膝抬起。以脚踝为圆心，两脚同时、同方向在竖直面画圈，先顺时针各 10 圈。",
+        "tile": 2
+      },
+      {
+        "title": "绕踝反向 · 逆时针 10 圈",
+        "short": "踝逆",
+        "file": "sheet-v1.png",
+        "sourceStep": 2,
+        "caption": "两脚仍同时同向，以脚踝为圆心反向在竖直面画圈，逆时针各 10 圈。图为圈中一态，不额外增加勾绷脚计数。",
+        "alt": "两脚仍同时同向，以脚踝为圆心反向在竖直面画圈，逆时针各 10 圈。图为圈中一态，不额外增加勾绷脚计数。",
+        "tile": 3
+      },
+      {
+        "title": "完成 · 两个阶段依次进行",
+        "short": "顺序",
+        "file": "sheet-v1.png",
+        "sourceStep": 3,
+        "caption": "先双膝水平画圈顺、逆各 10 圈，再双脚竖直绕踝顺、逆各 10 圈；两个阶段按顺序完成。",
+        "alt": "先双膝水平画圈顺、逆各 10 圈，再双脚竖直绕踝顺、逆各 10 圈；两个阶段按顺序完成。",
+        "tile": 0
+      }
+    ],
+    "mapFile": "knees-v2.png",
+    "mapAlt": "腰部为圆心的双膝水平圈，顺、逆各 10 圈；完成后以双踝为圆心，双脚同时同向竖直圈，顺、逆各 10 圈。",
+    "mapTitle": "先双膝水平圈，再双脚竖直绕踝",
+    "mapCaption": "腰部为圆心的双膝水平圈，顺、逆各 10 圈；完成后以双踝为圆心，双脚同时同向竖直圈，顺、逆各 10 圈。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "平面与旋转中心不同，两个阶段不是同时进行。箭头按各图观察面示意顺逆，原步骤未另指定观察方位；不新增速度、幅度或呼吸要求。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "腰部为圆心的双膝水平圈，顺、逆各 10 圈；完成后以双踝为圆心，双脚同时同向竖直圈，顺、逆各 10 圈。",
+    "posterTile": 0,
+    "mapTile": 0
+  },
+  "SM-117": {
+    "id": "SM-117",
+    "uid": "preview-6f84849a-90c0-43d9-8c05-7c1d0dc81946",
+    "contentRevision": "8d375985a40f466f",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm117/",
+    "poster": "sheet-v1.png",
+    "phases": [
+      {
+        "title": "左腿 · 伸直抬起、勾脚",
+        "short": "左勾",
+        "file": "sheet-v1.png",
+        "sourceStep": 0,
+        "caption": "仰卧，双臂向两侧打开，先把左腿伸直抬起，另一腿平放。左膝保持伸直，脚尖向小腿前侧勾回。",
+        "alt": "仰卧，双臂向两侧打开，先把左腿伸直抬起，另一腿平放。左膝保持伸直，脚尖向小腿前侧勾回。",
+        "flipX": true,
+        "overlayPhase": 200,
+        "tile": 0
+      },
+      {
+        "title": "左腿 · 绷脚，与勾脚成一对",
+        "short": "左绷",
+        "file": "sheet-v1.png",
+        "sourceStep": 1,
+        "caption": "左脚尖向远离小腿前侧的方向绷出；一次勾脚加一次绷脚算 1 次，交替做 10 次，左膝始终伸直。",
+        "alt": "左脚尖向远离小腿前侧的方向绷出；一次勾脚加一次绷脚算 1 次，交替做 10 次，左膝始终伸直。",
+        "flipX": true,
+        "overlayPhase": 201,
+        "tile": 1
+      },
+      {
+        "title": "左腿 · 绕髋顺时针 10 圈",
+        "short": "左顺",
+        "file": "sheet-v1.png",
+        "sourceStep": 2,
+        "caption": "左脚勾绷阶段完成后，整条伸直的左腿以髋关节为圆心画圈，顺时针 10 圈。",
+        "alt": "左脚勾绷阶段完成后，整条伸直的左腿以髋关节为圆心画圈，顺时针 10 圈。",
+        "flipX": true,
+        "overlayPhase": 202,
+        "tile": 0,
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "tile": 0,
+            "flipX": true,
+            "overlayPhase": 202,
+            "label": "正中抬腿"
+          },
+          {
+            "file": "hip-v2.png",
+            "tile": 0,
+            "flipX": true,
+            "overlayPhase": 202,
+            "label": "绕髋经过位置 1"
+          },
+          {
+            "file": "hip-v2.png",
+            "tile": 2,
+            "flipX": true,
+            "overlayPhase": 202,
+            "label": "绕髋经过位置 2"
+          }
+        ]
+      },
+      {
+        "title": "左腿 · 绕髋逆时针 10 圈",
+        "short": "左逆",
+        "file": "sheet-v1.png",
+        "sourceStep": 2,
+        "caption": "左膝保持伸直，整条左腿绕髋反向画圈，逆时针 10 圈。",
+        "alt": "左膝保持伸直，整条左腿绕髋反向画圈，逆时针 10 圈。",
+        "flipX": true,
+        "overlayPhase": 203,
+        "tile": 0,
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "tile": 0,
+            "flipX": true,
+            "overlayPhase": 203,
+            "label": "正中抬腿"
+          },
+          {
+            "file": "hip-v2.png",
+            "tile": 0,
+            "flipX": true,
+            "overlayPhase": 203,
+            "label": "绕髋经过位置 1"
+          },
+          {
+            "file": "hip-v2.png",
+            "tile": 2,
+            "flipX": true,
+            "overlayPhase": 203,
+            "label": "绕髋经过位置 2"
+          }
+        ]
+      },
+      {
+        "title": "换右腿 · 先勾脚",
+        "short": "右勾",
+        "file": "sheet-v1.png",
+        "sourceStep": 3,
+        "caption": "左腿两个阶段全部完成后换右腿。左腿平放，右腿伸直抬起，先勾脚。",
+        "alt": "左腿两个阶段全部完成后换右腿。左腿平放，右腿伸直抬起，先勾脚。",
+        "overlayPhase": 204,
+        "tile": 0
+      },
+      {
+        "title": "右腿 · 勾绷共 10 对",
+        "short": "右绷",
+        "file": "sheet-v1.png",
+        "sourceStep": 3,
+        "caption": "右脚继续勾绷交替，一勾一绷算 1 次，共 10 次，右膝始终伸直。",
+        "alt": "右脚继续勾绷交替，一勾一绷算 1 次，共 10 次，右膝始终伸直。",
+        "overlayPhase": 205,
+        "tile": 1
+      },
+      {
+        "title": "右腿 · 绕髋顺时针 10 圈",
+        "short": "右顺",
+        "file": "sheet-v1.png",
+        "sourceStep": 3,
+        "caption": "右腿勾绷阶段完成后，整条直腿以右髋为圆心顺时针画圈 10 圈。",
+        "alt": "右腿勾绷阶段完成后，整条直腿以右髋为圆心顺时针画圈 10 圈。",
+        "overlayPhase": 206,
+        "tile": 0,
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "tile": 0,
+            "flipX": false,
+            "overlayPhase": 206,
+            "label": "正中抬腿"
+          },
+          {
+            "file": "hip-v2.png",
+            "tile": 0,
+            "flipX": false,
+            "overlayPhase": 206,
+            "label": "绕髋经过位置 1"
+          },
+          {
+            "file": "hip-v2.png",
+            "tile": 2,
+            "flipX": false,
+            "overlayPhase": 206,
+            "label": "绕髋经过位置 2"
+          }
+        ]
+      },
+      {
+        "title": "右腿 · 绕髋逆时针 10 圈",
+        "short": "右逆",
+        "file": "sheet-v1.png",
+        "sourceStep": 3,
+        "caption": "再以右髋为圆心逆时针画圈 10 圈。每条腿两个阶段各完成一遍，整套只做一次。",
+        "alt": "再以右髋为圆心逆时针画圈 10 圈。每条腿两个阶段各完成一遍，整套只做一次。",
+        "overlayPhase": 207,
+        "tile": 0,
+        "poses": [
+          {
+            "file": "sheet-v1.png",
+            "tile": 0,
+            "flipX": false,
+            "overlayPhase": 207,
+            "label": "正中抬腿"
+          },
+          {
+            "file": "hip-v2.png",
+            "tile": 0,
+            "flipX": false,
+            "overlayPhase": 207,
+            "label": "绕髋经过位置 1"
+          },
+          {
+            "file": "hip-v2.png",
+            "tile": 2,
+            "flipX": false,
+            "overlayPhase": 207,
+            "label": "绕髋经过位置 2"
+          }
+        ]
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapAlt": "先左腿勾绷 10 对，绕髋顺、逆各 10 圈；左腿完成后换右腿同法。双膝在各自抬腿阶段保持伸直，整套一次。",
+    "mapTitle": "先勾绷脚 10 对，再整条直腿绕髋",
+    "mapCaption": "先左腿勾绷 10 对，绕髋顺、逆各 10 圈；左腿完成后换右腿同法。双膝在各自抬腿阶段保持伸直，整套一次。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "先左腿、再右腿；各先勾绷 10 对，再绕髋顺、逆各 10 圈。左右图用相反侧视角呈现，左腿画面头朝右、右腿画面头朝左。抬腿角度、圈幅和速度无规定。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "先左腿勾绷 10 对，绕髋顺、逆各 10 圈；左腿完成后换右腿同法。双膝在各自抬腿阶段保持伸直，整套一次。",
+    "posterTile": 0,
+    "mapTile": 0,
+    "posterFlipX": true,
+    "mapFlipX": true
+  },
+  "SM-118": {
+    "id": "SM-118",
+    "uid": "preview-142aaa56-c347-45df-bd2c-fbf75c1e0aff",
+    "contentRevision": "3b45a14c6e8c106b",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm118/",
+    "poster": "hold-side-v7.png",
+    "phases": [
+      {
+        "title": "左腿伸直 · 双手持足",
+        "short": "左持足",
+        "file": "hold-side-v7.png",
+        "sourceStep": 0,
+        "caption": "仰卧，左腿伸直抬起，脚自然勾起，双手包握住左脚；两手四指都包在脚心，拇指绕在脚背，另一腿伸直平放。",
+        "alt": "仰卧，左腿伸直抬起，脚自然勾起，双手包握住左脚；两手四指都包在脚心，拇指绕在脚背，另一腿伸直平放。",
+        "flipX": true,
+        "poses": [
+          {
+            "file": "hold-side-v7.png",
+            "flipX": true,
+            "overlayPhase": 0,
+            "label": "全身持足"
+          },
+          {
+            "file": "sheet-v2.png",
+            "tile": 2,
+            "flipX": false,
+            "overlayPhase": 300,
+            "label": "脚背：拇指握法",
+            "alt": "左脚脚背近景：两拇指在脚背，四指包在脚心"
+          }
+        ]
+      },
+      {
+        "title": "左脚 · 深呼吸 10 秒",
+        "short": "左呼吸",
+        "file": "hold-side-v7.png",
+        "sourceStep": 1,
+        "caption": "保持左腿伸直和双手持足，先深呼吸 10 秒；四指在脚心、拇指在脚背，握足不松开。",
+        "alt": "保持左腿伸直和双手持足，先深呼吸 10 秒；四指在脚心、拇指在脚背，握足不松开。",
+        "flipX": true
+      },
+      {
+        "title": "左脚 · 一手四指成组捏压",
+        "short": "四指一",
+        "file": "grip-v2.png",
+        "sourceStep": 2,
+        "caption": "保持左腿伸直与双手持足，一只手的四指成组捏左脚脚心，另一手继续持足；图中先示意左手，不规定实际先用哪只手。",
+        "alt": "保持左腿伸直与双手持足，一只手的四指成组捏左脚脚心，另一手继续持足；图中先示意左手，不规定实际先用哪只手。",
+        "flipX": false
+      },
+      {
+        "title": "左脚 · 换另一手，交替各 10 次",
+        "short": "四指二",
+        "file": "grip-v2.png",
+        "sourceStep": 2,
+        "caption": "换右手四指成组捏左脚脚心；两手交替，每只手各 10 次，双手始终握足。",
+        "alt": "换右手四指成组捏左脚脚心；两手交替，每只手各 10 次，双手始终握足。",
+        "flipX": false
+      },
+      {
+        "title": "右腿伸直 · 双手持足",
+        "short": "右持足",
+        "file": "hold-side-v7.png",
+        "sourceStep": 3,
+        "caption": "仰卧，右腿伸直抬起，脚自然勾起，双手包握住右脚；两手四指都包在脚心，拇指绕在脚背，另一腿伸直平放。",
+        "alt": "仰卧，右腿伸直抬起，脚自然勾起，双手包握住右脚；两手四指都包在脚心，拇指绕在脚背，另一腿伸直平放。",
+        "poses": [
+          {
+            "file": "hold-side-v7.png",
+            "flipX": false,
+            "overlayPhase": 4,
+            "label": "全身持足"
+          },
+          {
+            "file": "sheet-v2.png",
+            "tile": 2,
+            "flipX": true,
+            "overlayPhase": 304,
+            "label": "脚背：拇指握法",
+            "alt": "右脚脚背近景：两拇指在脚背，四指包在脚心"
+          }
+        ],
+        "flipX": false
+      },
+      {
+        "title": "右脚 · 深呼吸 10 秒",
+        "short": "右呼吸",
+        "file": "hold-side-v7.png",
+        "sourceStep": 3,
+        "caption": "保持右腿伸直和双手持足，先深呼吸 10 秒；四指在脚心、拇指在脚背，握足不松开。",
+        "alt": "保持右腿伸直和双手持足，先深呼吸 10 秒；四指在脚心、拇指在脚背，握足不松开。",
+        "flipX": false
+      },
+      {
+        "title": "右脚 · 一手四指成组捏压",
+        "short": "四指一",
+        "file": "grip-v2.png",
+        "sourceStep": 3,
+        "caption": "保持右腿伸直与双手持足，一只手的四指成组捏右脚脚心，另一手继续持足；图中先示意左手，不规定实际先用哪只手。",
+        "alt": "保持右腿伸直与双手持足，一只手的四指成组捏右脚脚心，另一手继续持足；图中先示意左手，不规定实际先用哪只手。",
+        "flipX": true
+      },
+      {
+        "title": "右脚 · 换另一手，交替各 10 次",
+        "short": "四指二",
+        "file": "grip-v2.png",
+        "sourceStep": 3,
+        "caption": "换右手四指成组捏右脚脚心；两手交替，每只手各 10 次，双手始终握足。两脚各完成一遍，整套一次。",
+        "alt": "换右手四指成组捏右脚脚心；两手交替，每只手各 10 次，双手始终握足。两脚各完成一遍，整套一次。",
+        "flipX": true
+      }
+    ],
+    "mapFile": "hold-side-v7.png",
+    "mapAlt": "左脚：持足、深呼吸 10 秒、两手四指交替各 10 次；再换右脚按相同顺序完成。",
+    "mapTitle": "四指在脚心，拇指在脚背",
+    "mapCaption": "左脚：持足、深呼吸 10 秒、两手四指交替各 10 次；再换右脚按相同顺序完成。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "侧视完整持足姿态，脚自然勾起；双手包过前脚掌，四指扣在脚心侧、拇指在脚背侧。脚背及脚心近景用于看清握法；每侧依次持足、呼吸、四指一、四指二。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "每脚先直腿持足并深呼吸 10 秒，再双手四指交替捏脚心，每手各 10 次。先左脚后右脚，两脚各一遍。",
+    "posterFlipX": true,
+    "mapFlipX": true
+  },
+  "SM-119": {
+    "id": "SM-119",
+    "uid": "preview-42ddd45f-4ab6-4e6e-84c5-47747fbc3a96",
+    "contentRevision": "1e7b1a67ee3b1868",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm119/",
+    "poster": "side-closed-v5.png",
+    "phases": [
+      {
+        "title": "准备 · 双腿伸直、握住脚掌",
+        "short": "准备",
+        "file": "side-closed-v5.png",
+        "sourceStep": 0,
+        "caption": "仰卧，双腿向上抬起并伸直，用双手握住脚掌；如果做不到，可改扶脚踝。 每手四指在脚心侧、拇指在脚背侧，包握同侧脚掌。",
+        "alt": "仰卧，双腿向上抬起并伸直，用双手握住脚掌；如果做不到，可改扶脚踝。 每手四指在脚心侧、拇指在脚背侧，包握同侧脚掌。"
+      },
+      {
+        "title": "并拢 · 保持 10 秒",
+        "short": "并拢",
+        "file": "side-closed-v5.png",
+        "sourceStep": 1,
+        "caption": "双腿抬起伸直并拢，双手握脚掌，保持 10 秒；若够不到脚掌，可改扶脚踝。 每手四指在脚心侧、拇指在脚背侧，包握同侧脚掌。",
+        "alt": "双腿抬起伸直并拢，双手握脚掌，保持 10 秒；若够不到脚掌，可改扶脚踝。 每手四指在脚心侧、拇指在脚背侧，包握同侧脚掌。"
+      },
+      {
+        "title": "分开 · 双膝仍直、保持 10 秒",
+        "short": "分开",
+        "file": "side-open-v6.png",
+        "sourceStep": 2,
+        "caption": "双手辅助两条直腿向身体两侧分开，在舒服范围保持 10 秒；双膝始终伸直。扶脚踝为相同阶段的替代握法。 每手四指在脚心侧、拇指在脚背侧，包握同侧脚掌。",
+        "alt": "双手辅助两条直腿向身体两侧分开，在舒服范围保持 10 秒；双膝始终伸直。扶脚踝为相同阶段的替代握法。 每手四指在脚心侧、拇指在脚背侧，包握同侧脚掌。"
+      },
+      {
+        "title": "重复 · 并拢加分开为 1 次",
+        "short": "次数",
+        "file": "side-open-v6.png",
+        "sourceStep": 3,
+        "caption": "并拢保持 10 秒，再分开保持 10 秒，两个阶段合为 1 次，共做 2–3 次。",
+        "alt": "并拢保持 10 秒，再分开保持 10 秒，两个阶段合为 1 次，共做 2–3 次。"
+      }
+    ],
+    "mapFile": "side-closed-v5.png",
+    "mapAlt": "双手握脚掌，够不到可扶脚踝。双膝始终伸直，并拢 10 秒加分开 10 秒为 1 次，共 2–3 次。",
+    "mapTitle": "直腿并拢 10 秒，再向两侧分开 10 秒",
+    "mapCaption": "双手握脚掌，够不到可扶脚踝。双膝始终伸直，并拢 10 秒加分开 10 秒为 1 次，共 2–3 次。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "双手各包过一只脚的前脚掌，四指扣在脚心侧、拇指在脚背侧；握点不落在足弓或脚踝。并拢与分开时双膝都伸直，各保持 10 秒；够不到脚掌时，可改扶脚踝。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "双手握脚掌，够不到可扶脚踝。双膝始终伸直，并拢 10 秒加分开 10 秒为 1 次，共 2–3 次。"
+  },
+  "SM-120": {
+    "id": "SM-120",
+    "uid": "preview-2cb2bf3c-9bcb-4606-8c2b-838d671bc906",
+    "contentRevision": "0eb513ecb63807fe",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm120/",
+    "poster": "hug-straight-v6.png",
+    "phases": [
+      {
+        "title": "准备 · 直腿、大腿后侧抱持",
+        "short": "准备",
+        "file": "hug-straight-v6.png",
+        "sourceStep": 0,
+        "caption": "仰卧，双腿并拢伸直抬起；双臂从两侧伸到双大腿后侧、靠近腿窝的位置，双手在腿后托抱。",
+        "alt": "仰卧，双腿并拢伸直抬起；双臂从两侧伸到双大腿后侧、靠近腿窝的位置，双手在腿后托抱。"
+      },
+      {
+        "title": "直腿 · 膝向胸部、保持 10 秒",
+        "short": "直腿",
+        "file": "hug-straight-v6.png",
+        "sourceStep": 1,
+        "caption": "双臂抱紧双腿，在舒服范围使膝盖靠近胸部，双膝始终伸直，保持 10 秒。",
+        "alt": "双臂抱紧双腿，在舒服范围使膝盖靠近胸部，双膝始终伸直，保持 10 秒。"
+      },
+      {
+        "title": "屈膝 · 小腿弯下、手位不变",
+        "short": "屈膝",
+        "file": "hug-bent-v6.png",
+        "sourceStep": 2,
+        "caption": "双膝并拢屈起，小腿朝身体前方伸出、双脚悬空；双手仍从两侧托抱大腿后侧靠近腿窝，大腿尽量贴紧腹部。",
+        "alt": "双膝并拢屈起，小腿朝身体前方伸出、双脚悬空；双手仍从两侧托抱大腿后侧靠近腿窝，大腿尽量贴紧腹部。"
+      },
+      {
+        "title": "同时仰头 · 后脑勺接地",
+        "short": "仰头",
+        "file": "hug-neck-v6.png",
+        "sourceStep": 3,
+        "caption": "屈膝抱腿同时仰头，后脑勺顶住地面，颈部弓起；大腿保持紧贴腹部，保持 10 秒。",
+        "alt": "屈膝抱腿同时仰头，后脑勺顶住地面，颈部弓起；大腿保持紧贴腹部，保持 10 秒。"
+      },
+      {
+        "title": "颈部近景 · 向后仰、颈弓起",
+        "short": "颈部",
+        "file": "sheet-v1.png",
+        "sourceStep": 3,
+        "caption": "侧面近景用于看清后脑勺接地与颈部弓起；这是上一幅同一段 10 秒，不是额外保持。头部向后仰，不向膝盖卷起。",
+        "alt": "侧面近景用于看清后脑勺接地与颈部弓起；这是上一幅同一段 10 秒，不是额外保持。头部向后仰，不向膝盖卷起。",
+        "tile": 3,
+        "overlayPhase": 304
+      },
+      {
+        "title": "重复 · 两阶段共 2–3 次",
+        "short": "次数",
+        "file": "hug-neck-v6.png",
+        "sourceStep": 4,
+        "caption": "直腿抱持 10 秒，再屈膝抱腿并仰头弓颈 10 秒，两个阶段算 1 次，共做 2–3 次。",
+        "alt": "直腿抱持 10 秒，再屈膝抱腿并仰头弓颈 10 秒，两个阶段算 1 次，共做 2–3 次。"
+      }
+    ],
+    "mapFile": "hug-straight-v6.png",
+    "mapAlt": "双手始终抱大腿后侧靠近腿窝。直腿抱持 10 秒，再屈膝、后脑勺接地、颈部弓起 10 秒；合为 1 次，共 2–3 次。",
+    "mapTitle": "先直腿抱持，再屈膝并仰头弓颈",
+    "mapCaption": "双手始终抱大腿后侧靠近腿窝。直腿抱持 10 秒，再屈膝、后脑勺接地、颈部弓起 10 秒；合为 1 次，共 2–3 次。",
+    "legend": [
+      "活动路径 / 方向示意",
+      "接触或活动关节"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "动作要点",
+    "note": "双手从两侧托抱大腿后侧靠近腿窝，前臂与手自然交叠。屈膝时小腿朝前，大腿贴腹；仰头是向后，后脑接地、颈部弓起。颈部近景仍对应同一段 10 秒。",
+    "playerNote": "自动翻页每页 6 秒，仅用于看图，不是练习计时。图解为本地制作草稿，尚待独立验收与教学审核。",
+    "cardCaption": "双手始终抱大腿后侧靠近腿窝。直腿抱持 10 秒，再屈膝、后脑勺接地、颈部弓起 10 秒；合为 1 次，共 2–3 次。"
+  }
+}

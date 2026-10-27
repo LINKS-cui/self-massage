@@ -1,0 +1,996 @@
+{
+  "SM-081": {
+    "id": "SM-081",
+    "uid": "preview-7e6106a2-bf81-463a-831a-65253aed7d97",
+    "contentRevision": "7f4af1673fbcadc6",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm081/",
+    "poster": "palm-bodyweight-r4.png",
+    "phases": [
+      {
+        "title": "准备 · 被操作腿自然屈曲",
+        "short": "准备",
+        "sourceStep": 0,
+        "file": "palm-bodyweight-r4.png",
+        "caption": "坐姿，左腿自然前伸，右腿自然屈曲。对照完整坐姿看清髋、膝、踝的连接，局部图沿用这一自然弯腿姿势。",
+        "alt": "坐姿，左腿自然前伸，右腿自然屈曲。对照完整坐姿看清髋、膝、踝的连接，局部图沿用这一自然弯腿姿势。"
+      },
+      {
+        "title": "先后侧 · 右拇指指腹",
+        "short": "后侧",
+        "sourceStep": 1,
+        "file": "posterior-thumb-r4.png",
+        "caption": "右手握住右大腿，以拇指指腹按后侧，每点 3–5 下；每下松力，同点完成后抬手换点。",
+        "alt": "右手握住右大腿，以拇指指腹按后侧，每点 3–5 下；每下松力，同点完成后抬手换点。",
+        "poses": [
+          {
+            "file": "posterior-thumb-r4.png",
+            "label": "拇指接触"
+          },
+          {
+            "file": "bent-leg-map-r4.png",
+            "label": "后侧区域"
+          }
+        ]
+      },
+      {
+        "title": "后侧推进 · 根部至腿窝上方",
+        "short": "推进",
+        "sourceStep": 1,
+        "file": "bent-leg-map-r4.png",
+        "caption": "从大腿根部逐点按到腿窝上方，覆盖整个后侧。绿色虚线表示换点推进方向，不是连续滑推，也不限定点数。",
+        "alt": "从大腿根部逐点按到腿窝上方，覆盖整个后侧。绿色虚线表示换点推进方向，不是连续滑推，也不限定点数。"
+      },
+      {
+        "title": "再外侧 · 五指并拢用掌心",
+        "short": "外侧",
+        "sourceStep": 2,
+        "file": "lateral-palm-r4.png",
+        "caption": "后侧完成后，右手五指并拢，以掌心按压大腿外侧；上半身前倾，借身体力量下压，每点 3–5 下。每下松力，同点完成后抬手换点。",
+        "alt": "后侧完成后，右手五指并拢，以掌心按压大腿外侧；上半身前倾，借身体力量下压，每点 3–5 下。每下松力，同点完成后抬手换点。",
+        "poses": [
+          {
+            "file": "lateral-palm-r4.png",
+            "label": "掌心接触"
+          },
+          {
+            "file": "palm-bodyweight-r4.png",
+            "label": "上身前倾"
+          }
+        ]
+      },
+      {
+        "title": "外侧推进 · 根部至膝上",
+        "short": "推进",
+        "sourceStep": 2,
+        "file": "bent-leg-map-r4.png",
+        "caption": "从大腿根部逐点按到膝盖上方的大腿外侧；每下松力，同一点完成后抬手换点。",
+        "alt": "从大腿根部逐点按到膝盖上方的大腿外侧；每下松力，同一点完成后抬手换点。"
+      },
+      {
+        "title": "两段完成 · 再镜像换腿",
+        "short": "换腿",
+        "sourceStep": 3,
+        "file": "posterior-thumb-r4.png",
+        "caption": "右大腿后侧、外侧都完成后换腿。用左手先拇指点按左大腿后侧，再掌心借上身力量按左大腿外侧，整套一次。图已镜像显示左侧。",
+        "alt": "右大腿后侧、外侧都完成后换腿。用左手先拇指点按左大腿后侧，再掌心借上身力量按左大腿外侧，整套一次。图已镜像显示左侧。",
+        "flipX": true,
+        "poses": [
+          {
+            "file": "posterior-thumb-r4.png",
+            "label": "左腿后侧",
+            "flipX": true
+          },
+          {
+            "file": "lateral-palm-r4.png",
+            "label": "左腿外侧",
+            "flipX": true
+          },
+          {
+            "file": "palm-bodyweight-r4.png",
+            "label": "左侧前倾",
+            "flipX": true
+          }
+        ]
+      }
+    ],
+    "mapFile": "bent-leg-map-r4.png",
+    "mapTitle": "先后侧拇指，再外侧掌心",
+    "mapCaption": "绿色标后侧，蓝色标外侧，两片区域分开。先后侧拇指、再外侧掌心，均从根部逐点向膝端推进；每点 3–5 下。点位仅为覆盖示例，不固定点数。",
+    "mapAlt": "绿色标后侧，蓝色标外侧，两片区域分开。先后侧拇指、再外侧掌心，均从根部逐点向膝端推进；每点 3–5 下。点位仅为覆盖示例，不固定点数。",
+    "legend": [
+      "绿色：后侧范围 / 换点方向",
+      "蓝色：外侧范围 / 换点方向",
+      "橙色：指腹或掌心接触"
+    ],
+    "legendKinds": [
+      "start",
+      "start",
+      "press"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "后侧用拇指，止于腿窝上方；外侧用掌心并借上身力量，止于膝盖上方。两片区域分别标注，不按膝关节。点位仅为示例，不增加固定点数。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "两段均从大腿根部逐点向膝端推进，每点 3–5 下，之后换腿。"
+  },
+  "SM-082": {
+    "id": "SM-082",
+    "uid": "preview-0be1321e-c71a-40e6-9603-b6b4fdc5f152",
+    "contentRevision": "74969a1488b2f73a",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm082/",
+    "poster": "posture-repair-v3.png",
+    "phases": [
+      {
+        "title": "准备 · 单手环抱支撑",
+        "short": "准备",
+        "sourceStep": 0,
+        "file": "posture-repair-v3.png",
+        "caption": "坐姿左腿伸直，右膝朝左腿方向，右小腿平放地面，右脚心朝右。此页保留全身坐姿，后续接触与路径图从自己的视角观察。",
+        "alt": "坐姿左腿伸直，右膝朝左腿方向，右小腿平放地面，右脚心朝右。此页保留全身坐姿，后续接触与路径图从自己的视角观察。",
+        "tile": 0
+      },
+      {
+        "title": "单拇指 · 每点 3–5 下",
+        "short": "单指",
+        "sourceStep": 1,
+        "file": "first-person-single-r4.png",
+        "caption": "右手四指环抱支撑，右拇指指腹按小腿后侧中线；每下松力，同点做完再抬指换点。",
+        "alt": "右手四指环抱支撑，右拇指指腹按小腿后侧中线；每下松力，同点做完再抬指换点。"
+      },
+      {
+        "title": "单指推进 · 腿窝下至脚踝",
+        "short": "推进",
+        "sourceStep": 1,
+        "file": "first-person-map-r4.png",
+        "caption": "从腿窝下方开始，沿后侧中线逐点向下到脚踝。虚线是换点方向，不是贴肤长推。",
+        "alt": "从腿窝下方开始，沿后侧中线逐点向下到脚踝。虚线是换点方向，不是贴肤长推。"
+      },
+      {
+        "title": "再双拇指 · 并排共按一点",
+        "short": "双指",
+        "sourceStep": 2,
+        "file": "first-person-double-r4.png",
+        "caption": "双手四指环抱支撑，两拇指指腹并排并拢，共同按同一个点；重新从腿窝下方按向脚踝。",
+        "alt": "双手四指环抱支撑，两拇指指腹并排并拢，共同按同一个点；重新从腿窝下方按向脚踝。",
+        "poses": [
+          {
+            "file": "first-person-double-r4.png",
+            "label": "双拇指接触"
+          },
+          {
+            "file": "posture-repair-v3.png",
+            "label": "上身准备",
+            "tile": 1
+          }
+        ]
+      },
+      {
+        "title": "前倾下压 · 每下松力回身",
+        "short": "下压",
+        "sourceStep": 3,
+        "file": "posture-repair-v3.png",
+        "caption": "双拇指按压时上身前倾，借上半身力量下压。每下松力并回到起始位置，同点 3–5 下后抬指换点。分图显示前倾、松力回身和重新准备。",
+        "alt": "双拇指按压时上身前倾，借上半身力量下压。每下松力并回到起始位置，同点 3–5 下后抬指换点。分图显示前倾、松力回身和重新准备。",
+        "tile": 2,
+        "poses": [
+          {
+            "file": "posture-repair-v3.png",
+            "tile": 2,
+            "label": "前倾下压"
+          },
+          {
+            "file": "posture-repair-v3.png",
+            "tile": 3,
+            "label": "松力回身"
+          },
+          {
+            "file": "posture-repair-v3.png",
+            "tile": 1,
+            "label": "重新准备"
+          }
+        ]
+      },
+      {
+        "title": "两阶段完成 · 再换腿",
+        "short": "换腿",
+        "sourceStep": 4,
+        "file": "first-person-single-r4.png",
+        "caption": "右侧单拇指、双拇指两阶段完成后换腿和操作手，另一侧仍先单指后双指；整套一次。",
+        "alt": "右侧单拇指、双拇指两阶段完成后换腿和操作手，另一侧仍先单指后双指；整套一次。",
+        "flipX": true,
+        "poses": [
+          {
+            "file": "first-person-single-r4.png",
+            "label": "左腿单指",
+            "flipX": true
+          },
+          {
+            "file": "first-person-double-r4.png",
+            "label": "左腿双指",
+            "flipX": true
+          }
+        ]
+      }
+    ],
+    "mapFile": "first-person-map-r4.png",
+    "mapTitle": "同一后侧中线，先单指再双指",
+    "mapCaption": "腿窝下方 → 脚踝；每点 3–5 下，双指并排共按一点。",
+    "mapAlt": "同一后侧中线，先单指再双指。腿窝下方 → 脚踝；每点 3–5 下，双指并排共按一点。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "双指不叠放、不分按两条线。前倾下压后每下回身、松力；两阶段各自从腿窝下方重新开始。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "腿窝下方 → 脚踝；每点 3–5 下，双指并排共按一点。",
+    "posterTile": 0
+  },
+  "SM-083": {
+    "id": "SM-083",
+    "uid": "preview-7b7fa311-4fb5-4db7-9647-5e2889df2e7d",
+    "contentRevision": "5628e39c79e5cd21",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm083/",
+    "poster": "lateral-repair-v3.png",
+    "phases": [
+      {
+        "title": "准备 · 同侧手支撑足部",
+        "short": "准备",
+        "sourceStep": 0,
+        "file": "lateral-repair-v3.png",
+        "caption": "沿用上一项坐姿：左腿伸直、右膝朝左腿方向，右小腿平放地面，脚心朝右。图为右踝局部。",
+        "alt": "沿用上一项坐姿：左腿伸直、右膝朝左腿方向，右小腿平放地面，脚心朝右。图为右踝局部。",
+        "tile": 0,
+        "poses": [
+          {
+            "file": "lateral-repair-v3.png",
+            "tile": 0,
+            "label": "小趾侧与外踝"
+          },
+          {
+            "file": "../sm082/posture-repair-v3.png",
+            "tile": 0,
+            "label": "完整坐姿"
+          }
+        ]
+      },
+      {
+        "title": "先外踝区 · 拇指逐点转按",
+        "short": "外踝",
+        "sourceStep": 1,
+        "file": "lateral-repair-v3.png",
+        "caption": "右拇指指腹逐点转按右脚踝外侧，四指扶住脚踝或脚部。每点 3–5 圈，抬指后换点。",
+        "alt": "右拇指指腹逐点转按右脚踝外侧，四指扶住脚踝或脚部。每点 3–5 圈，抬指后换点。",
+        "tile": 1
+      },
+      {
+        "title": "覆盖外侧 · 不规定点数",
+        "short": "覆盖",
+        "sourceStep": 1,
+        "file": "lateral-repair-v3.png",
+        "caption": "覆盖整个脚踝外侧区域。圆形只提示转按，未规定顺逆时针、点位数量或顺序。",
+        "alt": "覆盖整个脚踝外侧区域。圆形只提示转按，未规定顺逆时针、点位数量或顺序。",
+        "tile": 0
+      },
+      {
+        "title": "再脚背 · 同样逐点转按",
+        "short": "脚背",
+        "sourceStep": 2,
+        "file": "lateral-repair-v3.png",
+        "caption": "脚踝外侧完成后，再用右拇指转按整个脚背；每点 3–5 圈，抬指换点，其余四指继续支撑。",
+        "alt": "脚踝外侧完成后，再用右拇指转按整个脚背；每点 3–5 圈，抬指换点，其余四指继续支撑。",
+        "tile": 2
+      },
+      {
+        "title": "换左脚 · 先完整操作外踝区",
+        "short": "左外踝",
+        "sourceStep": 3,
+        "file": "lateral-repair-v3.png",
+        "caption": "右脚外踝与脚背两区完成后，换左手操作左脚。先完整转按左脚踝外侧，每点3–5圈，抬指换点。",
+        "alt": "右脚外踝与脚背两区完成后，换左手操作左脚。先完整转按左脚踝外侧，每点3–5圈，抬指换点。",
+        "tile": 1,
+        "flipX": true
+      },
+      {
+        "title": "左外踝覆盖 · 然后再进入脚背",
+        "short": "左覆盖",
+        "sourceStep": 3,
+        "file": "lateral-repair-v3.png",
+        "caption": "左脚同样完整覆盖脚踝外侧区域，点数和转按方向不固定；外踝区做完后再进入左脚背。",
+        "alt": "左脚同样完整覆盖脚踝外侧区域，点数和转按方向不固定；外踝区做完后再进入左脚背。",
+        "tile": 0,
+        "flipX": true
+      },
+      {
+        "title": "左脚背 · 完成另一脚全套",
+        "short": "左脚背",
+        "sourceStep": 3,
+        "file": "lateral-repair-v3.png",
+        "caption": "左外踝区完成后，继续用左拇指转按整个左脚背，每点3–5圈。至此左右脚均完成外踝与脚背两区域，整套一次。",
+        "alt": "左外踝区完成后，继续用左拇指转按整个左脚背，每点3–5圈。至此左右脚均完成外踝与脚背两区域，整套一次。",
+        "tile": 2,
+        "flipX": true
+      }
+    ],
+    "mapFile": "lateral-repair-v3.png",
+    "mapTitle": "先脚踝外侧，再整个脚背",
+    "mapCaption": "右脚外踝 → 右脚背 → 左脚外踝 → 左脚背；每区完整覆盖，每点3–5圈。",
+    "mapAlt": "右脚外踝 → 右脚背 → 左脚外踝 → 左脚背；每区完整覆盖，每点3–5圈。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "左右脚均先外踝后脚背，换脚不是只操作脚背。绿色范围为区域示意，不限定点数和转按方向。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "右脚外踝 → 右脚背 → 左脚外踝 → 左脚背；每区完整覆盖，每点3–5圈。",
+    "posterTile": 1,
+    "mapTile": 0
+  },
+  "SM-084": {
+    "id": "SM-084",
+    "uid": "preview-7f7b3187-a747-4557-b170-d9ab3dc90a06",
+    "contentRevision": "8e692e6d6f9d33a8",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm084/",
+    "poster": "sheet-v2.png",
+    "phases": [
+      {
+        "title": "手位 · 拇指在趾背侧",
+        "short": "手位",
+        "sourceStep": 0,
+        "file": "sheet-v2.png",
+        "caption": "左手扶右脚，右手握脚趾；拇指指腹在趾背侧，其余四指在脚心侧支撑。图为单趾接触示例。",
+        "alt": "左手扶右脚，右手握脚趾；拇指指腹在趾背侧，其余四指在脚心侧支撑。图为单趾接触示例。",
+        "tile": 0
+      },
+      {
+        "title": "阶段一 · 贴肤转按至趾尖",
+        "short": "转推",
+        "sourceStep": 1,
+        "file": "sheet-v1.png",
+        "caption": "从趾根开始，拇指连续贴肤，一边转按一边向趾尖推进，中途不抬指；图示大趾的一条推进路径。",
+        "alt": "从趾根开始，拇指连续贴肤，一边转按一边向趾尖推进，中途不抬指；图示大趾的一条推进路径。",
+        "tile": 3
+      },
+      {
+        "title": "阶段一 · 趾尖按住 5 秒",
+        "short": "停留",
+        "sourceStep": 1,
+        "file": "sheet-v2.png",
+        "caption": "到趾尖后按住 5 秒再松开。每趾一次，逐个完成五趾；五趾完成后进入第二阶段。",
+        "alt": "到趾尖后按住 5 秒再松开。每趾一次，逐个完成五趾；五趾完成后进入第二阶段。",
+        "tile": 1
+      },
+      {
+        "title": "阶段二 · 第一推至首个关节",
+        "short": "第一推",
+        "sourceStep": 2,
+        "file": "sheet-v1.png",
+        "caption": "拇指沿皮肤直接滑推，从趾根到离开趾根后遇到的第一处关节。",
+        "alt": "拇指沿皮肤直接滑推，从趾根到离开趾根后遇到的第一处关节。",
+        "tile": 3
+      },
+      {
+        "title": "段间抬指 · 在关节重新接触",
+        "short": "抬指",
+        "sourceStep": 2,
+        "file": "sheet-v1.png",
+        "caption": "第一推到关节后抬起拇指，再从该关节重新接触。两段之间必须有一次离肤，不合并成长推。",
+        "alt": "第一推到关节后抬起拇指，再从该关节重新接触。两段之间必须有一次离肤，不合并成长推。",
+        "tile": 3
+      },
+      {
+        "title": "阶段二 · 第二推至趾尖",
+        "short": "第二推",
+        "sourceStep": 2,
+        "file": "sheet-v1.png",
+        "caption": "重新接触关节后，从关节滑推到趾尖。此段为直接滑推，不额外加入转按。",
+        "alt": "重新接触关节后，从关节滑推到趾尖。此段为直接滑推，不额外加入转按。",
+        "tile": 3
+      },
+      {
+        "title": "松开回根 · 每趾 2–3 次",
+        "short": "重复",
+        "sourceStep": 3,
+        "file": "sheet-v1.png",
+        "caption": "到趾尖后松开，回趾根再重复。两段合为一次完整推压；每趾完成 2–3 次后换下一趾，逐个覆盖五趾。",
+        "alt": "到趾尖后松开，回趾根再重复。两段合为一次完整推压；每趾完成 2–3 次后换下一趾，逐个覆盖五趾。",
+        "tile": 3
+      },
+      {
+        "title": "一脚两阶段 · 完成再换脚",
+        "short": "换脚",
+        "sourceStep": 4,
+        "file": "sheet-v1.png",
+        "caption": "一只脚两个阶段全部完成后，改用左手操作、右手扶左脚；按相同两阶段完成另一脚，整套一次。",
+        "alt": "一只脚两个阶段全部完成后，改用左手操作、右手扶左脚；按相同两阶段完成另一脚，整套一次。",
+        "tile": 3
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTitle": "先连续转推，再分两段滑推",
+    "mapCaption": "阶段一每趾一次，趾尖停 5 秒；阶段二两段合一次，每趾 2–3 次。",
+    "mapAlt": "先连续转推，再分两段滑推。阶段一每趾一次，趾尖停 5 秒；阶段二两段合一次，每趾 2–3 次。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "大趾路径仅作单趾示例，五趾均逐个完成。第一阶段中途不抬指；第二阶段在首个关节抬指后再接触。不得把两阶段合并或把 5 秒用于第二阶段。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "阶段一每趾一次，趾尖停 5 秒；阶段二两段合一次，每趾 2–3 次。",
+    "posterTile": 0,
+    "mapTile": 3
+  },
+  "SM-085": {
+    "id": "SM-085",
+    "uid": "preview-04a902fe-fec4-46f7-8a39-11297230b9f2",
+    "contentRevision": "fe8b925f9e18eaf3",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm085/",
+    "poster": "toe-repair-v2.png",
+    "phases": [
+      {
+        "title": "握住五趾 · 另一手扶脚",
+        "short": "手位",
+        "sourceStep": 0,
+        "file": "toe-repair-v2.png",
+        "caption": "左手扶右脚作支撑；右手握全部五趾，右拇指在趾背侧，其余四指在脚心侧。",
+        "alt": "左手扶右脚作支撑；右手握全部五趾，右拇指在趾背侧，其余四指在脚心侧。",
+        "tile": 0
+      },
+      {
+        "title": "同时向脚背掰 · 保持 10 秒",
+        "short": "保持",
+        "sourceStep": 1,
+        "file": "toe-repair-v2.png",
+        "caption": "五趾同时朝脚背方向掰，持续保持 10 秒。只带动脚趾弯曲，脚掌和踝关节保持原位。",
+        "alt": "五趾同时朝脚背方向掰，持续保持 10 秒。只带动脚趾弯曲，脚掌和踝关节保持原位。",
+        "tile": 1
+      },
+      {
+        "title": "松开 · 再重新握住",
+        "short": "松开",
+        "sourceStep": 2,
+        "file": "toe-repair-v2.png",
+        "caption": "第一次保持结束后松开脚趾；随后重新握住，再向相同方向掰。",
+        "alt": "第一次保持结束后松开脚趾；随后重新握住，再向相同方向掰。",
+        "tile": 3
+      },
+      {
+        "title": "第二次保持 · 仍为 10 秒",
+        "short": "再保持",
+        "sourceStep": 2,
+        "file": "toe-repair-v2.png",
+        "caption": "重新掰后持续保持 10 秒再松开。右脚共两次，每次 10 秒，两次之间有松开。",
+        "alt": "重新掰后持续保持 10 秒再松开。右脚共两次，每次 10 秒，两次之间有松开。",
+        "tile": 1
+      },
+      {
+        "title": "换脚 · 每脚两次",
+        "short": "换脚",
+        "sourceStep": 3,
+        "file": "toe-repair-v2.png",
+        "caption": "右脚完成后，右手扶左脚、左手握全部五趾；同样两次各 10 秒，中间松开后重新掰。",
+        "alt": "右脚完成后，右手扶左脚、左手握全部五趾；同样两次各 10 秒，中间松开后重新掰。",
+        "tile": 1,
+        "flipX": true
+      }
+    ],
+    "mapFile": "toe-repair-v2.png",
+    "mapTitle": "五趾一起朝脚背掰",
+    "mapCaption": "每脚两次，每次保持 10 秒；两次之间松开，脚掌与踝固定。",
+    "mapAlt": "五趾一起朝脚背掰。每脚两次，每次保持 10 秒；两次之间松开，脚掌与踝固定。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "弧线说明脚趾向脚背弯的方向，不表示整个脚或踝关节转动。全部五趾一起，不拆成逐趾操作。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "每脚两次，每次保持 10 秒；两次之间松开，脚掌与踝固定。",
+    "posterTile": 0,
+    "mapTile": 1
+  },
+  "SM-086": {
+    "id": "SM-086",
+    "uid": "preview-34e80e25-fa23-4506-b97e-81b3cc68c281",
+    "contentRevision": "064046870fdd2e26",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm086/",
+    "poster": "sheet-v1.png",
+    "phases": [
+      {
+        "title": "双手抱脚 · 双拇指分两处",
+        "short": "手位",
+        "sourceStep": 0,
+        "file": "sheet-v1.png",
+        "caption": "双手抱住右脚，四指分别在脚心侧支撑；双拇指指腹接触脚背两处不同位置。",
+        "alt": "双手抱住右脚，四指分别在脚心侧支撑；双拇指指腹接触脚背两处不同位置。",
+        "tile": 0
+      },
+      {
+        "title": "同时短推 · 朝脚趾 3–5 厘米",
+        "short": "短推",
+        "sourceStep": 1,
+        "file": "sheet-v1.png",
+        "caption": "两拇指同时沿皮肤朝脚趾方向滑推，每次约 3–5 厘米。绿色箭头是短推示意，不是比例尺。",
+        "alt": "两拇指同时沿皮肤朝脚趾方向滑推，每次约 3–5 厘米。绿色箭头是短推示意，不是比例尺。",
+        "tile": 1
+      },
+      {
+        "title": "抬起拇指 · 离肤回到起点",
+        "short": "回位",
+        "sourceStep": 1,
+        "file": "sheet-v1.png",
+        "caption": "每次推完，抬起两拇指，回到各自起点，再重新接触滑推。四指继续支撑。",
+        "alt": "每次推完，抬起两拇指，回到各自起点，再重新接触滑推。四指继续支撑。",
+        "tile": 2
+      },
+      {
+        "title": "每点 2–3 次 · 然后换点",
+        "short": "换点",
+        "sourceStep": 2,
+        "file": "sheet-v1.png",
+        "caption": "各点位推 2–3 次后，换其他点位，覆盖整个脚背。点位数量、顺序均无规定。绿色边界标出脚背区域，区域内圆点和朝趾箭头为换点覆盖示例，不限定点数和排数。",
+        "alt": "各点位推 2–3 次后，换其他点位，覆盖整个脚背。点位数量、顺序均无规定。绿色边界标出脚背区域，区域内圆点和朝趾箭头为换点覆盖示例，不限定点数和排数。",
+        "tile": 3
+      },
+      {
+        "title": "继续覆盖 · 两指仍然分开",
+        "short": "覆盖",
+        "sourceStep": 2,
+        "file": "sheet-v1.png",
+        "caption": "在脚背其他位置继续短推；两拇指各在不同位置同时操作，不叠指、不共按一点。绿色边界标出脚背区域，区域内圆点和朝趾箭头为换点覆盖示例，不限定点数和排数。",
+        "alt": "在脚背其他位置继续短推；两拇指各在不同位置同时操作，不叠指、不共按一点。绿色边界标出脚背区域，区域内圆点和朝趾箭头为换点覆盖示例，不限定点数和排数。",
+        "tile": 3
+      },
+      {
+        "title": "换脚 · 每脚覆盖一遍",
+        "short": "换脚",
+        "sourceStep": 3,
+        "file": "sheet-v1.png",
+        "caption": "右脚完成后换左脚，按相同方法覆盖整个脚背。每脚一遍，整套不重复。绿色边界标出脚背区域，区域内圆点和朝趾箭头为换点覆盖示例，不限定点数和排数。",
+        "alt": "右脚完成后换左脚，按相同方法覆盖整个脚背。每脚一遍，整套不重复。绿色边界标出脚背区域，区域内圆点和朝趾箭头为换点覆盖示例，不限定点数和排数。",
+        "tile": 3,
+        "flipX": true
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTitle": "双拇指分两处，同时朝趾短推",
+    "mapCaption": "每推约 3–5 厘米；抬指回位，每点 2–3 次后换点。",
+    "mapAlt": "双拇指分两处，同时朝趾短推。每推约 3–5 厘米；抬指回位，每点 2–3 次后换点。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "覆盖图、换点图和总览均显示同一脚背区域及区域内示例点、朝趾短推箭头。点数、排数和先后顺序不固定。双拇指分两处，四指在脚心侧支撑。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "每推约 3–5 厘米；抬指回位，每点 2–3 次后换点。",
+    "posterTile": 0,
+    "mapTile": 3
+  },
+  "SM-087": {
+    "id": "SM-087",
+    "uid": "preview-8b13537d-93f8-4623-aafc-78d04341aa0b",
+    "contentRevision": "83e23c9b9da98436",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm087/",
+    "poster": "sheet-v1.png",
+    "phases": [
+      {
+        "title": "接触 · 趾根往趾尖的第一处关节",
+        "short": "手位",
+        "sourceStep": 0,
+        "file": "sheet-v1.png",
+        "caption": "双手抱右脚；拇指指腹接触趾背侧、趾根往趾尖的第一处关节，四指在脚心侧托住。下方侧面小图明确第一处关节的位置。",
+        "alt": "双手抱右脚；拇指指腹接触趾背侧、趾根往趾尖的第一处关节，四指在脚心侧托住。下方侧面小图明确第一处关节的位置。",
+        "tile": 0
+      },
+      {
+        "title": "第一组 · 大趾与小趾同时",
+        "short": "1与5",
+        "sourceStep": 1,
+        "file": "sheet-v1.png",
+        "caption": "两手分别固定大趾和小趾的接触位置，沿脚趾向趾尖发力，像向外拔；持续 10 秒后松开，接触处不滑动。",
+        "alt": "两手分别固定大趾和小趾的接触位置，沿脚趾向趾尖发力，像向外拔；持续 10 秒后松开，接触处不滑动。",
+        "tile": 0
+      },
+      {
+        "title": "第二组 · 第二与第四趾同时",
+        "short": "2与4",
+        "sourceStep": 2,
+        "file": "sheet-v1.png",
+        "caption": "换第二、第四脚趾，同时定点向趾尖牵拉，持续 10 秒后松开。",
+        "alt": "换第二、第四脚趾，同时定点向趾尖牵拉，持续 10 秒后松开。",
+        "tile": 1
+      },
+      {
+        "title": "第三组 · 单手操作第三趾",
+        "short": "第3趾",
+        "sourceStep": 3,
+        "file": "third-v2.png",
+        "caption": "最后用一只手单独操作第三趾，仍在相同关节附近接触，向趾尖持续牵拉 10 秒后松开。",
+        "alt": "最后用一只手单独操作第三趾，仍在相同关节附近接触，向趾尖持续牵拉 10 秒后松开。"
+      },
+      {
+        "title": "三组完成 · 再换脚",
+        "short": "换脚",
+        "sourceStep": 4,
+        "file": "sheet-v1.png",
+        "caption": "另一脚按“大趾和小趾 → 第二和第四趾 → 第三趾”的顺序；每组 10 秒后松开，每脚一遍。",
+        "alt": "另一脚按“大趾和小趾 → 第二和第四趾 → 第三趾”的顺序；每组 10 秒后松开，每脚一遍。",
+        "tile": 3
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTitle": "1＋5 → 2＋4 → 3",
+    "mapCaption": "拇指接触趾根往趾尖的第一处关节，向趾尖牵拉，每组 10 秒后松开；第三趾单手。",
+    "mapAlt": "1＋5 → 2＋4 → 3。拇指接触趾根往趾尖的第一处关节，向趾尖牵拉，每组 10 秒后松开；第三趾单手。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "接触定位为趾根往趾尖的第一处关节，侧面小图以第2/3/4趾示意。1＋5 → 2＋4 → 3分别操作，每组10秒后松开，接触处不沿皮肤滑动。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "拇指接触趾根往趾尖的第一处关节，向趾尖牵拉，每组 10 秒后松开；第三趾单手。",
+    "posterTile": 0,
+    "mapTile": 3
+  },
+  "SM-088": {
+    "id": "SM-088",
+    "uid": "preview-a0190f96-edd5-4590-8c83-3ce474ff2f97",
+    "contentRevision": "988229d43aa7d2cd",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm088/",
+    "poster": "contact-r4.png",
+    "phases": [
+      {
+        "title": "接触 · 最靠近趾尖的关节",
+        "short": "手位",
+        "sourceStep": 0,
+        "file": "contact-r4.png",
+        "caption": "双手抱右脚，拇指指腹在趾背侧最靠近趾尖的关节；四指在脚心侧托住。",
+        "alt": "双手抱右脚，拇指指腹在趾背侧最靠近趾尖的关节；四指在脚心侧托住。"
+      },
+      {
+        "title": "第一组 · 大趾和小趾下压",
+        "short": "1与5",
+        "sourceStep": 1,
+        "file": "press-15-r4.png",
+        "caption": "两手分别作用大趾和小趾，向下压使趾尖朝脚心弯曲；保持 10 秒后松开，再下压保持 10 秒后松开。",
+        "alt": "两手分别作用大趾和小趾，向下压使趾尖朝脚心弯曲；保持 10 秒后松开，再下压保持 10 秒后松开。",
+        "poses": [
+          {
+            "file": "press-15-r4.png",
+            "label": "大趾小趾下压"
+          },
+          {
+            "file": "release-r4.png",
+            "label": "松开回位"
+          }
+        ]
+      },
+      {
+        "title": "每次松开 · 脚掌与踝不动",
+        "short": "松开",
+        "sourceStep": 1,
+        "file": "release-r4.png",
+        "caption": "每组下压两次，各保持 10 秒；两次之间及第二次结束后均松开。图示松开后的趾部位置。",
+        "alt": "每组下压两次，各保持 10 秒；两次之间及第二次结束后均松开。图示松开后的趾部位置。"
+      },
+      {
+        "title": "第二组 · 第二和第四趾",
+        "short": "2与4",
+        "sourceStep": 2,
+        "file": "press-24-r5.png",
+        "caption": "同时下压第二、第四脚趾，两次各 10 秒；两次之间松开，第二次结束再松开换组。",
+        "alt": "同时下压第二、第四脚趾，两次各 10 秒；两次之间松开，第二次结束再松开换组。",
+        "poses": [
+          {
+            "file": "press-24-r5.png",
+            "label": "第二第四趾下压"
+          },
+          {
+            "file": "release-r4.png",
+            "label": "松开回位"
+          }
+        ]
+      },
+      {
+        "title": "第三组 · 单手操作第三趾",
+        "short": "第3趾",
+        "sourceStep": 3,
+        "file": "press-3-r4.png",
+        "caption": "用一只手单独操作第三趾，同样向脚心下压两次，每次保持 10 秒，中间及结束后松开。",
+        "alt": "用一只手单独操作第三趾，同样向脚心下压两次，每次保持 10 秒，中间及结束后松开。",
+        "poses": [
+          {
+            "file": "press-3-r4.png",
+            "label": "第三趾下压"
+          },
+          {
+            "file": "release-r4.png",
+            "label": "松开回位"
+          }
+        ]
+      },
+      {
+        "title": "三组完成 · 再换脚",
+        "short": "换脚",
+        "sourceStep": 5,
+        "file": "press-15-r4.png",
+        "caption": "右脚三组完成后换左脚，仍按 1＋5、2＋4、3 操作。每组两次各 10 秒，每脚一遍，整套不重复。",
+        "alt": "右脚三组完成后换左脚，仍按 1＋5、2＋4、3 操作。每组两次各 10 秒，每脚一遍，整套不重复。",
+        "flipX": true,
+        "poses": [
+          {
+            "file": "press-15-r4.png",
+            "label": "左脚1＋5",
+            "flipX": true
+          },
+          {
+            "file": "press-24-r5.png",
+            "label": "左脚2＋4",
+            "flipX": true
+          },
+          {
+            "file": "press-3-r4.png",
+            "label": "左脚第3趾",
+            "flipX": true
+          },
+          {
+            "file": "release-r4.png",
+            "label": "左脚松开",
+            "flipX": true
+          }
+        ]
+      }
+    ],
+    "mapFile": "release-r4.png",
+    "mapTitle": "按趾尖前的末端关节，向脚心弯",
+    "mapCaption": "最靠近趾尖的关节为拇指接触处；侧面小图显示末节向脚心弯下。1＋5 → 2＋4 → 3；每组两次各 10 秒，中间和结束均松开。",
+    "mapAlt": "最靠近趾尖的关节为拇指接触处；侧面小图显示末节向脚心弯下。1＋5 → 2＋4 → 3；每组两次各 10 秒，中间和结束均松开。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "拇指接触处不沿皮肤滑动；只动脚趾，脚掌与踝关节保持原位。与上一项向趾尖牵拉不同，本项为末端关节下压。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "1＋5 → 2＋4 → 3；每组两次各 10 秒，中间和结束均松开。"
+  },
+  "SM-089": {
+    "id": "SM-089",
+    "uid": "preview-ad838bcb-2ead-4d18-ba75-fcd01f8a1904",
+    "contentRevision": "b851aa2c82b774d7",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm089/",
+    "poster": "first-person-front-r3.png",
+    "phases": [
+      {
+        "title": "坐姿 · 另一手扶膝稳定",
+        "short": "准备",
+        "sourceStep": 0,
+        "file": "first-person-map-r3.png",
+        "caption": "右腿向前伸、右膝稍弯，左手扶住右膝，保持腿稳定。图示右腿前伸微屈，左手扶膝、右手操作。",
+        "alt": "右腿向前伸、右膝稍弯，左手扶住右膝，保持腿稳定。图示右腿前伸微屈，左手扶膝、右手操作。"
+      },
+      {
+        "title": "先前侧握 · 拇指在内侧",
+        "short": "前握",
+        "sourceStep": 1,
+        "file": "first-person-front-r3.png",
+        "caption": "第一视角，右手从右小腿前侧握住：拇指在画面左侧（内侧），四指在画面右侧（外侧）；左手扶右膝。指腹与掌面配合，相向夹捏两侧肌肉。",
+        "alt": "第一视角，右手从右小腿前侧握住：拇指在画面左侧（内侧），四指在画面右侧（外侧）；左手扶右膝。指腹与掌面配合，相向夹捏两侧肌肉。"
+      },
+      {
+        "title": "立即松开 · 脚踝向膝下",
+        "short": "向上",
+        "sourceStep": 2,
+        "file": "first-person-map-r3.png",
+        "caption": "每次捏下立即松开，不停留。每点抓放 3–5 次，再由脚踝逐点向上到膝盖下方。",
+        "alt": "每次捏下立即松开，不停留。每点抓放 3–5 次，再由脚踝逐点向上到膝盖下方。"
+      },
+      {
+        "title": "再后侧握 · 拇指换到外侧",
+        "short": "后握",
+        "sourceStep": 3,
+        "file": "first-person-back-r3.png",
+        "caption": "右手转到小腿后侧握住：拇指在画面右侧（外侧），四指在画面左侧（内侧），掌面从后方承托；左手继续扶右膝。",
+        "alt": "右手转到小腿后侧握住：拇指在画面右侧（外侧），四指在画面左侧（内侧），掌面从后方承托；左手继续扶右膝。"
+      },
+      {
+        "title": "后侧重新 · 脚踝至腿窝下",
+        "short": "向上",
+        "sourceStep": 4,
+        "file": "first-person-map-r3.png",
+        "caption": "每次抓捏立即松开，每点 3–5 次。从脚踝重新开始，逐点向上到腿窝下方。",
+        "alt": "每次抓捏立即松开，每点 3–5 次。从脚踝重新开始，逐点向上到腿窝下方。"
+      },
+      {
+        "title": "两段完成 · 换手换腿",
+        "short": "换腿",
+        "sourceStep": 5,
+        "file": "first-person-front-r3.png",
+        "caption": "另一侧右手扶左膝、左手操作；仍先前握拇指内侧，再后握拇指外侧。每侧两段各一遍。",
+        "alt": "另一侧右手扶左膝、左手操作；仍先前握拇指内侧，再后握拇指外侧。每侧两段各一遍。",
+        "flipX": true,
+        "poses": [
+          {
+            "file": "first-person-front-r3.png",
+            "flipX": true,
+            "label": "左腿前握"
+          },
+          {
+            "file": "first-person-back-r3.png",
+            "flipX": true,
+            "label": "左腿后握"
+          }
+        ]
+      }
+    ],
+    "mapFile": "first-person-map-r3.png",
+    "mapTitle": "前握拇指内侧，后握拇指外侧",
+    "mapCaption": "每点抓放 3–5 次、立即松开；两段均从脚踝重新向上。",
+    "mapAlt": "前握拇指内侧，后握拇指外侧。每点抓放 3–5 次、立即松开；两段均从脚踝重新向上。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "右腿第一视角，正握时右拇指在画面左、四指在右；后握时拇指在右、四指在左。左手扶膝。换左腿后双手角色及画面左右镜像。两段均从脚踝重新开始，先前侧到膝下，再后侧到腿窝下。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "每点抓放 3–5 次、立即松开；两段均从脚踝重新向上。"
+  },
+  "SM-090": {
+    "id": "SM-090",
+    "uid": "preview-ab470486-6a5f-4efe-9364-f9007e3c5dfc",
+    "contentRevision": "214aa072530036eb",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm090/",
+    "poster": "first-person-stack-r5.png",
+    "phases": [
+      {
+        "title": "准备 · 双手环抱小腿",
+        "short": "准备",
+        "sourceStep": 0,
+        "file": "first-person-stack-r5.png",
+        "caption": "第一视角俯看自己前伸的右腿，膝盖在下、脚在上。两手从身体方向伸出，四指环抱小腿后侧，拇指上下叠放。",
+        "alt": "第一视角俯看自己前伸的右腿，膝盖在下、脚在上。两手从身体方向伸出，四指环抱小腿后侧，拇指上下叠放。"
+      },
+      {
+        "title": "叠放拇指 · 下指指腹接触",
+        "short": "叠指",
+        "sourceStep": 1,
+        "file": "first-person-stack-r5.png",
+        "caption": "上方拇指指腹直接覆盖下方拇指末节背面，形成上下叠压；仅下方拇指指腹接触小腿。图中下方指甲被上方拇指部分遮挡。哪只在上无固定要求。",
+        "alt": "上方拇指指腹直接覆盖下方拇指末节背面，形成上下叠压；仅下方拇指指腹接触小腿。图中下方指甲被上方拇指部分遮挡。哪只在上无固定要求。",
+        "poses": [
+          {
+            "file": "first-person-stack-r5.png",
+            "label": "叠指接触"
+          },
+          {
+            "file": "first-person-map-r5.png",
+            "label": "右腿骨缘定位"
+          }
+        ]
+      },
+      {
+        "title": "定位 · 胫骨外侧缘与肌肉交界",
+        "short": "定位",
+        "sourceStep": 2,
+        "file": "first-person-map-r5.png",
+        "caption": "第一视角：膝盖在下、脚在上；右腿的小趾侧在画面右侧。沿胫骨外侧边缘与肌肉的交界线，从脚踝逐点到膝盖下方。",
+        "alt": "第一视角：膝盖在下、脚在上；右腿的小趾侧在画面右侧。沿胫骨外侧边缘与肌肉的交界线，从脚踝逐点到膝盖下方。"
+      },
+      {
+        "title": "原位按 · 每点 3–5 次",
+        "short": "按压",
+        "sourceStep": 3,
+        "file": "first-person-stack-r5.png",
+        "caption": "每点按压 3–5 次，每次按下后立即抬起，不持续停留。图展示叠指接触手型。",
+        "alt": "每点按压 3–5 次，每次按下后立即抬起，不持续停留。图展示叠指接触手型。"
+      },
+      {
+        "title": "抬起换点 · 再向上推进",
+        "short": "换点",
+        "sourceStep": 3,
+        "file": "first-person-map-r5.png",
+        "caption": "同点完成后再向上移到下一点。绿色虚线表示逐点换位，不是沿皮肤连续推压。",
+        "alt": "同点完成后再向上移到下一点。绿色虚线表示逐点换位，不是沿皮肤连续推压。"
+      },
+      {
+        "title": "一线完成 · 再换腿",
+        "short": "换腿",
+        "sourceStep": 4,
+        "file": "first-person-stack-r5.png",
+        "caption": "右腿完成后，沿左腿胫骨外侧缘与肌肉交界处从脚踝向膝下操作；每腿一遍，整套不重复。",
+        "alt": "右腿完成后，沿左腿胫骨外侧缘与肌肉交界处从脚踝向膝下操作；每腿一遍，整套不重复。",
+        "flipX": true
+      }
+    ],
+    "mapFile": "first-person-map-r5.png",
+    "mapTitle": "叠拇指，沿胫骨外侧缘逐点向上",
+    "mapCaption": "脚踝 → 膝下；每点 3–5 次，每次立即抬起，无持续停留。",
+    "mapAlt": "第一视角右小腿，膝盖在下、脚在上；小趾侧在画面右侧。骨外缘与肌肉交界处，从脚踝到膝下，图中箭头朝下。",
+    "legend": [
+      "推进方向 / 操作范围",
+      "当前接触 / 分组",
+      "离肤回位"
+    ],
+    "legendKinds": [
+      "start",
+      "press",
+      "return"
+    ],
+    "noteTitle": "手型、接触与顺序",
+    "note": "第一视角中膝盖在下、脚在上，右腿外侧在画面右边。下方拇指指腹接触，上方拇指叠在下方末节背面；四指后侧支撑。不沿胫骨正中按压。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。局部图配合已确认正文阅读；图解为待复核样片，尚未获教学或发布批准。",
+    "cardCaption": "脚踝 → 膝下；每点 3–5 次，每次立即抬起，无持续停留。"
+  }
+}

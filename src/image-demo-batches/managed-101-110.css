@@ -1,0 +1,4 @@
+.image-stage:has(:is(img[src*="illustrations/sm101/"],img[src*="illustrations/sm102/"],img[src*="illustrations/sm103/"],img[src*="illustrations/sm104/"],img[src*="illustrations/sm105/"],img[src*="illustrations/sm106/"],img[src*="illustrations/sm107/"],img[src*="illustrations/sm108/"],img[src*="illustrations/sm109/"],img[src*="illustrations/sm110/"]))>.sheet-crop{transform:scale(.82);transform-origin:50% 50%;}
+.managed-101-110-overlay text{font-family:"PingFang SC","Songti SC",sans-serif;}
+
+.image-stage>img[src*="illustrations/sm107/"]{transform:scale(.82);transform-origin:50% 50%;}

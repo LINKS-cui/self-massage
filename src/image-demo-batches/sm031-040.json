@@ -1,0 +1,690 @@
+{
+  "SM-031": {
+    "id": "SM-031",
+    "uid": "preview-a5f92def-939d-4906-b2bd-0c2018ff3e45",
+    "contentRevision": "a010bad38c9034d6",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm031/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 十指交叉放后颈",
+        "short": "摆手",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "头自然直立，十指交叉放在后颈，用双掌夹住后颈肌肉。橙色区域表示掌下夹持位置，接触部分被手遮挡。",
+        "alt": "背面手势：十指交叉位于后颈，双掌夹住后颈肌肉",
+        "sourceStep": 0
+      },
+      {
+        "title": "夹提 · 向后远离后颈",
+        "short": "向后提",
+        "tile": 2,
+        "file": "sheet-v1.png",
+        "caption": "一边挤压，一边将夹住的肌肉向后提，方向是远离后颈。保持 3–5 秒后松开；绿色箭头表示向后牵提，不是抬头。",
+        "alt": "侧面：头保持直立，交叉双手夹住后颈，箭头向后远离颈部",
+        "sourceStep": 1
+      },
+      {
+        "title": "松开 · 原处重新夹住",
+        "short": "松开",
+        "tile": 3,
+        "file": "sheet-v1.png",
+        "caption": "松开后，在同一位置重新夹住并向后提，不沿脖子上下换点。图中区域只帮助对照原来的夹持处。",
+        "alt": "无遮挡后颈，标示重新夹住的同一片区域",
+        "sourceStep": 2
+      },
+      {
+        "title": "重复 · 共做 5–10 次",
+        "short": "重复",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "共做 5–10 次，1 组。每次保持 3–5 秒后松开，呼吸无固定要求，力度以自己舒服为准。",
+        "alt": "背面原位夹持手型，提示重复次数和呼吸无固定要求",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "橙色区域为后颈肌肉的夹持位置示意，不是多个点按穴位。十指交叉，双掌夹住后向后牵提；不沿颈部上下换点。",
+    "mapTitle": "后颈夹持 · 固定在同一处",
+    "mapCaption": "橙色区域为后颈肌肉的夹持位置示意，不是多个点按穴位。十指交叉，双掌夹住后向后牵提；不沿颈部上下换点。",
+    "legend": [
+      "双掌夹持区域",
+      "向后牵提方向"
+    ],
+    "legendKinds": [
+      "area",
+      "line"
+    ],
+    "noteTitle": "夹住后颈，向后提起。",
+    "note": "头保持自然直立；向后是远离后颈的方向。每次保持 3–5 秒后松开，在同一处重复，共 5–10 次、1 组。呼吸无固定要求。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "夹住后颈，向后提起。"
+  },
+  "SM-032": {
+    "id": "SM-032",
+    "uid": "preview-989596be-8ba3-463a-b1ba-d28498e929fe",
+    "contentRevision": "8e4123fc8ca7568e",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm032/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "右侧摆手 · 左手扶额",
+        "short": "摆手",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "以自己右侧为例：左手扶左侧额头，右拇指指腹放在右侧头颈交界处，其余四指扶后脑。头自然直立，先吸一口气。",
+        "alt": "右侧视图：一手扶额，右拇指按右侧头颈交界，四指扶后脑",
+        "sourceStep": 0
+      },
+      {
+        "title": "定点按住 · 抬头吐气",
+        "short": "抬头",
+        "tile": 1,
+        "file": "sheet-v1.png",
+        "caption": "拇指持续按住同一点，同时抬头；抬头和保持 5–10 秒期间持续吐气。拇指不转揉、不滑动。",
+        "alt": "头抬起，拇指保留在头颈交界，箭头表示抬头方向",
+        "sourceStep": 1
+      },
+      {
+        "title": "松拇指 · 头回正",
+        "short": "回正",
+        "tile": 3,
+        "file": "sheet-v1.png",
+        "caption": "每次结束后松开拇指，头回到自然直立的起始位置，再开始下一次。右侧做完 4–6 次后才换侧。",
+        "alt": "双手移开、头回正的背面图，点位仅作原位置参照",
+        "sourceStep": 2
+      },
+      {
+        "title": "换到左侧 · 双手对调",
+        "short": "换侧",
+        "tile": 2,
+        "file": "sheet-v1.png",
+        "caption": "右手扶右侧额头，左拇指按左侧头颈交界，其余四指扶后脑。先吸气，抬头及保持 5–10 秒时持续吐气；每次松开回正。同样做 4–6 次。",
+        "alt": "左侧视图：右手扶额，左拇指定点，头向上抬起",
+        "sourceStep": 3
+      },
+      {
+        "title": "左右做完 · 整套一轮",
+        "short": "结束",
+        "tile": 3,
+        "file": "sheet-v1.png",
+        "caption": "左右各完成 4–6 次后结束，整套一轮。力度以自己舒服为准，没有统一固定要求。",
+        "alt": "回正放手，标出左右两侧的操作位置供核对",
+        "sourceStep": 4
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "橙色点为头颈交界的拇指接触位置示意。先做右侧 4–6 次，再双手作用对调做左侧 4–6 次；两点不是同时按压。左右均指练习者自身。",
+    "mapTitle": "左右换侧 · 每次只按一侧",
+    "mapCaption": "橙色点为头颈交界的拇指接触位置示意。先做右侧 4–6 次，再双手作用对调做左侧 4–6 次；两点不是同时按压。左右均指练习者自身。",
+    "legend": [
+      "拇指固定点",
+      "扶额支撑",
+      "抬头方向"
+    ],
+    "legendKinds": [
+      "press",
+      "start",
+      "line"
+    ],
+    "noteTitle": "拇指定点，另一手扶额。",
+    "note": "拇指不转揉、不滑动。先吸气，抬头和保持 5–10 秒时持续吐气；每次结束松拇指、头回正，同侧 4–6 次后换侧，整套一轮。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "拇指定点，另一手扶额。"
+  },
+  "SM-033": {
+    "id": "SM-033",
+    "uid": "preview-0a64543c-34bd-4910-9eab-733bf553b987",
+    "contentRevision": "975ac6612c95a00c",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm033/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 拇指留在后颈",
+        "short": "摆手",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "背挺直，头自然直立。双手托住后颈，拇指指腹在后颈，其余四指放在头侧作支撑。",
+        "alt": "后视双手托后颈，两拇指接触后颈，四指扶住头侧",
+        "sourceStep": 0
+      },
+      {
+        "title": "先吸气 · 向上顶提",
+        "short": "顶提",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "先吸一口气。两侧拇指保持原位，同时向上发力，把整个头向上顶提；发力持续 3–5 秒，并持续吐气。箭头表示发力方向，不是拇指滑动路线。",
+        "alt": "两拇指接触点不动，向上箭头表示整个头部的顶提方向",
+        "sourceStep": 1
+      },
+      {
+        "title": "停止发力 · 不额外停留",
+        "short": "松力",
+        "tile": 3,
+        "file": "sheet-v1.png",
+        "caption": "拇指不沿后颈向上滑动，发力结束后不额外停留，再重复。图中头部保持直立，点位仅作接触位置参照。",
+        "alt": "后颈无遮挡图，显示固定拇指接触位置，不画滑动路径",
+        "sourceStep": 2
+      },
+      {
+        "title": "重复 · 共做 8–10 次",
+        "short": "重复",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "共做 8–10 次，1 组。每次先吸气、顶提时持续吐气，力度以自己舒服为准。",
+        "alt": "背面手型保持原位，提示8至10次1组",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "橙色点为两侧拇指指腹接触处，绿色箭头表示整个头向上的发力方向。拇指留在原位，不沿后颈向上滑动；其余四指只作支撑。",
+    "mapTitle": "接触点固定 · 头向上顶提",
+    "mapCaption": "橙色点为两侧拇指指腹接触处，绿色箭头表示整个头向上的发力方向。拇指留在原位，不沿后颈向上滑动；其余四指只作支撑。",
+    "legend": [
+      "拇指固定点",
+      "向上发力",
+      "四指支撑"
+    ],
+    "legendKinds": [
+      "press",
+      "line",
+      "start"
+    ],
+    "noteTitle": "拇指留在原位，整个头向上。",
+    "note": "向上顶提不是抬头后仰。先吸气，发力 3–5 秒时持续吐气，不额外停留，共 8–10 次、1 组。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "拇指留在原位，整个头向上。"
+  },
+  "SM-034": {
+    "id": "SM-034",
+    "uid": "preview-e77eb3e1-13d0-4cad-8a3d-1684d2f34705",
+    "contentRevision": "199bddcb8391305b",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm034/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "准备 · 双肩放松",
+        "short": "准备",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "背挺直，双肩自然放松，头自然直立。左右均以练习者自身为准。",
+        "alt": "正面头部直立，双肩放松水平、双手下垂",
+        "sourceStep": 0
+      },
+      {
+        "title": "向右侧倾 · 右手扶左头侧",
+        "short": "右侧倾",
+        "tile": 1,
+        "file": "sheet-v1.png",
+        "caption": "右手绕过头顶，掌面扶左侧头部，左手下垂。先吸气，再辅助头向自己右侧下压；只做侧倾。下压及保持 10 秒时持续吐气。",
+        "alt": "右手绕头顶扶左头侧，头向自身右侧倾，另一手下垂",
+        "sourceStep": 1
+      },
+      {
+        "title": "松手回正 · 再换侧",
+        "short": "回正",
+        "tile": 3,
+        "file": "sheet-v1.png",
+        "caption": "保持结束后松手，头回到自然直立，再换侧。不转头、不低头。",
+        "alt": "双手放下、头回到中间直立位置",
+        "sourceStep": 2
+      },
+      {
+        "title": "向左侧倾 · 左手扶右头侧",
+        "short": "左侧倾",
+        "tile": 2,
+        "file": "sheet-v1.png",
+        "caption": "左手绕过头顶，掌面扶右侧头部，右手下垂。先吸气；向左下压及保持 10 秒时持续吐气，结束后松手回正。",
+        "alt": "左手绕头顶扶右头侧，头向自身左侧倾，另一手下垂",
+        "sourceStep": 3
+      },
+      {
+        "title": "交替完成 · 每侧 2 次",
+        "short": "重复",
+        "tile": 3,
+        "file": "sheet-v1.png",
+        "caption": "左右交替，每侧做 2 次；每次保持结束都松手回正。力度以自己舒服为准。",
+        "alt": "自然直立姿势，提示左右交替每侧2次",
+        "sourceStep": 4
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTile": 0,
+    "mapAlt": "头只做侧倾，不转头或低头。右手扶左侧头部时向自己右侧倾；左手扶右侧头部时向自己左侧倾。绿色两向箭头说明两侧动作，实际逐侧交替。",
+    "mapTitle": "手扶对侧 · 头向手臂一侧倾",
+    "mapCaption": "头只做侧倾，不转头或低头。右手扶左侧头部时向自己右侧倾；左手扶右侧头部时向自己左侧倾。绿色两向箭头说明两侧动作，实际逐侧交替。",
+    "legend": [
+      "掌面支撑",
+      "侧倾方向"
+    ],
+    "legendKinds": [
+      "press",
+      "line"
+    ],
+    "noteTitle": "手绕头顶扶对侧，左右交替。",
+    "note": "先吸气，下压和保持 10 秒时持续吐气。每次松手回正再换侧，左右交替、每侧 2 次。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "手绕头顶扶对侧，左右交替。"
+  },
+  "SM-035": {
+    "id": "SM-035",
+    "uid": "preview-2252d706-637c-4b5b-9a46-f40d8da26b7b",
+    "contentRevision": "d49d6ab57b81a257",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm035/",
+    "poster": "sheet-v2.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "准备 · 放松颈部",
+        "short": "准备",
+        "tile": 0,
+        "file": "../sm034/sheet-v1.png",
+        "caption": "背挺直，双手自然下垂，头自然直立，放松脖子。睁眼或闭眼均可。",
+        "alt": "头自然直立、双手下垂的准备姿势",
+        "sourceStep": 0
+      },
+      {
+        "title": "先顺时针 · 完整绕 10 圈",
+        "short": "顺时针",
+        "tile": 0,
+        "file": "sheet-v2.png",
+        "caption": "想象下巴画圆，头部完整绕圈，经过低头、侧倾和仰头等位置，先顺时针 10 圈。下方分解图仅帮助辨认姿势，不代表中途停顿。",
+        "alt": "完整绕圈的低头关键姿势，配合顺时针方向提示",
+        "sourceStep": 1,
+        "poses": [
+          {
+            "file": "sheet-v2.png",
+            "tile": 0,
+            "label": "低头",
+            "alt": "下巴向胸前低下，背部保持挺直"
+          },
+          {
+            "file": "sheet-v2.png",
+            "tile": 1,
+            "label": "右侧倾",
+            "alt": "头向自身右侧倾，肩保持放松"
+          },
+          {
+            "file": "sheet-v2.png",
+            "tile": 2,
+            "label": "仰头",
+            "alt": "侧面显示头向后仰，背部挺直"
+          },
+          {
+            "file": "sheet-v2.png",
+            "tile": 3,
+            "label": "左侧倾",
+            "alt": "头向自身左侧倾，双手自然下垂"
+          }
+        ]
+      },
+      {
+        "title": "直接反向 · 再绕 10 圈",
+        "short": "逆时针",
+        "tile": 0,
+        "file": "sheet-v2.png",
+        "caption": "完成顺时针 10 圈后直接反向，再逆时针 10 圈，不先回正停顿。呼吸无固定要求；点按下方分解图可对照各个姿势。",
+        "alt": "逆时针完整绕圈的关键姿势示意",
+        "sourceStep": 2,
+        "poses": [
+          {
+            "file": "sheet-v2.png",
+            "tile": 0,
+            "label": "低头",
+            "alt": "下巴向胸前低下，背部保持挺直"
+          },
+          {
+            "file": "sheet-v2.png",
+            "tile": 3,
+            "label": "左侧倾",
+            "alt": "头向自身左侧倾，双手自然下垂"
+          },
+          {
+            "file": "sheet-v2.png",
+            "tile": 2,
+            "label": "仰头",
+            "alt": "侧面显示头向后仰，背部挺直"
+          },
+          {
+            "file": "sheet-v2.png",
+            "tile": 1,
+            "label": "右侧倾",
+            "alt": "头向自身右侧倾，肩保持放松"
+          }
+        ]
+      }
+    ],
+    "mapFile": "../sm034/sheet-v1.png",
+    "mapTile": 0,
+    "mapAlt": "圆形箭头只表示绕圈方向，不是皮肤上的按压点。先顺时针 10 圈，接着直接逆时针 10 圈，中间不先回正停顿。姿势分解不代表速度或节拍。",
+    "mapTitle": "低头、侧倾、仰头 · 连成完整圆",
+    "mapCaption": "圆形箭头只表示绕圈方向，不是皮肤上的按压点。先顺时针 10 圈，接着直接逆时针 10 圈，中间不先回正停顿。姿势分解不代表速度或节拍。",
+    "legend": [
+      "绕圈方向",
+      "下巴位置参照"
+    ],
+    "legendKinds": [
+      "line",
+      "start"
+    ],
+    "noteTitle": "完整绕圈，再直接反向。",
+    "note": "头部要经过低头、侧倾和仰头等位置。先顺时针 10 圈，再直接逆时针 10 圈；双手自然下垂，呼吸无固定要求。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "完整绕圈，再直接反向。"
+  },
+  "SM-036": {
+    "id": "SM-036",
+    "uid": "preview-b0e60fcd-de0c-4000-b98f-fc8385fdef34",
+    "contentRevision": "51fde93bcdbb089d",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm036/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 双拇指在下巴下方",
+        "short": "摆手",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "背挺直，头自然直立。双拇指指腹顶住下巴下方，其余四指各自并拢、朝上。先吸一口气。",
+        "alt": "双拇指顶在下巴下方，其余四指并拢向上贴近脸侧",
+        "sourceStep": 0
+      },
+      {
+        "title": "向上顶 · 后仰并吐气",
+        "short": "后仰",
+        "tile": 1,
+        "file": "sheet-v1.png",
+        "caption": "两拇指向上顶起下巴，使头后仰。后仰和保持 10 秒期间持续吐气。橙点在下巴下方，绿色箭头表示向上顶起。",
+        "alt": "下巴被双拇指向上顶，头后仰，四指保持并拢朝上",
+        "sourceStep": 1
+      },
+      {
+        "title": "停止上顶 · 头回正",
+        "short": "回正",
+        "tile": 2,
+        "file": "sheet-v1.png",
+        "caption": "结束后停止上顶，头回到自然直立，再开始下一次。",
+        "alt": "双手放开，头回到自然直立",
+        "sourceStep": 2
+      },
+      {
+        "title": "重复 · 4–6 次，1 组",
+        "short": "重复",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "每次先吸气，再上顶后仰并持续吐气，保持 10 秒后回正。共 4–6 次，整套只做 1 组；力度以自己舒服为准。",
+        "alt": "双拇指下巴下方的摆手图，提示4至6次1组",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "侧面标记为下巴下方的接触区域，两侧拇指均在此处上顶。四指各自并拢朝上。绿色箭头表示上顶方向，后仰后停止上顶、头回正。",
+    "mapTitle": "双拇指顶在下巴下方",
+    "mapCaption": "侧面标记为下巴下方的接触区域，两侧拇指均在此处上顶。四指各自并拢朝上。绿色箭头表示上顶方向，后仰后停止上顶、头回正。",
+    "legend": [
+      "拇指接触点",
+      "上顶方向"
+    ],
+    "legendKinds": [
+      "press",
+      "line"
+    ],
+    "noteTitle": "双拇指上顶，四指并拢朝上。",
+    "note": "先吸气，后仰及保持 10 秒时持续吐气，停止上顶后头回正。共 4–6 次、1 组。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "双拇指上顶，四指并拢朝上。"
+  },
+  "SM-037": {
+    "id": "SM-037",
+    "uid": "preview-b35bebde-fc6c-472e-87aa-fa7d55ef21ff",
+    "contentRevision": "c06e9661ac4df2c6",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm037/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 双掌并排放头顶",
+        "short": "摆手",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "背挺直，头自然直立。双手并排放在头顶，两肘向前收拢。先吸一口气。",
+        "alt": "双掌并排放头顶，手指未交叉，两肘向前",
+        "sourceStep": 0
+      },
+      {
+        "title": "低头下压 · 持续吐气",
+        "short": "下压",
+        "tile": 1,
+        "file": "sheet-v1.png",
+        "caption": "低头并用双手向下压；低头和保持 10 秒期间持续吐气。双手仍并排放在头顶。",
+        "alt": "侧面显示颈部前屈低头，双手并排下压，两肘向前收拢",
+        "sourceStep": 1
+      },
+      {
+        "title": "停止下压 · 头回正",
+        "short": "回正",
+        "tile": 2,
+        "file": "sheet-v1.png",
+        "caption": "结束后停止下压，头回到自然直立，再开始下一次。",
+        "alt": "双手放开，头回到自然直立",
+        "sourceStep": 2
+      },
+      {
+        "title": "重复 · 4–6 次，1 组",
+        "short": "重复",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "共做 4–6 次，1 组。每次先吸气，低头和保持 10 秒时持续吐气，结束回正；力度以自己舒服为准。",
+        "alt": "双手并排在头顶的准备手型，提示4至6次1组",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "橙色区域标示头顶双掌接触处；绿色箭头表示向下压的方向。双手并排，低头并下压，结束后停止下压、头回正。",
+    "mapTitle": "双掌并排 · 两肘向前收拢",
+    "mapCaption": "橙色区域标示头顶双掌接触处；绿色箭头表示向下压的方向。双手并排，低头并下压，结束后停止下压、头回正。",
+    "legend": [
+      "双掌接触区域",
+      "下压方向"
+    ],
+    "legendKinds": [
+      "area",
+      "line"
+    ],
+    "noteTitle": "双手并排，低头并向下压。",
+    "note": "先吸气，低头及保持 10 秒时持续吐气。停止下压后回正，共 4–6 次、1 组。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "双手并排，低头并向下压。"
+  },
+  "SM-038": {
+    "id": "SM-038",
+    "uid": "preview-d675e8c2-579c-40dd-a5b0-aefd83679dfc",
+    "contentRevision": "2505a2d8e0d86d33",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm038/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 四指扶顶，拇指转压",
+        "short": "摆手",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "头自然直立，双手同时操作，其余四指扶头顶。用拇指指腹在耳朵正上方至太阳穴这片头皮逐点转压。图中仅展示一个位置示例。",
+        "alt": "耳朵上方的双拇指接触",
+        "sourceStep": 0
+      },
+      {
+        "title": "逐点转压 · 每点 3–5 圈",
+        "short": "转压",
+        "tile": 1,
+        "file": "sheet-v1.png",
+        "caption": "每点转压 3–5 圈，没有时间要求。图中是区域内另一个位置示例，两张手势图不规定起点、终点或换点先后。",
+        "alt": "太阳穴附近的双拇指接触",
+        "sourceStep": 1
+      },
+      {
+        "title": "覆盖区域 · 完整一遍结束",
+        "short": "覆盖",
+        "tile": 3,
+        "file": "sheet-v1.png",
+        "caption": "覆盖耳朵正上方至太阳穴这片头皮，完整覆盖一遍后结束。旋转方向、两侧是否同向和点位顺序均无规定。呼吸无固定要求，力度以自己舒服为准。",
+        "alt": "侧面头部，耳上至太阳穴区域内布满橙色螺旋，表示整片区域内逐点转压。",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "侧面头部，耳上至太阳穴区域内布满橙色螺旋，表示整片区域内逐点转压。",
+    "mapTitle": "耳上至太阳穴 · 完整覆盖一遍",
+    "mapCaption": "绿色区域表示耳朵正上方至太阳穴这片头皮；橙色螺旋密集分布，提示逐点转压并覆盖整片区域。螺旋不限定实际点数、间距、先后或旋转方向；每点 3–5 圈，完整覆盖一遍结束。",
+    "legend": [
+      "区域范围示意",
+      "螺旋表示转压"
+    ],
+    "legendKinds": [
+      "region",
+      "spiral"
+    ],
+    "noteTitle": "耳上至太阳穴，逐点转压 3–5 圈。",
+    "note": "四指扶顶，双拇指同时操作，每点 3–5 圈，无时间要求，区域覆盖一遍。旋转方向、两侧是否同向和点位顺序均无规定。呼吸无固定要求。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "耳上至太阳穴，逐点转压 3–5 圈。"
+  },
+  "SM-039": {
+    "id": "SM-039",
+    "uid": "preview-99c82df9-7bd8-4b2d-948f-b49bbb0b5d63",
+    "contentRevision": "9872f4cf7d4498e7",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm039/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 四指扶顶，拇指转压",
+        "short": "摆手",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "头自然直立，双手同时操作，其余四指扶头顶。用拇指指腹在耳朵后方，从耳朵正上方至脖子之间的这片区域逐点转压。图中仅展示一个位置示例。",
+        "alt": "耳后上部的双拇指接触",
+        "sourceStep": 0
+      },
+      {
+        "title": "逐点转压 · 每点 3–5 圈",
+        "short": "转压",
+        "tile": 1,
+        "file": "sheet-v1.png",
+        "caption": "每点转压 3–5 圈，没有时间要求。图中是区域内另一个位置示例，两张手势图不规定起点、终点或换点先后。",
+        "alt": "耳后下部靠近颈部的双拇指接触",
+        "sourceStep": 1
+      },
+      {
+        "title": "覆盖区域 · 完整一遍结束",
+        "short": "覆盖",
+        "tile": 3,
+        "file": "../sm036/sheet-v1.png",
+        "caption": "沿紧贴耳朵后侧的区域，从耳上至耳后靠近颈部，逐点转压并完整覆盖一遍。侧面图展示一侧位置，实际两侧同时操作；每点 3–5 圈，旋转方向、两侧是否同向和先后均无规定。呼吸无固定要求，力度以自己舒服为准。",
+        "alt": "无遮挡侧面头部，紧贴耳朵后缘的弧形区域从耳上延伸至耳后下方，区域内用螺旋表示转压。",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "../sm036/sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "无遮挡侧面头部，紧贴耳朵后缘的弧形区域从耳上延伸至耳后下方，区域内用螺旋表示转压。",
+    "mapTitle": "紧贴耳后 · 沿耳朵轮廓覆盖",
+    "mapCaption": "绿色区域紧贴耳朵后侧轮廓，从耳上延伸至耳后、靠近颈部的位置。此图用侧面显示一侧，实际两侧同时操作。橙色螺旋表示逐点转压，不限定点数、先后或旋转方向；每点 3–5 圈，完整覆盖一遍结束。",
+    "legend": [
+      "区域范围示意",
+      "螺旋表示转压"
+    ],
+    "legendKinds": [
+      "region",
+      "spiral"
+    ],
+    "noteTitle": "耳后至颈部，逐点转压 3–5 圈。",
+    "note": "四指扶顶，双拇指同时操作，每点 3–5 圈，无时间要求，区域覆盖一遍。旋转方向、两侧是否同向和点位顺序均无规定。呼吸无固定要求。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "耳后至颈部，逐点转压 3–5 圈。"
+  },
+  "SM-040": {
+    "id": "SM-040",
+    "uid": "preview-82e45909-fa69-4d72-9271-c45abedf90f2",
+    "contentRevision": "d1f3f5c320390dfb",
+    "status": "draft",
+    "publication": "not-approved",
+    "folder": "./illustrations/sm040/",
+    "poster": "sheet-v1.png",
+    "posterTile": 0,
+    "phases": [
+      {
+        "title": "摆手 · 四指扶顶，拇指转压",
+        "short": "摆手",
+        "tile": 0,
+        "file": "sheet-v1.png",
+        "caption": "头自然直立，双手同时操作，其余四指扶头顶。用拇指指腹在整个后脑、两耳之间的区域逐点转压。图中仅展示一个位置示例。",
+        "alt": "后脑较下方的双拇指接触",
+        "sourceStep": 0
+      },
+      {
+        "title": "逐点转压 · 每点 3–5 圈",
+        "short": "转压",
+        "tile": 1,
+        "file": "sheet-v1.png",
+        "caption": "每点转压 3–5 圈，没有时间要求。图中是区域内另一个位置示例，两张手势图不规定起点、终点或换点先后。",
+        "alt": "后脑较上方的双拇指接触",
+        "sourceStep": 1
+      },
+      {
+        "title": "覆盖区域 · 完整一遍结束",
+        "short": "覆盖",
+        "tile": 3,
+        "file": "sheet-v1.png",
+        "caption": "覆盖整个后脑、两耳之间的区域，完整覆盖一遍后结束。旋转方向和点位顺序均无规定。呼吸无固定要求，力度以自己舒服为准。",
+        "alt": "无遮挡后脑，标示两耳之间整个后脑区域",
+        "sourceStep": 2
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapTile": 3,
+    "mapAlt": "绿色区域表示整个后脑、两耳之间的区域；橙色空心点仅举例说明区域内可逐点转压，不限定点数、顺序或间距。每点 3–5 圈，覆盖一遍结束。",
+    "mapTitle": "整个后脑 · 完整覆盖一遍",
+    "mapCaption": "绿色区域表示整个后脑、两耳之间的区域；橙色空心点仅举例说明区域内可逐点转压，不限定点数、顺序或间距。每点 3–5 圈，覆盖一遍结束。",
+    "legend": [
+      "区域范围示意",
+      "示例转压位置"
+    ],
+    "legendKinds": [
+      "region",
+      "press"
+    ],
+    "noteTitle": "整个后脑，逐点转压 3–5 圈。",
+    "note": "四指扶顶，双拇指同时操作，每点 3–5 圈，无时间要求，区域覆盖一遍。旋转方向和点位顺序均无规定。呼吸无固定要求。",
+    "playerNote": "自动翻页每页 6 秒，仅供看图，不是练习计时。点位与箭头为位置和方向示意，人物手型与动作细节仍待复核。",
+    "cardCaption": "整个后脑，逐点转压 3–5 圈。"
+  }
+}

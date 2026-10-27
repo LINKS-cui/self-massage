@@ -1,0 +1,6 @@
+.managed-081-090-overlay text{font-family:'PingFang SC','Songti SC',sans-serif}
+/* Source atlas has a 46.25% horizontal split. Display crop only; pixels are untouched. */
+.sheet-crop[data-tile="0"]:has(>img[src*="illustrations/sm083/sheet-v2.png"]),
+.sheet-crop[data-tile="1"]:has(>img[src*="illustrations/sm083/sheet-v2.png"]){clip-path:inset(0 0 7.5% 0)}
+.sheet-crop[data-tile="2"]>img[src*="illustrations/sm083/sheet-v2.png"],
+.sheet-crop[data-tile="3"]>img[src*="illustrations/sm083/sheet-v2.png"]{top:-92.5%!important}

@@ -1,0 +1,10 @@
+.feedback-foot-overlay text{font-family:'PingFang SC','Songti SC',sans-serif}
+.image-review-issue{margin:0;padding:14px 24px;background:#f5dfbc;border-bottom:1px solid #8a6a4c;color:#5d3b21;font-size:15px;line-height:1.6}
+.image-stage:has(img[src*="/sm089/first-person-"])>img{scale:.82;transform-origin:center}
+.image-stage:has(img[src*="/sm089/first-person-"])>img:not([data-flip-x="true"]){transform:none!important}
+.image-stage:has(img[src*="/sm089/first-person-"])>img[data-flip-x="true"]{transform:scaleX(-1)!important}
+.image-stage:has(img:is([src*="/sm086/"],[src*="/sm087/"]))>:is(.sheet-crop,img){scale:.82;transform-origin:center}
+.image-stage:has(img:is([src*="/sm086/"],[src*="/sm087/"]))>:is(.sheet-crop,img):not([data-flip-x="true"]){transform:none!important}
+.image-stage:has(img:is([src*="/sm086/"],[src*="/sm087/"]))>:is(.sheet-crop,img)[data-flip-x="true"]{transform:scaleX(-1)!important}
+.image-player:has(.feedback-foot-overlay) .image-phase-tabs{grid-template-columns:repeat(4,minmax(0,1fr))!important}
+@media(max-width:600px){.image-player:has(.feedback-foot-overlay) .image-phase-tabs{grid-template-columns:repeat(3,minmax(0,1fr))!important}}

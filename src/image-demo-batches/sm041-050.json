@@ -1,0 +1,679 @@
+{
+  "SM-041": {
+    "id": "SM-041",
+    "uid": "preview-4960094b-1769-4524-a796-70806c24324d",
+    "contentRevision": "b428f0ebd6cf2eb3",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm041/",
+    "poster": "sheet-v1.png",
+    "phases": [
+      {
+        "title": "接触 · 双手五指指腹",
+        "short": "接触",
+        "file": "sheet-v1.png",
+        "caption": "头自然直立，双手同时，五指张开成爪状，用指腹抓捏头皮。",
+        "alt": "头自然直立，双手同时，五指张开成爪状，用指腹抓捏头皮。",
+        "sourceStep": 0,
+        "tile": 0
+      },
+      {
+        "title": "放开 · 每次立即松开",
+        "short": "放开",
+        "file": "sheet-v1.png",
+        "caption": "每次抓完立即放开，不增加停留阶段。",
+        "alt": "每次抓完立即放开，不增加停留阶段。",
+        "sourceStep": 1,
+        "tile": 1
+      },
+      {
+        "title": "换处 · 继续覆盖头皮",
+        "short": "换处",
+        "file": "sheet-v1.png",
+        "caption": "继续在头皮其他位置抓捏、立即放开，直到整个头皮覆盖一遍；图中换处仅为示例，不规定顺序。",
+        "alt": "继续在头皮其他位置抓捏、立即放开，直到整个头皮覆盖一遍；图中换处仅为示例，不规定顺序。",
+        "sourceStep": 1,
+        "tile": 2
+      },
+      {
+        "title": "完成 · 整个头皮一遍",
+        "short": "覆盖",
+        "file": "sheet-v1.png",
+        "caption": "整个头皮覆盖一遍即完成。抓捏顺序、次数、总时长均无规定。",
+        "alt": "整个头皮覆盖一遍即完成。抓捏顺序、次数、总时长均无规定。",
+        "sourceStep": 2,
+        "tile": 3
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapAlt": "双手抓捏 → 立即放开 → 换处。五指指腹抓捏头皮各处，双手同时，完整覆盖一遍。",
+    "mapTitle": "双手抓捏 → 立即放开 → 换处",
+    "mapCaption": "五指指腹抓捏头皮各处，双手同时，完整覆盖一遍。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "双手五指抓捏头皮 · 动作要点",
+    "note": "不以指甲抓挠，也不把本项画成拉头发。覆盖范围不是固定点数或规定路线。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "五指指腹抓捏头皮各处，双手同时，完整覆盖一遍。",
+    "posterTile": 0,
+    "mapTile": 3
+  },
+  "SM-042": {
+    "id": "SM-042",
+    "uid": "preview-44568979-0fb0-492f-9d15-8d54a6fb1c43",
+    "contentRevision": "3b8a628e3e0217aa",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm042/",
+    "poster": "sheet-v2.png",
+    "phases": [
+      {
+        "title": "张指 · 从发根附近夹发",
+        "short": "张指",
+        "file": "sheet-v2.png",
+        "caption": "头自然直立，双手同时，五指张开，在靠近发根处让头发进入指缝。",
+        "alt": "头自然直立，双手同时，五指张开，在靠近发根处让头发进入指缝。",
+        "sourceStep": 0,
+        "tile": 0
+      },
+      {
+        "title": "合缝 · 向上提起",
+        "short": "上提",
+        "file": "sheet-v2.png",
+        "caption": "合拢指缝夹住头发后向上提，提起后停留 2–3 秒。图中发束从相邻手指之间穿出。",
+        "alt": "合拢指缝夹住头发后向上提，提起后停留 2–3 秒。图中发束从相邻手指之间穿出。",
+        "sourceStep": 1,
+        "tile": 1
+      },
+      {
+        "title": "松开 · 再换位置",
+        "short": "松开",
+        "file": "sheet-v2.png",
+        "caption": "停留结束后松开头发，再移到其他位置；不是握成拳攥住发束。",
+        "alt": "停留结束后松开头发，再移到其他位置；不是握成拳攥住发束。",
+        "sourceStep": 1,
+        "tile": 2
+      },
+      {
+        "title": "覆盖 · 整个头部一遍",
+        "short": "覆盖",
+        "file": "sheet-v2.png",
+        "caption": "换处继续，覆盖整个头部一遍。位置顺序、提拉次数和总时长均无规定。",
+        "alt": "换处继续，覆盖整个头部一遍。位置顺序、提拉次数和总时长均无规定。",
+        "sourceStep": 2,
+        "tile": 3
+      }
+    ],
+    "mapFile": "sheet-v2.png",
+    "mapAlt": "指缝夹发，上提后停 2–3 秒。双手同时，靠近发根夹发；松开后换处，覆盖整个头部。",
+    "mapTitle": "指缝夹发，上提后停 2–3 秒",
+    "mapCaption": "双手同时，靠近发根夹发；松开后换处，覆盖整个头部。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "指缝夹发上提 · 动作要点",
+    "note": "夹发部位是指缝；抓捏头皮与指缝夹发是两个不同动作。覆盖示意不规定点数与顺序。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "双手同时，靠近发根夹发；松开后换处，覆盖整个头部。",
+    "posterTile": 0,
+    "mapTile": 3
+  },
+  "SM-043": {
+    "id": "SM-043",
+    "uid": "preview-d011cb69-1e80-4f89-962c-bd0e33fb0a43",
+    "contentRevision": "33b79b77de0b701a",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm043/",
+    "poster": "sheet-front-v2.png",
+    "phases": [
+      {
+        "title": "手型 · 拇指与四指相对",
+        "short": "手型",
+        "file": "sheet-front-v2.png",
+        "caption": "背挺直、头自然直立。一只手从胸前伸向对侧肩膀，另一手自然下垂；指腹配合掌面，拇指与其余四指夹住肌肉。",
+        "alt": "背挺直、头自然直立。一只手从胸前伸向对侧肩膀，另一手自然下垂；指腹配合掌面，拇指与其余四指夹住肌肉。",
+        "sourceStep": 0,
+        "tile": 0
+      },
+      {
+        "title": "先后侧 · 靠近脖子和背部",
+        "short": "后侧",
+        "file": "sheet-front-v2.png",
+        "caption": "在靠近脖子和背部的肩后侧区域原位抓放 5–10 次，每次抓完立即松开，不停留。",
+        "alt": "在靠近脖子和背部的肩后侧区域原位抓放 5–10 次，每次抓完立即松开，不停留。",
+        "sourceStep": 1,
+        "tile": 0
+      },
+      {
+        "title": "再肩顶 · 稍远离脖子",
+        "short": "肩顶",
+        "file": "sheet-front-v2.png",
+        "caption": "再移到稍远离脖子、肩膀正上方的区域，原位抓放 5–10 次，每次立即松开。",
+        "alt": "再移到稍远离脖子、肩膀正上方的区域，原位抓放 5–10 次，每次立即松开。",
+        "sourceStep": 2,
+        "tile": 1
+      },
+      {
+        "title": "松开换侧 · 两区都做完",
+        "short": "换侧",
+        "file": "sheet-front-v2.png",
+        "caption": "同侧两个区域完成后再换手、换侧；另一侧仍先后侧再肩顶，各 5–10 次。左右完成一轮即结束。",
+        "alt": "同侧两个区域完成后再换手、换侧；另一侧仍先后侧再肩顶，各 5–10 次。左右完成一轮即结束。",
+        "sourceStep": 3,
+        "tile": 2
+      }
+    ],
+    "mapFile": "sheet-front-v2.png",
+    "mapAlt": "同侧先后侧、再肩顶，之后换侧。两个区域各原位抓放 5–10 次，每次立即松开。",
+    "mapTitle": "同侧先后侧、再肩顶，之后换侧",
+    "mapCaption": "两个区域各原位抓放 5–10 次，每次立即松开。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "对侧肩部两区域抓捏 · 动作要点",
+    "note": "操作手从胸前伸向对侧肩部。先靠近脖子和背部的肩后侧，再稍远离脖子的肩顶；单一区域原位抓放。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "两个区域各原位抓放 5–10 次，每次立即松开。",
+    "posterTile": 0,
+    "mapTile": 3
+  },
+  "SM-044": {
+    "id": "SM-044",
+    "uid": "preview-a862dbf9-14a0-4997-866d-dea9cac7d01b",
+    "contentRevision": "7b87887c895f492f",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm044/",
+    "poster": "pose-front-v4.png",
+    "phases": [
+      {
+        "title": "起势 · 手臂从颈前绕到后颈",
+        "short": "起势",
+        "file": "pose-front-v4.png",
+        "caption": "站立、背挺直。右臂横过颈前，右手绕到后颈；右肘在对侧肩前、接近肩高。左手接触右大臂下侧近肘部。",
+        "alt": "站立、背挺直。右臂横过颈前，右手绕到后颈；右肘在对侧肩前、接近肩高。左手接触右大臂下侧近肘部。",
+        "sourceStep": 0
+      },
+      {
+        "title": "后压转体 · 腿保持不动",
+        "short": "转体",
+        "file": "pose-turn-v4.png",
+        "caption": "左手向后按压右大臂下侧近肘部；从腰部向身体左侧转，头随身体一起转，腿不动。",
+        "alt": "左手向后按压右大臂下侧近肘部；从腰部向身体左侧转，头随身体一起转，腿不动。",
+        "sourceStep": 1
+      },
+      {
+        "title": "到位保持 · 5–10 秒",
+        "short": "保持",
+        "file": "pose-turn-v4.png",
+        "caption": "转到左侧后保持 5–10 秒；不是在这段时间里持续转圈。",
+        "alt": "转到左侧后保持 5–10 秒；不是在这段时间里持续转圈。",
+        "sourceStep": 2
+      },
+      {
+        "title": "回正松开 · 再重复",
+        "short": "回正",
+        "file": "pose-front-v4.png",
+        "caption": "身体回正后松开辅助按压，再重复。同侧 5–10 次后换侧；图示回正时的手臂位置。",
+        "alt": "身体回正后松开辅助按压，再重复。同侧 5–10 次后换侧；图示回正时的手臂位置。",
+        "sourceStep": 2
+      },
+      {
+        "title": "镜像换侧 · 整套一轮",
+        "short": "换侧",
+        "file": "pose-front-v4.png",
+        "caption": "换左臂从颈前绕到后颈，左肘在对侧肩前、接近肩高。右手向后按左大臂下侧近肘部，躯干和头向身体右侧转。保持 5–10 秒，同样 5–10 次。图示换侧后的起始手位。",
+        "alt": "换左臂从颈前绕到后颈，左肘在对侧肩前、接近肩高。右手向后按左大臂下侧近肘部，躯干和头向身体右侧转。保持 5–10 秒，同样 5–10 次。图示换侧后的起始手位。",
+        "sourceStep": 3,
+        "flipX": true
+      }
+    ],
+    "mapFile": "pose-front-v4.png",
+    "mapAlt": "右臂横过颈前绕到后颈，肘在对侧肩前，左手接触大臂下侧近肘部；箭头表示从腰部向身体左侧转。",
+    "mapTitle": "向后按压与从腰部转体，同时发生",
+    "mapCaption": "右臂从颈前绕到后颈，肘在对侧肩前、接近肩高；左手向后按大臂下侧近肘部，同时从腰部向身体左侧转，头随躯干、腿不动。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "屈臂后压与转体保持 · 动作要点",
+    "note": "肘在对侧肩前、接近肩高。辅助手接触大臂下侧近肘部，不是肘尖。每次保持后回正松开，同侧 5–10 次，再镜像换侧；整套一轮。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "右臂示例：向身体左侧转；到位保持 5–10 秒。"
+  },
+  "SM-045": {
+    "id": "SM-045",
+    "uid": "preview-acb0ad1e-77da-4671-bd14-a0f80c7349bc",
+    "contentRevision": "3e03ced290d281fb",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm045/",
+    "poster": "pose-v3.png",
+    "phases": [
+      {
+        "title": "起势 · 双臂在头后配合",
+        "short": "起势",
+        "file": "pose-v3.png",
+        "caption": "站立、背挺直、头自然直立，身体保持朝前。右手放后颈、右肘朝上；左臂在头后，左手握住右大臂下侧近肘部。",
+        "alt": "站立、背挺直、头自然直立，身体保持朝前。右手放后颈、右肘朝上；左臂在头后，左手握住右大臂下侧近肘部。",
+        "sourceStep": 0
+      },
+      {
+        "title": "预备按压 · 每侧开始时进行",
+        "short": "按压",
+        "file": "pose-v3.png",
+        "caption": "先用左手原位反复按压，放松右大臂肌肉。按压次数和时间无规定；每侧只在开始时进入这一阶段。",
+        "alt": "先用左手原位反复按压，放松右大臂肌肉。按压次数和时间无规定；每侧只在开始时进入这一阶段。",
+        "sourceStep": 1
+      },
+      {
+        "title": "侧向牵拉 · 保持 10 秒",
+        "short": "牵拉",
+        "file": "pose-v3.png",
+        "caption": "左手将右大臂连同手肘向身体左侧牵拉，保持 10 秒。图示起始手位，绿色箭头表示牵拉方向；身体朝前不转动。",
+        "alt": "左手将右大臂连同手肘向身体左侧牵拉，保持 10 秒。图示起始手位，绿色箭头表示牵拉方向；身体朝前不转动。",
+        "sourceStep": 2
+      },
+      {
+        "title": "松开回位 · 连续拉伸 2–3 次",
+        "short": "回位",
+        "file": "pose-v3.png",
+        "caption": "保持结束后松开牵拉、手臂回到起始位置。同侧连续拉伸 2–3 次；每次之间不重新增加预备按压。",
+        "alt": "保持结束后松开牵拉、手臂回到起始位置。同侧连续拉伸 2–3 次；每次之间不重新增加预备按压。",
+        "sourceStep": 3
+      },
+      {
+        "title": "换侧 · 重新预备后再拉伸",
+        "short": "换侧",
+        "file": "pose-v3.png",
+        "caption": "图中保留右侧起始手位。另一侧镜像：左手后颈、左肘向上，右手在头后握左大臂近肘部。先按压，再向身体右侧牵拉；每次 10 秒，共 2–3 次。",
+        "alt": "图中保留右侧起始手位。另一侧镜像：左手后颈、左肘向上，右手在头后握左大臂近肘部。先按压，再向身体右侧牵拉；每次 10 秒，共 2–3 次。",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "pose-v3.png",
+    "mapAlt": "每侧先按压放松，再连续侧向拉伸。身体始终朝前；每次拉伸保持 10 秒，同侧 2–3 次。",
+    "mapTitle": "每侧先按压放松，再连续侧向拉伸",
+    "mapCaption": "身体始终朝前；每次拉伸保持 10 秒，同侧 2–3 次。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "大臂按压放松与肩部侧向拉伸 · 动作要点",
+    "note": "采用一张经修正的起始手位图配方向分解。左手握近肘部的大臂肌肉；预备按压不设次数或时间。左右各完成后结束。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "身体始终朝前；每次拉伸保持 10 秒，同侧 2–3 次。"
+  },
+  "SM-046": {
+    "id": "SM-046",
+    "uid": "preview-b7902061-4a7f-4d86-9258-5309c5609fa0",
+    "contentRevision": "5959fc0595e7311e",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm046/",
+    "poster": "sheet-outer-v2.png",
+    "phases": [
+      {
+        "title": "大臂外侧 · 拇指指腹按压",
+        "short": "大臂",
+        "file": "sheet-outer-v2.png",
+        "caption": "手臂自然下垂，对侧手以拇指指腹发力按压大臂外侧，其余手指配合支撑。每点 3–5 次，松开后上下换点，覆盖整个区域，顺序无规定。",
+        "alt": "手臂自然下垂，对侧手以拇指指腹发力按压大臂外侧，其余手指配合支撑。每点 3–5 次，松开后上下换点，覆盖整个区域，顺序无规定。",
+        "sourceStep": 0,
+        "tile": 0
+      },
+      {
+        "title": "小臂外侧 · 拇指接触",
+        "short": "小臂",
+        "file": "sheet-outer-v2.png",
+        "caption": "手臂下垂、肘稍弯，对侧拇指指腹按小臂外侧，其余四指在下方支撑；图中手背与指关节朝向观者，帮助辨认外侧。",
+        "alt": "手臂下垂、肘稍弯，对侧拇指指腹按小臂外侧，其余四指在下方支撑；图中手背与指关节朝向观者，帮助辨认外侧。",
+        "sourceStep": 1,
+        "tile": 3
+      },
+      {
+        "title": "弯腰下压 · 每点 3–5 次",
+        "short": "下压",
+        "file": "sheet-outer-v2.png",
+        "caption": "上半身弯腰下压，通过拇指接触点发力。每点按压 3–5 次，松开再上下换点。",
+        "alt": "上半身弯腰下压，通过拇指接触点发力。每点按压 3–5 次，松开再上下换点。",
+        "sourceStep": 2,
+        "tile": 1
+      },
+      {
+        "title": "覆盖换侧 · 同侧两段做完",
+        "short": "换侧",
+        "file": "sheet-outer-v2.png",
+        "caption": "同侧大臂和小臂外侧都覆盖完成后再换侧；左右各一遍，整套一遍。范围图不规定点位数量或先后。",
+        "alt": "同侧大臂和小臂外侧都覆盖完成后再换侧；左右各一遍，整套一遍。范围图不规定点位数量或先后。",
+        "sourceStep": 3,
+        "tile": 2
+      }
+    ],
+    "mapFile": "sheet-outer-v2.png",
+    "mapAlt": "手背朝向观者的手臂外侧范围，大臂和小臂都以拇指指腹发力。",
+    "mapTitle": "大臂与小臂外侧：拇指指腹按压",
+    "mapCaption": "两段都在手臂外侧；每点 3–5 次，松开后换点。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "大臂外侧握压与小臂外侧拇指点压 · 动作要点",
+    "note": "大臂与小臂均由拇指指腹发力，橙色标记位于指腹与皮肤的接触边缘。小臂按外侧，其余四指支撑。每点 3–5 是按压次数，不是秒数。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "两段都在手臂外侧；每点 3–5 次，松开后换点。",
+    "posterTile": 0,
+    "mapTile": 2
+  },
+  "SM-047": {
+    "id": "SM-047",
+    "uid": "preview-e6a9a965-cc1c-4483-b859-a4e6a191a9be",
+    "contentRevision": "8fe7ffea54429cfc",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm047/",
+    "poster": "sheet-v1.png",
+    "phases": [
+      {
+        "title": "起势 · 掌心向上",
+        "short": "起势",
+        "file": "sheet-v1.png",
+        "caption": "手臂前伸、肘稍弯、掌心朝上，不用额外支撑。右手抓左大臂，拇指在内侧、其余四指在外侧。",
+        "alt": "手臂前伸、肘稍弯、掌心朝上，不用额外支撑。右手抓左大臂，拇指在内侧、其余四指在外侧。",
+        "sourceStep": 0,
+        "tile": 0
+      },
+      {
+        "title": "大臂 · 肩部连接处至肘",
+        "short": "大臂",
+        "file": "sheet-v1.png",
+        "caption": "右拇指指腹逐点按大臂内侧，从肩膀与大臂连接处依次向下到肘。每点 3–5 次，松开后再移点。",
+        "alt": "右拇指指腹逐点按大臂内侧，从肩膀与大臂连接处依次向下到肘。每点 3–5 次，松开后再移点。",
+        "sourceStep": 1,
+        "tile": 2
+      },
+      {
+        "title": "小臂 · 肘至手腕",
+        "short": "小臂",
+        "file": "sheet-v1.png",
+        "caption": "右拇指在上、四指在下，按左小臂内侧，从肘向手腕逐点推进；配合上半身弯腰下压，每点 3–5 次。",
+        "alt": "右拇指在上、四指在下，按左小臂内侧，从肘向手腕逐点推进；配合上半身弯腰下压，每点 3–5 次。",
+        "sourceStep": 2,
+        "tile": 1
+      },
+      {
+        "title": "松开换点 · 同侧完成再换侧",
+        "short": "换侧",
+        "file": "sheet-v1.png",
+        "caption": "每点做完先松开，再换点；同侧大臂、小臂全部完成后换手镜像操作另一侧。左右各覆盖一遍。",
+        "alt": "每点做完先松开，再换点；同侧大臂、小臂全部完成后换手镜像操作另一侧。左右各覆盖一遍。",
+        "sourceStep": 3,
+        "tile": 2
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapAlt": "手臂内侧：肩 → 肘，肘 → 腕。掌心朝上；每点拇指按压 3–5 次，松开后逐点推进。",
+    "mapTitle": "手臂内侧：肩 → 肘，肘 → 腕",
+    "mapCaption": "掌心朝上；每点拇指按压 3–5 次，松开后逐点推进。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "大臂与小臂内侧拇指按压 · 动作要点",
+    "note": "路径表示点位推进方向，不是拇指沿皮肤连续滑推，也不规定固定点数。小臂阶段配合弯腰下压。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "掌心朝上；每点拇指按压 3–5 次，松开后逐点推进。",
+    "posterTile": 0,
+    "mapTile": 2
+  },
+  "SM-048": {
+    "id": "SM-048",
+    "uid": "preview-c2ad17c2-fa78-40c4-9048-dacf8f8e69ca",
+    "contentRevision": "bd60ce24af7379aa",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm048/",
+    "poster": "pose-v4.png",
+    "phases": [
+      {
+        "title": "支撑 · 左小臂放左大腿",
+        "short": "支撑",
+        "file": "pose-v4.png",
+        "caption": "坐姿、双腿交叉。左小臂由左大腿支撑，掌心朝上；右肘肘尖接触左小臂内侧。",
+        "alt": "坐姿、双腿交叉。左小臂由左大腿支撑，掌心朝上；右肘肘尖接触左小臂内侧。",
+        "sourceStep": 0
+      },
+      {
+        "title": "先下压 · 肘尖接触",
+        "short": "下压",
+        "file": "pose-v4.png",
+        "caption": "用右肘肘尖先向下按压左小臂内侧。图中圆点标接触处，向下箭头只表示第一段动作。",
+        "alt": "用右肘肘尖先向下按压左小臂内侧。图中圆点标接触处，向下箭头只表示第一段动作。",
+        "sourceStep": 1
+      },
+      {
+        "title": "再前推 · 朝手心方向",
+        "short": "前推",
+        "file": "pose-v4.png",
+        "caption": "下压后，再向前、朝手心方向推。下压与前推合起来算一次，每个点位做 2–3 次。",
+        "alt": "下压后，再向前、朝手心方向推。下压与前推合起来算一次，每个点位做 2–3 次。",
+        "sourceStep": 1
+      },
+      {
+        "title": "抬肘换点 · 逐步朝手腕",
+        "short": "换点",
+        "file": "pose-v4.png",
+        "caption": "每点完成 2–3 次后抬起右肘，再移到下一个点。由靠近肘部开始逐点向手腕推进，覆盖小臂内侧。",
+        "alt": "每点完成 2–3 次后抬起右肘，再移到下一个点。由靠近肘部开始逐点向手腕推进，覆盖小臂内侧。",
+        "sourceStep": 2
+      },
+      {
+        "title": "镜像换侧 · 两侧各一遍",
+        "short": "换侧",
+        "file": "pose-v4.png",
+        "caption": "左侧完成后，用左肘肘尖操作右小臂，右小臂由右大腿支撑，仍掌心朝上。两侧各覆盖一遍；图示为左侧姿势。",
+        "alt": "左侧完成后，用左肘肘尖操作右小臂，右小臂由右大腿支撑，仍掌心朝上。两侧各覆盖一遍；图示为左侧姿势。",
+        "sourceStep": 3
+      }
+    ],
+    "mapFile": "pose-v4.png",
+    "mapAlt": "一次动作：先下压 → 再向掌心前推。每点 2–3 次；抬肘换点，由肘端逐点向手腕推进。",
+    "mapTitle": "一次动作：先下压 → 再向掌心前推",
+    "mapCaption": "每点 2–3 次；抬肘换点，由肘端逐点向手腕推进。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "肘部小臂下压与前推 · 动作要点",
+    "note": "肘尖、小臂、大腿依次接触。整段路径是换点推进方向；每个点上的“下压→前推”构成一个完整动作。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "每点 2–3 次；抬肘换点，由肘端逐点向手腕推进。"
+  },
+  "SM-049": {
+    "id": "SM-049",
+    "uid": "preview-a907c510-1a72-4064-87db-f31eb7265a3b",
+    "contentRevision": "f0c7b89c855189cf",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm049/",
+    "poster": "pose-two-arms-v2.png",
+    "phases": [
+      {
+        "title": "手位 · 四指托住手背",
+        "short": "手位",
+        "file": "pose-two-arms-v2.png",
+        "caption": "右手拇指指腹接触左掌，其余四指在左手手背侧支撑。",
+        "alt": "右手拇指指腹接触左掌，其余四指在左手手背侧支撑。",
+        "sourceStep": 0
+      },
+      {
+        "title": "分区 · 上下半掌各四线",
+        "short": "分区",
+        "file": "sheet-v1.png",
+        "caption": "上半掌是掌心至指根，下半掌是掌根至掌心。均对应食指、中指、无名指、小指四线，不包括拇指线；四线先后无规定。",
+        "alt": "上半掌是掌心至指根，下半掌是掌根至掌心。均对应食指、中指、无名指、小指四线，不包括拇指线；四线先后无规定。",
+        "sourceStep": 1,
+        "tile": 3
+      },
+      {
+        "title": "先上半掌 · 掌心推至指根",
+        "short": "上半掌",
+        "file": "sheet-v1.png",
+        "caption": "先沿上半掌四线推压，每线 2–3 次。每次到指根后抬起拇指、离肤回到掌心起点，再重复。",
+        "alt": "先沿上半掌四线推压，每线 2–3 次。每次到指根后抬起拇指、离肤回到掌心起点，再重复。",
+        "sourceStep": 2,
+        "tile": 3
+      },
+      {
+        "title": "再下半掌 · 掌根推至掌心",
+        "short": "下半掌",
+        "file": "sheet-v1.png",
+        "caption": "上半掌四线完成后，再从掌根向掌心推压下半掌四线，每线 2–3 次；每次推完抬指回起点。",
+        "alt": "上半掌四线完成后，再从掌根向掌心推压下半掌四线，每线 2–3 次；每次推完抬指回起点。",
+        "sourceStep": 3,
+        "tile": 3
+      },
+      {
+        "title": "换手 · 上下两区做完",
+        "short": "换手",
+        "file": "sheet-v1.png",
+        "caption": "一只手上下两区全部完成后，换手按相同方式操作。左右各完成后结束，整套一次。",
+        "alt": "一只手上下两区全部完成后，换手按相同方式操作。左右各完成后结束，整套一次。",
+        "sourceStep": 4,
+        "tile": 3
+      }
+    ],
+    "mapFile": "sheet-v1.png",
+    "mapAlt": "先上半掌四线，再下半掌四线。上区掌心 → 指根；下区掌根 → 掌心；每线 2–3 次。",
+    "mapTitle": "先上半掌四线，再下半掌四线",
+    "mapCaption": "上区掌心 → 指根；下区掌根 → 掌心；每线 2–3 次。",
+    "legend": [
+      "方向 / 范围",
+      "当前接触 / 要点"
+    ],
+    "legendKinds": [
+      "start",
+      "press"
+    ],
+    "noteTitle": "手掌上下分区四线拇指推压 · 动作要点",
+    "note": "上下两区分别操作，不合并为掌根至指根的一条长推。四线顺序没有规定；不画拇指路径。每次推完先抬指回位。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "上区掌心 → 指根；下区掌根 → 掌心；每线 2–3 次。",
+    "mapTile": 3
+  },
+  "SM-050": {
+    "id": "SM-050",
+    "uid": "preview-9a78b104-0e79-463c-9e2a-e34e9807ddf6",
+    "contentRevision": "9fca37dcfc141388",
+    "status": "draft",
+    "publication": "not-approved",
+    "overlayFamily": "head-arm-batch",
+    "folder": "./illustrations/sm050/",
+    "poster": "sheet-photo-v3.png",
+    "phases": [
+      {
+        "title": "交叉手指 · 拇指可以活动",
+        "short": "手位",
+        "file": "sheet-photo-v3.png",
+        "caption": "按图交叉双手：手指相互穿插、绕到对侧手背，掌心露出，拇指可以活动。保持交叉手位，再用右拇指指腹接触左掌。",
+        "alt": "按图交叉双手：手指相互穿插、绕到对侧手背，掌心露出，拇指可以活动。保持交叉手位，再用右拇指指腹接触左掌。",
+        "sourceStep": 0,
+        "tile": 0
+      },
+      {
+        "title": "原位转压 · 每点 3–5 圈",
+        "short": "转压",
+        "file": "sheet-photo-v3.png",
+        "caption": "保持交叉手位，右拇指指腹在左掌心逐点转压，每点 3–5 圈。螺旋表示转压，不规定顺逆时针。",
+        "alt": "保持交叉手位，右拇指指腹在左掌心逐点转压，每点 3–5 圈。螺旋表示转压，不规定顺逆时针。",
+        "sourceStep": 1,
+        "tile": 1
+      },
+      {
+        "title": "抬指换点 · 覆盖整个左掌",
+        "short": "换点",
+        "file": "../sm049/sheet-v1.png",
+        "caption": "每个点完成后先抬起拇指，再换下一个点。覆盖整个左掌，点位先后和点数无规定；此图为无遮挡范围示意，操作时保持交叉手位。",
+        "alt": "每个点完成后先抬起拇指，再换下一个点。覆盖整个左掌，点位先后和点数无规定；此图为无遮挡范围示意，操作时保持交叉手位。",
+        "sourceStep": 1,
+        "tile": 3,
+        "flipX": true
+      },
+      {
+        "title": "换手 · 右掌同样一遍",
+        "short": "换手",
+        "file": "../sm049/sheet-v1.png",
+        "caption": "左掌覆盖完成后换左拇指转压右掌，每点 3–5 圈、抬指换点。两掌各覆盖一遍，整套一次；图示范围不规定固定点数。",
+        "alt": "左掌覆盖完成后换左拇指转压右掌，每点 3–5 圈、抬指换点。两掌各覆盖一遍，整套一次；图示范围不规定固定点数。",
+        "sourceStep": 2,
+        "tile": 3,
+        "flipX": false
+      }
+    ],
+    "mapFile": "../sm049/sheet-v1.png",
+    "mapAlt": "左掌范围示意，底图与点位同步水平翻转；右掌在换手步骤单独展示。",
+    "mapTitle": "左掌范围示例 · 右掌同样覆盖",
+    "mapCaption": "这里展示左掌；换手步骤展示右掌。每点 3–5 圈，抬指后换点，两掌各覆盖一遍；操作时保持交叉手位。",
+    "legend": [
+      "方向 / 范围",
+      "转压 / 转按（螺旋）"
+    ],
+    "legendKinds": [
+      "start",
+      "spiral"
+    ],
+    "noteTitle": "十指交叉拇指掌心逐点转压 · 动作要点",
+    "note": "不规定旋转方向、固定点位或先后顺序。3–5 是圈数，不是秒数；范围图只解释覆盖区域，操作保持交叉手位。",
+    "playerNote": "自动翻页每页 6 秒，只用于看图，不是练习计时。示意图仍待动作复核；文字采用已确认步骤。",
+    "cardCaption": "每点 3–5 圈，抬指后换点；两掌各覆盖一遍。",
+    "posterTile": 0,
+    "mapTile": 3,
+    "mapFlipX": true
+  }
+}
