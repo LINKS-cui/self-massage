@@ -4,6 +4,7 @@
 
 - 在线体验：[GitHub Pages](https://links-cui.github.io/self-massage/)
 - 国内访问入口：[aihrzs.top/self-massage](https://aihrzs.top/self-massage/)
+- 原始素材：[教材动作素材 · 135 项完整图文](教材动作素材.md)；七批拆解合并为一份 Markdown，附教材原图、编号对应和中英文步骤，可用于制作自己的网站。
 - 功能：六组身体部位、编号目录、搜索、收藏、随机抽卡、人物步骤图、点位总览、分解姿势、放大与自动翻页、图例和方位教程。
 - 技术：React + TypeScript + Vite，纯静态页面；无需 API key、数据库或服务端。图片与字体随站点提供，浏览页面不请求外部字体/CDN。
 
@@ -26,7 +27,9 @@ npm run build    # 生成 dist/
 npm run preview  # 预览构建产物；先停止占用 4186 的开发服务器
 ```
 
-所有在用 PNG 图像、动作数据、SVG 标注组件和字体都包含在仓库内。无需另行获取图片，也不依赖 Git LFS。初次克隆包含约 532 MB 的素材，请等待下载完成。
+所有在用 PNG 图像、动作数据、SVG 标注组件和字体都包含在仓库内。无需另行获取图片，也不依赖 Git LFS。网站图片约 532 MB，教材参考图片约 79 MB，初次克隆请等待下载完成。
+
+只想使用教材素材时，阅读 [教材动作素材.md](教材动作素材.md)，保留该文件及 `materials/textbook/` 目录即可，不必安装网站依赖。文档按七个章节整理 135 项动作，每项保留教材编号、原图、中文步骤及英文译稿；公共规则集中说明，已删去重复问答、旧判断、待办和制作过程记录。
 
 可选浏览器检查：
 
@@ -51,8 +54,10 @@ npm run test:browser
 | `public/fonts/` | ZCOOL KuaiLe 字体与 OFL 许可 |
 | `assets-manifest.json` | 素材路径、大小、SHA-256 与许可 |
 | `.github/workflows/pages.yml` | 推送 main 后构建并部署 Pages |
+| `教材动作素材.md` | 七批拆解整理后的 135 项动作，含目录与中英文步骤 |
+| `materials/textbook/` | 文档引用的教材动作裁图、整页原图及补充参考图 |
 
-历史候选图片、原教材扫描、私有工作快照、账户配置、本机日志和 node_modules 不属于发布内容；它们也不是构建或运行网页的依赖。
+教材参考图作为仓库中的独立素材提供，不参与插画版网站构建。历史候选图片、工作快照、账户配置、本机日志和 node_modules 不属于发布内容。
 
 ## 部署到 GitHub Pages
 
@@ -75,8 +80,8 @@ GitHub Pages 的网络可达性取决于地区和运营商，不能把部署成�
 ## 开源许可
 
 - **代码、构建脚本和工程说明：MIT**，见 [LICENSE](LICENSE)。
-- **动作文字、图解说明及原创图像/图解作品：CC BY 4.0**，见 [CONTENT-LICENSE.md](CONTENT-LICENSE.md) 和 [完整许可](LICENSE-CONTENT.txt)。
+- **动作文字、图解说明、原创图像/图解作品，以及随附的教材原图和补充图：CC BY 4.0**，见 [CONTENT-LICENSE.md](CONTENT-LICENSE.md) 和 [完整许可](LICENSE-CONTENT.txt)。
 - **ZCOOL KuaiLe 字体：SIL OFL 1.1**，见 [字体许可](public/fonts/OFL.txt)。
 - 第三方 npm 依赖保留各自许可，见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
 
-转载请署名 **LINKS-cui / Self Massage**，链接本仓库和对应许可，并标明修改。
+转载请署名 **LINKS-cui / Self Massage**，链接本仓库和对应许可，并标明修改；教材原图内已有的原作者署名也应保留。
