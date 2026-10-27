@@ -71,7 +71,7 @@ npm run test:browser
 
 `base: './'` 与 hash 路由使构建产物可放在域名根目录或子目录。部署时应上传完整的 `dist/`。GitHub Pages 备用站不配置自定义域名；`massage.aihrzs.top` 独立绑定在 EdgeOne 上。
 
-GitHub Pages 的网络可达性取决于地区和运营商，不能把部署成功等同于中国大陆所有网络均可稳定直连。EdgeOne 主站当前采用直接上传部署，推送 GitHub 不会自动更新它；更新步骤见 [部署说明](DEPLOYMENT.md)。
+GitHub Pages 的网络可达性取决于地区和运营商，不能把部署成功等同于中国大陆所有网络均可稳定直连。EdgeOne 主站关联本仓库的 `main` 分支，推送后自动测试、构建并更新 `massage.aihrzs.top`，无需手动上传；配置和更新步骤见 [部署说明](DEPLOYMENT.md)。
 
 ## 图文与内容状态
 
